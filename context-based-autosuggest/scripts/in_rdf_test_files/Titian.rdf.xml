@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:ns8="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Tribute_Money_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pesaro_Madonna">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piet%C3%A0_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Francis">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Tiziano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/티치아노">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Tycjan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Ticiano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Charles_V_with_a_Dog">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vecellio_Titian">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bacchus_and_Ariadne">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St._Mark_Enthroned">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Τιτσιάνο">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Titien">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ティツィアーノ・ヴェチェッリオ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Тициан">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anthony_van_Dyck">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Paul_Rubens">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venus_Anadyomene_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Titian">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ItalianPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromTheProvinceOfBelluno" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/KnightsOfTheGoldenSpur" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RenaissancePainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Knight110238375" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/VenetianPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/ทิเชียน" />
+    <owl:sameAs rdf:resource="http://purl.org/collections/nl/am/p-16928" />
+    <owl:sameAs rdf:resource="http://vls.dbpedia.org/resource/Titiaan" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Ticiano" />
+    <owl:sameAs rdf:resource="http://qu.dbpedia.org/resource/Tiziano" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q47551" />
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Тицијан" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Տիցիան" />
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Tiziano_Vecelli" />
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/تیتیان" />
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Titian" />
+    <owl:sameAs rdf:resource="http://se.dbpedia.org/resource/Titian" />
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Тициан" />
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/Titiaan" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Тициан" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Ticià" />
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Tiziano_Vecellio" />
+    <owl:sameAs rdf:resource="http://be_x_old.dbpedia.org/resource/Тыцыян" />
+    <owl:sameAs rdf:resource="http://sq.dbpedia.org/resource/Ticiani" />
+    <owl:sameAs rdf:resource="http://arz.dbpedia.org/resource/تيتيان" />
+    <owl:sameAs rdf:resource="http://lad.dbpedia.org/resource/Tiziano" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Titian" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Tiziano" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/ടിഷ്യൻ_വെസല്ലി" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Titiaan" />
+    <owl:sameAs rdf:resource="http://purl.org/collections/nl/am/p-41838" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Tiziano" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/提香" />
+    <owl:sameAs rdf:resource="http://bo.dbpedia.org/resource/ཌི་ཛི་ཨ་ནོ་ཝ་ཅེ་ལི་ཡོ།" />
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Titianus_Vecellii" />
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Тицијан_Вечели" />
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Tycjan" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0144mv" />
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Titian" />
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Tiziano" />
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Titian" />
+    <owl:sameAs rdf:resource="http://kk.dbpedia.org/resource/Тициан" />
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Тыцыян" />
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Tiziano_Vecelli" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Tiziano" />
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/تيتيان" />
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Tiziano_Vecelli" />
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Tiziano_Vecellio" />
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Tisiano_Veçelli" />
+    <owl:sameAs rdf:resource="http://als.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τιτσιάνο" />
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Titian" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ティツィアーノ・ヴェチェッリオ" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Ticiano" />
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Tiziano_Vecelli" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Titien" />
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/ტიციანი" />
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Tiziano" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/티치아노" />
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/טיציאן" />
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Ticiāns" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Tizian" />
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Тиціан" />
+    <owl:sameAs rdf:resource="http://my.dbpedia.org/resource/တစ်ရှန်" />
+    <owl:sameAs rdf:resource="http://mi.dbpedia.org/resource/Titian" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_the_Province_of_Belluno" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Knights_of_the_Golden_Spur" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Italian_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Renaissance_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Italian_Roman_Catholics" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Venetian_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Titian" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1480s_births" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1576_deaths" />
+    <dbpedia-owl:abstract xml:lang="de">Tizian gilt als der führende Vertreter der venezianischen Malerei des 16. Jahrhunderts und einer der Hauptmeister der italienischen Hochrenaissance. Zu Lebzeiten wurde er oft nach seinem Geburtsort Da Cadore genannt. Sein Schaffen fiel in das Goldene Zeitalter der venezianischen Malerei, als die Serenissima ihre wirtschaftliche und kulturelle Blütezeit erlebte. Schon als neunjähriges Kind kam Tizian nach Venedig und wurde von den Brüdern Gentile und Giovanni Bellini ausgebildet. 1513 eröffnete er in San Samuele seine eigene Werkstatt und entwickelte sich zu einem europaweit gefeierten Künstler. 1533 wurde er von Kaiser Karl V. in den Adelsstand erhoben und zu dessen Hofmaler ernannt. 1545 reiste Tizian auf Einladung von Papst Paul III. nach Rom, 1548 und 1550 begleitete er Karl V. sowie dessen Sohn Philipp II. auf die Reichstage zu Augsburg. Als Tizian in hohem Alter 1576 an der Pest starb, war er der wohl erfolgreichste Maler der venezianischen Geschichte. Von seinen Zeitgenossen als „Die Sonne unter den Sternen“ bezeichnet, war Tizian einer der vielseitigsten und mit insgesamt 646 Werken auch produktivsten italienischen Maler seiner Zeit. Er malte sowohl Porträts als auch Landschaften, mythologische und religiöse Themen. Zu seinen bekanntesten Arbeiten zählen Himmlische und irdische Liebe, Mariä Verkündigung, Madonna der Familie Pesaro, Venus von Urbino und Toilette der Venus. Charakteristisch für seine Werke ist sein ausgeprägter Kolorismus, den er sein Leben lang beibehielt. Gegen Ende seines langen Lebens vollzog er dann einen drastischen Stilbruch, der bereits zum Barock hinführt und den viele Kunsthistoriker als eine Rückkehr zu sich selbst sehen. Bereits zu Lebzeiten waren Tizians Werke in allen wichtigen Sammlungen vertreten, wie etwa in den Vatikanischen Museen. Auch die Herrscherfamilien der Hocharistokratie, unter anderem die d’Este, Gonzaga, Farnese und die Habsburger, kauften zahlreiche Werke für ihre Sammlungen auf. Tizians Werke wurden, ebenso noch zu Lebzeiten, durch etliche Stiche und Kopien rezipiert. Namhafte Maler des 16. Jahrhunderts wie Lambert Sustris oder Jacopo Tintoretto wurden stark von Tizian beeinflusst. Seine Malweise und besonders seine Farbgebung sollten aber nicht nur auf seine Zeitgenossen, sondern auch auf zukünftige Generationen von Malern einen starken Einfluss haben. Der Bogen der von ihm beeinflussten Maler spannt sich dabei von Peter Paul Rubens über Antoine Watteau bis hin zu Eugene Delacroix.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="sv">Tizian, italienska Tiziano eller Tiziano Vecellio, födelsedatum omtvistat, någon gång mellan 1473 och 1490, troligtvis mellan 1488 och 1490, i Pieve di Cadore, Italien, död 27 augusti 1576 i Venedig, var en italiensk målare, verksam i Venedig. Tizian var den venetianska högrenässansens portalgestalt.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">提齊安諾·維伽略（Tiziano Vecellio，1490年－1576年8月27日），英語系國家常稱呼為提香（Titian），他是意大利文艺复兴后期威尼斯画派的代表画家。 提香出生于意大利东北部阿尔卑斯山地区的卡多列，10岁时随兄长到威尼斯，在乔瓦尼·贝利尼的画室学画，与画家乔尔乔内是同学。 提香的早期作品受拉斐爾·聖齊奧和米开朗基罗影响很深，以后他的作品比起文艺复兴鼎盛时期画家的作品，更重视色彩的运用，对后来的画家如鲁本斯和普桑都有很大的影响。他的作品构思大胆，气势雄伟，构图严谨，色彩丰富、鲜艳。 提香青年时代在人文主义思想的主导下，继承和发展了威尼斯派的绘画艺术，把油画的色彩、造型和笔触的运用推进到新的阶段，画中所含的情感饱满而深刻，作为乔尔乔涅的助手帮助画了《沉睡的维纳斯》后面的风景。在宗教画《纳税银》和《圣母升天》中反映了新兴资产阶级的道德观念。《爱神节》、《酒神与阿丽亚德尼公主》等神话题材的作品，洋溢着欢欣的情调和旺盛的生命力。但在1533年查理五世封他为授以贵族称号后，则画了《西班牙拯救了宗教》和《菲力二世把初生的太子唐·斐迪南献给胜利之神》等趋逢权贵的作品。 提香曾应教皇保罗三世和神圣罗马帝国皇帝查理五世的邀请到罗马和皇帝的宫廷中画了许多肖像画。但他漫长的一生主要都在威尼斯度过的，留下了大量的作品。他主要的作品是一些宗教和古罗马神话的题材，充满戏剧性的气氛和动感的人体线条。 提香的肖像画能揭示人物内心世界。中年画风细致，稳健有力，色彩明亮；晚年则笔势豪放，色调单纯而富于变化。在油画技法和绘画风格上对后期欧洲油画的发展，有较大影响。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Tiziano Vecellio ou Tiziano Vecelli ou Tiziano da Cador, plus communément appelé Titien ou Le Titien en français, né vers 1488 à Pieve di Cadore, mort le 27 août 1576 à Venise, est un peintre italien de l&#39;école vénitienne, auteur d&#39;une importante œuvre picturale. Il est considéré comme un des plus grands portraitistes de cette époque, notamment grâce à son habileté à faire ressortir les traits de caractère des personnages. « Il libère aussi la peinture des contraintes de la ligne et de la forme où elle était emprisonnée depuis le Moyen Âge finissant, et cela pour donner tout pouvoir à la couleur.  » « Le Titien alliait la grandeur et le côté terrible de Michel-Ange à la grâce et élégance de Raphaël et aux couleurs propres à la nature » — Ludovico Dolce</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">Tiziano Vecellio o Vecelli, conocido tradicionalmente en español como Tiziano o Ticiano, fue un pintor italiano del Renacimiento, uno de los mayores exponentes de la Escuela veneciana. Reconocido por sus contemporáneos como "el sol entre las estrellas", Tiziano es uno de los más versátiles pintores italianos, igualmente capacitado para ejecutar retratos, paisajes (dos de los temas que le lanzaron a la fama), escenas mitológicas o cuadros de temática religiosa. Tuvo una larga y dilatada carrera, y su obra atravesó muchas y diferentes etapas, en las que su estilo cambió tan drásticamente que algunos críticos tienen problemas para creer que los cuadros de su primera etapa y los de las posteriores hayan salido de la misma mano. En cualquier caso, el conjunto de su obra se caracteriza por el uso del color, vívido y luminoso, con una pincelada suelta y una delicadeza en las modulaciones cromáticas sin precedentes en la Historia del Arte occidental.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">Tycjan, właśc. Tiziano Vecelli lub Vecellio – włoski malarz, czołowy przedstawiciel szkoły weneckiej włoskiego malarstwa renesansowego. Uczeń Giovanniego Belliniego oraz Giorgiona. Od imienia artysty wywodzi się słowo tycjanowski używane na określenie koloru rudopomarańczowego, często przezeń wykorzystywanego w obrazach.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Artista innovatore e poliedrico, maestro con Giorgione del colore tonale, Tiziano Vecellio fu uno dei pochi pittori italiani titolari di una vera e propria azienda, accorto imprenditore della bottega oltre che della sua personale produzione, direttamente a contatto con i potenti dell&#39;epoca, suoi maggiori committenti. Il rinnovamento della pittura di cui fu autore, si basò, in alternativa al michelangiolesco «primato del disegno», sull&#39;uso personalissimo del colore. Tiziano usò la forza espressiva del colore materico e poi, entrando nella piena maturità, abbandonò la spazialità bilanciata, il carattere solare e fastoso del colore del Rinascimento, assumendo il dinamismo proprio del manierismo e giocando con libertà nelle variazioni cromatiche in cui il colore era reso "più duttile, più sensibile agli effetti della luce".</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Ticiano Vecellio ou Vecelli, em italiano Tiziano Vecellio, foi um dos principais representantes da escola veneziana no Renascimento antecipando diversas características do Barroco e até do Modernismo. Ele também é conhecido como Tizian Vecellio De Gregorio, Tiziano, Titian ou ainda como Titien. Reconhecido pelos seus contemporâneos como "o sol entre as estrelas", Ticiano foi um dos mais versáteis pintores italianos, igualmente bom em retratos ou paisagens, temas mitológicos ou religiosos. Se tivesse morrido cedo, teria sido conhecido como um dos mais influentes artistas do seu tempo, mas como viveu quase um século, mudando tão drasticamente seu modo de pintar, vários críticos demoram a acreditar se tratar do mesmo artista. O que une as duas partes de sua obra é seu profundo interesse pela cor, sua modulação policromática é sem precedentes na arte ocidental.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">ティツィアーノ・ヴェチェッリオ（伊: Tiziano Vecellio、1488年/1490年頃 - 1576年8月27日）は、盛期ルネサンスのイタリア人画家。ヴェネツィア派で最も重要な画家の一人である。ヴェネツィア共和国ベッルーノ近郊のピエーヴェ・ディ・カドーレに生まれ、その生誕地から「ダ・カドーレ (da Cadore)」と呼ばれることもあった。 ティツィアーノは同時代の人々からダンテ・アリギエーリの著作『神曲』からの引用である『星々を従える太陽』と呼ばれていた。肖像、風景、古代神話、宗教などあらゆる絵画分野に秀で、ヴェネツィア派でもっとも重要なイタリア人画家の一人となっている。ティツィアーノの絵画技法は筆使いと色彩感覚に特徴があり、イタリアルネサンスの芸術家だけではなく、次世代以降の西洋絵画にも大きな影響を与えた。 ティツィアーノは長命な画家で、その作風は年代とともに大きく変化しているが、その生涯を通じて独特の色彩感覚は変わることがなかった。円熟期のティツィアーノの絵画は色鮮やかとはいえないものもあるが、初期の作品の色調は明るく、奔放な筆使いと繊細で多様な色使いは、それまでの西洋絵画に前例のない革新的なものだった。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Titiaan, eigenlijk Tiziano Vecelli of Vecellio, was een van de belangrijkste kunstschilders van de Hoogrenaissance.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Tiziano Vecelli or Tiziano Vecellio (c. 1488/1490 – 27 August 1576) known in English as Titian was an Italian painter, the most important member of the 16th-century Venetian school. He was born in Pieve di Cadore, near Belluno, in the Republic of Venice. During his lifetime he was often called da Cadore, taken from the place of his birth. Recognized by his contemporaries as "The Sun Amidst Small Stars" (recalling the famous final line of Dante&#39;s Paradiso), Titian was one of the most versatile of Italian painters, equally adept with portraits, landscape backgrounds, and mythological and religious subjects. His painting methods, particularly in the application and use of color, would exercise a profound influence not only on painters of the Italian Renaissance, but on future generations of Western art. During the course of his long life, Titian&#39;s artistic manner changed drastically but he retained a lifelong interest in color. Although his mature works may not contain the vivid, luminous tints of his early pieces, their loose brushwork and subtlety of polychromatic modulations are without precedent in the history of Western art.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Тициа́н Вече́ллио — итальянский живописец эпохи Возрождения. Имя Тициана стоит в одном ряду с такими художниками Возрождения, как Микеланджело, Леонардо да Винчи и Рафаэль. Тициан писал картины на библейские и мифологические сюжеты, прославился он и как портретист. Ему делали заказы короли и римские папы, кардиналы, герцоги и князья. Тициану не было и тридцати лет, когда его признали лучшим живописцем Венеции. По месту рождения его иногда называют да Кадоре; известен также как Тициан Божественный. Тициан родился в семье Грегорио Вечеллио, государственного и военного деятеля. Точная дата его рождения не известна. Когда Тициан уже был в пожилом возрасте, он указал в своём письме к Филиппу II, что родился в 1474 году, но это маловероятно. Писатели-современники, жившие во времена уже пожилого Тициана, дают данные года рождения, варьирующиеся между 1473 и 1482 годами. Большинство современных исследователей считают, что наиболее вероятной датой рождения Тициана является 1490 год. Нью-Йоркский музей Метрополитен и Исследовательский институт Гетти придерживается даты 1488 года .</dbpedia-owl:abstract>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Pieve_di_Cadore" />
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1576-08-27</dbpedia-owl:deathDate>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Venice" />
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Painting" />
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance" />
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Italians" />
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Giovanni_Bellini" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154239</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547480907</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="de">Tizian</rdfs:label>
+    <rdfs:label xml:lang="sv">Tizian</rdfs:label>
+    <rdfs:label xml:lang="pl">Tycjan</rdfs:label>
+    <rdfs:label xml:lang="es">Tiziano</rdfs:label>
+    <rdfs:label xml:lang="it">Tiziano</rdfs:label>
+    <rdfs:label xml:lang="ru">Тициан</rdfs:label>
+    <rdfs:label xml:lang="en">Titian</rdfs:label>
+    <rdfs:label xml:lang="zh">提香</rdfs:label>
+    <rdfs:label xml:lang="nl">Titiaan</rdfs:label>
+    <rdfs:label xml:lang="pt">Ticiano</rdfs:label>
+    <rdfs:label xml:lang="ja">ティツィアーノ・ヴェチェッリオ</rdfs:label>
+    <rdfs:label xml:lang="fr">Titien</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/53/Tizian_090.jpg" />
+    <rdfs:comment xml:lang="es">Tiziano Vecellio o Vecelli, conocido tradicionalmente en español como Tiziano o Ticiano, fue un pintor italiano del Renacimiento, uno de los mayores exponentes de la Escuela veneciana. Reconocido por sus contemporáneos como "el sol entre las estrellas", Tiziano es uno de los más versátiles pintores italianos, igualmente capacitado para ejecutar retratos, paisajes (dos de los temas que le lanzaron a la fama), escenas mitológicas o cuadros de temática religiosa.</rdfs:comment>
+    <rdfs:comment xml:lang="sv">Tizian, italienska Tiziano eller Tiziano Vecellio, födelsedatum omtvistat, någon gång mellan 1473 och 1490, troligtvis mellan 1488 och 1490, i Pieve di Cadore, Italien, död 27 augusti 1576 i Venedig, var en italiensk målare, verksam i Venedig. Tizian var den venetianska högrenässansens portalgestalt.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">提齊安諾·維伽略（Tiziano Vecellio，1490年－1576年8月27日），英語系國家常稱呼為提香（Titian），他是意大利文艺复兴后期威尼斯画派的代表画家。 提香出生于意大利东北部阿尔卑斯山地区的卡多列，10岁时随兄长到威尼斯，在乔瓦尼·贝利尼的画室学画，与画家乔尔乔内是同学。 提香的早期作品受拉斐爾·聖齊奧和米开朗基罗影响很深，以后他的作品比起文艺复兴鼎盛时期画家的作品，更重视色彩的运用，对后来的画家如鲁本斯和普桑都有很大的影响。他的作品构思大胆，气势雄伟，构图严谨，色彩丰富、鲜艳。 提香青年时代在人文主义思想的主导下，继承和发展了威尼斯派的绘画艺术，把油画的色彩、造型和笔触的运用推进到新的阶段，画中所含的情感饱满而深刻，作为乔尔乔涅的助手帮助画了《沉睡的维纳斯》后面的风景。在宗教画《纳税银》和《圣母升天》中反映了新兴资产阶级的道德观念。《爱神节》、《酒神与阿丽亚德尼公主》等神话题材的作品，洋溢着欢欣的情调和旺盛的生命力。但在1533年查理五世封他为授以贵族称号后，则画了《西班牙拯救了宗教》和《菲力二世把初生的太子唐·斐迪南献给胜利之神》等趋逢权贵的作品。 提香曾应教皇保罗三世和神圣罗马帝国皇帝查理五世的邀请到罗马和皇帝的宫廷中画了许多肖像画。但他漫长的一生主要都在威尼斯度过的，留下了大量的作品。他主要的作品是一些宗教和古罗马神话的题材，充满戏剧性的气氛和动感的人体线条。 提香的肖像画能揭示人物内心世界。中年画风细致，稳健有力，色彩明亮；晚年则笔势豪放，色调单纯而富于变化。在油画技法和绘画风格上对后期欧洲油画的发展，有较大影响。</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Titiaan, eigenlijk Tiziano Vecelli of Vecellio, was een van de belangrijkste kunstschilders van de Hoogrenaissance.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Ticiano Vecellio ou Vecelli, em italiano Tiziano Vecellio, foi um dos principais representantes da escola veneziana no Renascimento antecipando diversas características do Barroco e até do Modernismo. Ele também é conhecido como Tizian Vecellio De Gregorio, Tiziano, Titian ou ainda como Titien. Reconhecido pelos seus contemporâneos como "o sol entre as estrelas", Ticiano foi um dos mais versáteis pintores italianos, igualmente bom em retratos ou paisagens, temas mitológicos ou religiosos.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Tycjan, właśc. Tiziano Vecelli lub Vecellio – włoski malarz, czołowy przedstawiciel szkoły weneckiej włoskiego malarstwa renesansowego. Uczeń Giovanniego Belliniego oraz Giorgiona. Od imienia artysty wywodzi się słowo tycjanowski używane na określenie koloru rudopomarańczowego, często przezeń wykorzystywanego w obrazach.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Tiziano Vecellio ou Tiziano Vecelli ou Tiziano da Cador, plus communément appelé Titien ou Le Titien en français, né vers 1488 à Pieve di Cadore, mort le 27 août 1576 à Venise, est un peintre italien de l&#39;école vénitienne, auteur d&#39;une importante œuvre picturale. Il est considéré comme un des plus grands portraitistes de cette époque, notamment grâce à son habileté à faire ressortir les traits de caractère des personnages.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ティツィアーノ・ヴェチェッリオ（伊: Tiziano Vecellio、1488年/1490年頃 - 1576年8月27日）は、盛期ルネサンスのイタリア人画家。ヴェネツィア派で最も重要な画家の一人である。ヴェネツィア共和国ベッルーノ近郊のピエーヴェ・ディ・カドーレに生まれ、その生誕地から「ダ・カドーレ (da Cadore)」と呼ばれることもあった。 ティツィアーノは同時代の人々からダンテ・アリギエーリの著作『神曲』からの引用である『星々を従える太陽』と呼ばれていた。肖像、風景、古代神話、宗教などあらゆる絵画分野に秀で、ヴェネツィア派でもっとも重要なイタリア人画家の一人となっている。ティツィアーノの絵画技法は筆使いと色彩感覚に特徴があり、イタリアルネサンスの芸術家だけではなく、次世代以降の西洋絵画にも大きな影響を与えた。 ティツィアーノは長命な画家で、その作風は年代とともに大きく変化しているが、その生涯を通じて独特の色彩感覚は変わることがなかった。円熟期のティツィアーノの絵画は色鮮やかとはいえないものもあるが、初期の作品の色調は明るく、奔放な筆使いと繊細で多様な色使いは、それまでの西洋絵画に前例のない革新的なものだった。</rdfs:comment>
+    <rdfs:comment xml:lang="it">Artista innovatore e poliedrico, maestro con Giorgione del colore tonale, Tiziano Vecellio fu uno dei pochi pittori italiani titolari di una vera e propria azienda, accorto imprenditore della bottega oltre che della sua personale produzione, direttamente a contatto con i potenti dell&#39;epoca, suoi maggiori committenti. Il rinnovamento della pittura di cui fu autore, si basò, in alternativa al michelangiolesco «primato del disegno», sull&#39;uso personalissimo del colore.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Tiziano Vecelli or Tiziano Vecellio (c. 1488/1490 – 27 August 1576) known in English as Titian was an Italian painter, the most important member of the 16th-century Venetian school. He was born in Pieve di Cadore, near Belluno, in the Republic of Venice. During his lifetime he was often called da Cadore, taken from the place of his birth.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Tizian gilt als der führende Vertreter der venezianischen Malerei des 16. Jahrhunderts und einer der Hauptmeister der italienischen Hochrenaissance. Zu Lebzeiten wurde er oft nach seinem Geburtsort Da Cadore genannt. Sein Schaffen fiel in das Goldene Zeitalter der venezianischen Malerei, als die Serenissima ihre wirtschaftliche und kulturelle Blütezeit erlebte. Schon als neunjähriges Kind kam Tizian nach Venedig und wurde von den Brüdern Gentile und Giovanni Bellini ausgebildet.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Тициа́н Вече́ллио — итальянский живописец эпохи Возрождения. Имя Тициана стоит в одном ряду с такими художниками Возрождения, как Микеланджело, Леонардо да Винчи и Рафаэль. Тициан писал картины на библейские и мифологические сюжеты, прославился он и как портретист. Ему делали заказы короли и римские папы, кардиналы, герцоги и князья. Тициану не было и тридцати лет, когда его признали лучшим живописцем Венеции.</rdfs:comment>
+    <foaf:name xml:lang="en">Titian</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tizian_090.jpg/200px-Tizian_090.jpg" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.titian-tizianovecellio.org/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://musee.louvre.fr/oal/viergeaulapinTitien/viergeaulapinTitien_acc_en.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://merovingio.c2rmf.cnrs.fr/iipimage/ENI_Tiziano/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.co.uk/books?id=nNxVU2khKfcC&amp;pg=PA43&amp;dq=Titian+Vasari+learning+how+to+paint&amp;lr=&amp;as_brr=3#PPA58,M1" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.art-drawing.ru/biographies/brief-biographies/1457-tiziano-vecellio" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.aiwaz.net/panopticon/titian/gc207" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.christies.com/presscenter/pdf/09162005/09162005b.pdf" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.archive.org/details/earlyworkoftitia00belluoft" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nybooks.com/articles/22353" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wga.hu/frames-e.html?/html/t/tiziano/index.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.nationalgallery.org.uk/paintings/titian-portrait-of-gerolamo-barbarigo" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artcyclopedia.com/artists/titian.html" />
+    <dbpprop:alternativeNames xml:lang="en">Vecelli, Tiziano; Vecellio, Tiziano</dbpprop:alternativeNames>
+    <dbpprop:bgcolour xml:lang="en">#EEDD82</dbpprop:bgcolour>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1488</dbpprop:birthDate>
+    <dbpprop:birthName xml:lang="en">Tiziano Vecelli</dbpprop:birthName>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Pieve_di_Cadore" />
+    <dbpprop:caption xml:lang="en">Titian Self-Portrait, c.1567; Museo del Prado, Madrid</dbpprop:caption>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1485</dbpprop:dateOfBirth>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</dbpprop:dateOfDeath>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1576-08-27</dbpprop:deathDate>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Venice" />
+    <dbpprop:field rdf:resource="http://dbpedia.org/resource/Painting" />
+    <dbpprop:gnd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118622994</dbpprop:gnd>
+    <dbpprop:lccn xml:lang="en">n/79/074519</dbpprop:lccn>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/High_Renaissance" />
+    <dbpprop:name xml:lang="en">Titian</dbpprop:name>
+    <dbpprop:nationality rdf:resource="http://dbpedia.org/resource/Italians" />
+    <dbpprop:placeOfBirth xml:lang="en">Pieve di Cadore, Italy</dbpprop:placeOfBirth>
+    <dbpprop:placeOfDeath xml:lang="en">Venice</dbpprop:placeOfDeath>
+    <dbpprop:shortDescription xml:lang="en">Italian painter</dbpprop:shortDescription>
+    <dbpprop:training rdf:resource="http://dbpedia.org/resource/Giovanni_Bellini" />
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109266837</dbpprop:viaf>
+    <dbpprop:works xml:lang="en">Venus of Urbino</dbpprop:works>
+    <dbpprop:works xml:lang="en">Pesaro Madonna</dbpprop:works>
+    <dbpprop:works rdf:resource="http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)" />
+    <foaf:homepage rdf:resource="http://musee.louvre.fr/oal/viergeaulapinTitien/viergeaulapinTitien_acc_en.html" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-artist-noun-1" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Titian" />
+    <dc:description xml:lang="en">Italian painter</dc:description>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Titian?oldid=547480907" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balbi_Holy_Conversation">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_and_Actaeon_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Charles_V_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Martyrdom_of_Saint_Lawrence_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Tiziano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vecellio">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Schiavona">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_a_Young_Englishman">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Madonna_of_the_Rabbit">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venus_of_Urbino">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Man_with_a_Quilted_Sleeve">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Equestrian_Portrait_of_Charles_V">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penitent_Magdalene_(Titian,_1533)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Feast_of_the_Gods">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Young_Woman_in_a_Black_Dress">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Alfonso_I_d&#39;Este">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Queen_Christina_of_Denmark">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venus_with_a_Mirror">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alfonso_d&#39;Avalos_Addressing_his_Troops">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Bella">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Giacomo_Doria_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Ippolito_de&#39;_Medici">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Isabella_of_Portugal">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Jacopo_Strada">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Laura_Dianti">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Lavinia_Vecellio">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Pietro_Aretino">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Vincenzo_Mosti">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Jerome_in_Penitence_(Titian,_1552)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_John_the_Baptist_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/St_Margaret_and_the_Dragon_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bacchanal_of_the_Andrians">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Entombment_(Titian,_1559)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Punishment_of_Tythus">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vanity_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venus_Blindfolding_Cupid">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venus_and_Music">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woman_with_a_Mirror">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venus_and_Adonis_(Titian,_Rome)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/9905_Tiziano">
+    <dbpprop:namedAfter rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gozzi_Altarpiece">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noli_me_tangere_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philip_II_in_Armour">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Averoldi_Polyptych">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Man_with_a_Glove">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pastoral_Concert">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Penitent_Magdalene_(Titian,_1565)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dosso_Dossi">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reginald_Marsh_(artist)">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sacred_and_Profane_Love">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiziano_Vecellio">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Da_Cadore">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Punishment_of_Marsyas">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flora_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mater_Dolorosa_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Pope_Paul_III_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Sebastian_(Titian,_Hermitage)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salome_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Self-Portrait_(Titian,_Berlin)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tarquin_and_Lucretia_(1571_painting)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Violante_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crucifixion_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_and_Child_with_Saints_Luke_and_Catherine_of_Alexandria">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alessandro_Varotari">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jacopo_Bassano">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Weissbort">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L%C3%A9on_Gard">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pope_Paul_III_and_his_Grandsons">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Death_of_Actaeon">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Titian_(crater)">
+    <dbpprop:eponym rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Gypsy_Madonna">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Worship_of_Venus">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiziano_Vecelli">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tizian">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Miracle_of_the_Jealous_Husband">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Diana_and_Callisto">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Clarissa_Strozzi">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Saint_Jerome_in_Penitence_(Titian,_1575)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Three_Ages_of_Man_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malchiostro_Annunciation">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tarquin_and_Lucretia_(1515_painting)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiziano">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Titian">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_Isabella_d&#39;Este_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Venus_and_Adonis_(Titian,_Madrid)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allegory_of_Prudence">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tiziano_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Titian_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Titiaan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Tiziano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Entombment_of_Christ_(Titian)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Titian" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q47551">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/提香">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/تيتيان">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://arz.dbpedia.org/resource/تيتيان">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://az.dbpedia.org/resource/Tisiano_Veçelli">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Тыцыян">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bg.dbpedia.org/resource/Тициан">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://br.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bs.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Ticià">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cy.dbpedia.org/resource/Titian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Ticiano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/تیتیان">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fy.dbpedia.org/resource/Titiaan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gl.dbpedia.org/resource/Tiziano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/טיציאן">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Tiziano_Vecellio">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hy.dbpedia.org/resource/Տիցիան">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Tiziano_Vecelli">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://io.dbpedia.org/resource/Tiziano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/ტიციანი">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kk.dbpedia.org/resource/Тициан">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Titianus_Vecellii">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lt.dbpedia.org/resource/Tiziano_Vecelli">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Ticiāns">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mi.dbpedia.org/resource/Titian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mk.dbpedia.org/resource/Тицијан">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ml.dbpedia.org/resource/ടിഷ്യൻ_വെസല്ലി">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://my.dbpedia.org/resource/တစ်ရှန်">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nn.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://qu.dbpedia.org/resource/Tiziano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Tiziano_Vecellio">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Titian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/Tiziano_Vecelli">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sl.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sq.dbpedia.org/resource/Ticiani">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Тицијан_Вечели">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/ทิเชียน">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Titian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Тиціан">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/Tiziano_Vecelli">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://war.dbpedia.org/resource/Titian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://als.dbpedia.org/resource/Tizian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be_x_old.dbpedia.org/resource/Тыцыян">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bo.dbpedia.org/resource/ཌི་ཛི་ཨ་ནོ་ཝ་ཅེ་ལི་ཡོ།">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lad.dbpedia.org/resource/Tiziano">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://se.dbpedia.org/resource/Titian">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vls.dbpedia.org/resource/Titiaan">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Titian" />
+  </rdf:Description>
+</rdf:RDF>

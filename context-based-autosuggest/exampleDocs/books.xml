@@ -1,0 +1,64 @@
+<add>
+  <doc>
+    <field name="id">0465065694</field>
+    <field name="title">The End of Power</field>
+    <field name="author">Moises Naim</field>
+    <field name="publisher">Basic Books</field>
+  </doc>
+
+  <doc>
+    <field name="id">0123748569</field>
+    <field name="title">Data Mining: Practical Machine Learning Tools and Techniques</field>
+    <field name="author">Ian H. Witten</field>
+    <field name="publisher">Morgan Kaufmann</field>
+  </doc>
+
+  <doc>
+    <field name="id">0385539703</field>
+    <field name="title">The Children Act</field>
+    <field name="author">Ian McEwan</field>
+    <field name="publisher">Nan A. Talese</field>
+  </doc>
+
+  <doc>
+    <field name="id">0385539704</field>
+    <field name="title">The Children Act</field>
+    <field name="author">Larry Welch</field>
+    <field name="publisher">Manning</field>
+  </doc>
+
+  <doc>
+    <field name="id">1612185436</field>
+    <field name="title">Casino Royale (James Bond 007)</field>
+    <field name="author">Ian Fleming</field>
+    <field name="publisher">Thomas Mercer</field>
+  </doc>
+
+  <doc>
+    <field name="id">0393316041</field>
+    <field name="title">Surely You're Joking, Mr. Feynman!</field>
+    <field name="author">Richard P. Feynman</field>
+    <field name="publisher">W. W. Norton Company</field>
+  </doc>
+
+  <doc>
+    <field name="id">1118026470</field>
+    <field name="title">The Web Application Hacker's Handbook</field>
+    <field name="author">Dafydd Stuttard</field>
+    <field name="publisher">Wiley</field>
+  </doc>
+
+  <doc>
+    <field name="id">1933988177</field>
+    <field name="title">Lucene in Action, Second Edition</field>
+    <field name="author">Michael McCandless</field>
+    <field name="publisher">Manning Publications</field>
+  </doc>
+
+  <doc>
+    <field name="id">193398838X</field>
+    <field name="title">Taming Text: How to Find, Organize, and Manipulate It</field>
+    <field name="author">Grant S. Ingersoll</field>
+    <field name="publisher">Manning Publications</field>
+  </doc>
+</add>

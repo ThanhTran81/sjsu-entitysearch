@@ -1,0 +1,32 @@
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metamorphosis_of_Narcissus</field>
+<field name="owl_sameAs_resource">http://yago-knowledge.org/resource/Metamorphosis_of_Narcissus</field>
+<field name="owl_sameAs_resource">http://he.dbpedia.org/resource/מטמורפוזה_של_נרקיסוס</field>
+<field name="owl_sameAs_resource">http://dbpedia.org/resource/Metamorphosis_of_Narcissus</field>
+<field name="owl_sameAs_resource">http://af.dbpedia.org/resource/Metamorfose_van_Narsissus</field>
+<field name="owl_sameAs_resource">http://fr.dbpedia.org/resource/Métamorphose_de_Narcisse</field>
+<field name="owl_sameAs_resource">http://pt.dbpedia.org/resource/Metamorfose_de_Narciso</field>
+<field name="owl_sameAs_resource">http://www.wikidata.org/entity/Q2464824</field>
+<field name="owl_sameAs_resource">http://lv.dbpedia.org/resource/Narcisa_metamorfoze</field>
+<field name="owl_sameAs_resource">http://uk.dbpedia.org/resource/Метаморфози_Нарциса</field>
+<field name="owl_sameAs_resource">http://rdf.freebase.com/ns/m.09xqfj</field>
+<field name="owl_sameAs_resource">http://it.dbpedia.org/resource/Metamorfosi_di_Narciso</field>
+<field name="owl_sameAs_resource">http://ru.dbpedia.org/resource/Метаморфозы_Нарцисса</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="dbpedia-owl_abstract_text">Metamorphosis of Narcissus (1937) is an oil-on-canvas painting by the Spanish surrealist Salvador Dalí. This painting is from Dalí's Paranoiac-critical period. According to Greek mythology, Narcissus fell in love with his own reflection in a pool. Unable to embrace the watery image, he pined away, and the gods immortalized him as a flower. Dali completed this painting in 1937 on his long awaited return to Paris after having had great success in the United States. The painting shows Narcissus sitting in a pool, gazing down. Not far away there is a decaying stone figure which corresponds closely to him but is perceived quite differently; as a hand holding up a bulb or egg from which a Narcissus is growing. The egg has been used as a symbol for sexuality in other paintings by Dali. In the background, a group of naked figures can be seen, while a third Narcissus like figure appears on the horizon. A poem was written by Dalí to accompany the painting.</field>
+<field name="dbpedia-owl_author_resource">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="dbpedia-owl_museum_resource">http://dbpedia.org/resource/Tate_Modern</field>
+<field name="rdfs_label_text">Metamorphosis of Narcissus</field>
+<field name="rdfs_comment_text">Metamorphosis of Narcissus (1937) is an oil-on-canvas painting by the Spanish surrealist Salvador Dalí. This painting is from Dalí's Paranoiac-critical period. According to Greek mythology, Narcissus fell in love with his own reflection in a pool. Unable to embrace the watery image, he pined away, and the gods immortalized him as a flower. Dali completed this painting in 1937 on his long awaited return to Paris after having had great success in the United States.</field>
+<field name="foaf_name_text">Metamorphosis of Narcissus</field>
+<field name="dbpprop_artist_resource">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="dbpprop_city_resource">http://dbpedia.org/resource/London</field>
+<field name="dbpprop_museum_resource">http://dbpedia.org/resource/Tate_Modern</field>
+<field name="dbpprop_title_text">Metamorphosis of Narcissus</field>
+<field name="dbpprop_type_resource">http://dbpedia.org/resource/Oil_painting</field>
+<field name="foaf_isPrimaryTopicOf_resource">http://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus</field>
+</doc>

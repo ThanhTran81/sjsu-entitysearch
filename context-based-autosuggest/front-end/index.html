@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Smart Solr Suggester</title>
+  <link rel="stylesheet" href="styles/jquery-ui.css">
+  <script src="scripts/jquery-1.10.2.js"></script>
+  <script src="scripts/jquery-ui.js"></script>
+  <link rel="stylesheet" href="styles/style.css">
+  <style>
+  .ui-autocomplete-loading {
+    background: white url("images/ui-anim_basic_16x16.gif") right center no-repeat;
+  }
+  </style>
+  <script>
+    $(function() {
+      var curContext = "";
+
+      function split( val ) {
+        return val.split( /,\s*/ );
+      }
+      function extractLast( term ) {
+        return split( term ).pop();
+      }
+   
+      $( "#search" )
+        // don't navigate away from the field on tab when selecting an item
+        .bind( "keydown", function( event ) {
+          if ( event.keyCode === $.ui.keyCode.TAB &&
+              $( this ).autocomplete( "instance" ).menu.active ) {
+            event.preventDefault();
+          }
+        })
+        .autocomplete({
+          source: function( request, response ) {
+            if (curContext === "") {
+              $.ajax({
+                url: "http://localhost:8983/solr/collection1/suggest",
+                dataType: "jsonp",
+                jsonp: 'json.wrf',  
+                data: {
+                  "suggest.q": extractLast( request.term ),
+                  wt: "json",
+                  "suggest.dictionary": "labelSuggester"
+                },
+                success: function( data ) {
+                  console.log(data);
+                  for (var o in data.suggest.labelSuggester) {
+                    if (data.suggest.labelSuggester.hasOwnProperty(o)) {
+                      response(data.suggest.labelSuggester[o].suggestions);
+                    }
+                    break;
+                  }
+                }
+              });
+            } else {
+              $.ajax({
+                url: "http://localhost:8983/solr/collection1/suggest",
+                dataType: "jsonp",
+                jsonp: 'json.wrf',  
+                data: {
+                  "suggest.q": extractLast( request.term ),
+                  wt: "json",
+                  "suggest.dictionary": "labelSuggester",
+                  context: curContext
+                },
+                success: function( data ) {
+                  console.log(data);
+                  for (var o in data.suggest.labelSuggester) {
+                    if (data.suggest.labelSuggester.hasOwnProperty(o)) {
+                      response(data.suggest.labelSuggester[o].suggestions);
+                    }
+                    break;
+                  }
+                }
+              });
+            }
+
+            
+          },
+          search: function() {
+            // custom minLength
+            var term = extractLast( this.value );
+            if ( term.length < 1 ) {
+              return false;
+            }
+          },
+          focus: function() {
+            // prevent value inserted on focus
+            return false;
+          },
+          select: function( event, ui ) {
+            var terms = split( this.value );
+            // remove the current input
+            terms.pop();
+            // add the selected item
+            terms.push( ui.item.term );
+            curContext = ui.item.term;
+            // add placeholder to get the comma-and-space at the end
+            terms.push( "" );
+            this.value = terms.join( ", " );
+            return false;
+          }
+        })
+        .autocomplete( "instance" )._renderItem = function( ul, item ) {
+          return $( "<li>" )
+            .append( "<a>" + item.term + "</a>" )
+            .appendTo( ul );
+        };;
+    });
+  </script>
+</head>
+<body>
+ 
+<div class="ui-widget">
+  <label for="search">Search: </label>
+  <input id="search" size="50">
+</div>
+
+ 
+</body>
+</html>

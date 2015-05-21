@@ -1,0 +1,109 @@
+<rdf:RDF xmlns:ns7="http://www.w3.org/ns/prov#" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Метаморфозы_Нарцисса">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Metamorphosis_of_Narcissus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metamorphosis_of_Narcissus">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1937Paintings"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painting103876519"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PaintingsBySalvadorDal%C3%AD"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Art102743547"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SurrealistPaintings"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PaintingsDepictingGreekMyths"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artwork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GraphicArt103453809"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Metamorphosis_of_Narcissus"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/מטמורפוזה_של_נרקיסוס"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+    <owl:sameAs rdf:resource="http://af.dbpedia.org/resource/Metamorfose_van_Narsissus"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Métamorphose_de_Narcisse"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Metamorfose_de_Narciso"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q2464824"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Narcisa_metamorfoze"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Метаморфози_Нарциса"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09xqfj"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Metamorfosi_di_Narciso"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Метаморфозы_Нарцисса"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Surrealist_paintings"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1937_paintings"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Collection_of_the_Tate"/>
+    <dbpedia-owl:abstract xml:lang="fr">La Métamorphose de Narcisse est une huile sur toile surréaliste de Salvador Dalí réalisée en 1937 et exposée à la Galerie Tate à Londres.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">«Метаморфозы Нарцисса» — картина испанского художника Сальвадора Дали, написанная в 1937 году. В настоящее время находится в Галерее Тейт в Лондоне.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Metamorfose de Narciso é um quadro do pintor espanhol Salvador Dalí. Ele representa o mito de Narciso, vindo da mitologia grega, sendo uma obra ambigua. Ao mesmo tempo que vemos Narciso, ele aparenta ser várias rochas uma em cima da outra. Na mão que segura o ovo, simbolo da vida, vemos algumas marcas, como se fossem formigas. Dali tinha pavor de formigas, pois na sua infância as viu devorar uma lagartixa ferida.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Metamorphosis of Narcissus (1937) is an oil-on-canvas painting by the Spanish surrealist Salvador Dalí. This painting is from Dalí's Paranoiac-critical period. According to Greek mythology, Narcissus fell in love with his own reflection in a pool. Unable to embrace the watery image, he pined away, and the gods immortalized him as a flower. Dali completed this painting in 1937 on his long awaited return to Paris after having had great success in the United States. The painting shows Narcissus sitting in a pool, gazing down. Not far away there is a decaying stone figure which corresponds closely to him but is perceived quite differently; as a hand holding up a bulb or egg from which a Narcissus is growing. The egg has been used as a symbol for sexuality in other paintings by Dali. In the background, a group of naked figures can be seen, while a third Narcissus like figure appears on the horizon. A poem was written by Dalí to accompany the painting.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Metamorfosi di Narciso è un dipinto di 50,8 × 78,3 cm realizzato tra il 1936 ed il 1937 dal pittore catalano Salvador Dalí. È conservato alla Tate Gallery di Londra. Questo è il primo quadro in cui utilizza del tutto il suo metodo “critico-paranoico”, che consiste nel guardare un oggetto e vederne, e quindi dipingerne, un altro. L’immagine si presenta divisa a metà, questa suddivisione dipende sia dai colori, sia dalla trasformazione della figura, che avviene da sinistra verso destra. L’ispirazione per quest’opera, deriva dal viaggio di Dalì, in Italia, nel 1936: lo si può notare per la scelta iconografica, e per le figure di nudi, sullo sfondo, che ci riportano a pose classiche e atteggiamenti formali tipici del manierismo e del rinascimento. L’immagine è presentata come un ambigua relazione tra illusione e realtà, in un complesso intreccio di verità e inganno, desiderio e sentimento, infatti il corpo di Narciso, accucciato quasi in posizione fetale (che quindi riconduce alla ricerca di Narciso della solitudine che vi è nel grembo materno, prima di nascere) si presenta come un enorme figura, quasi rocciosa, immersa in una calda ed aurea luminescenza, che giganteggia sul lato sinistro dell’opera, si vede il riflesso di questo volume nell’acqua dentro cui siede; la trasformazione, che si può notare sul lato destro del quadro, fa diventare Narciso una mano, con la stessa sua sagoma, dai colori più spenti, che però fanno acquistare realtà alla figura: la mano stringe un uovo crepato, dalla crepa nasce l’omonimo fiore. La mano potrebbe star ad indicare l’atto della masturbazione, elemento già riscontrato in altri dipinti daliniani, oppure, che è più probabile, quello della morte. L’elemento omoerotico è sempre stato caratterizzante nella rappresentazione di Narciso. Questa presentazione della figura doppia o dell’immagine ribaltata è tipica di Dalì, in quanto lui riteneva che attraverso dei passaggi nettamente paranoici, fosse possibile ottenere due figure anatomicamente e figurativamente identiche, eppure essendo rappresentazioni di oggetti assolutamente diversi. E per di più riteneva che ci fosse uno stretto collegamento tra il significato implicito della morte e la sua interpretazione di narcisismo. La decisione di applicarla anche a quest’opera è avvenuta verso la fine, in quanto nei disegni preparatori, non è presente nulla di questo genere. Sulla base del pollice, si possono notare delle formiche, che si trovano spesso nelle sue opere, e stanno a rappresentare la decomposizione e la caducità dell’esistenza e della vita. A rafforzare questo significato, si nota sulla destra, uno sciacallo che divora una carogna. Sullo sfondo, si può notare, su di un piedistallo, la statua di narciso, prima della trasformazione, e questo ci riporta al rinascimento, tendenza verso cui Dalì si dirige spesso, anche se in modo personale e ambiguo. L’intera opera fa indossare all’osservatore i panni di Narciso, grazie all’immagine rappresentata e al suo richiamo. Dalì fa in modo che per lo spettatore, Narciso scompaia a poco a poco, fino a raggiungere la sua massima metamorfosi.</dbpedia-owl:abstract>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD"/>
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate_Modern"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3729265</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">547781405</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="it">Metamorfosi di Narciso</rdfs:label>
+    <rdfs:label xml:lang="en">Metamorphosis of Narcissus</rdfs:label>
+    <rdfs:label xml:lang="pt">Metamorfose de Narciso</rdfs:label>
+    <rdfs:label xml:lang="ru">Метаморфозы Нарцисса</rdfs:label>
+    <rdfs:label xml:lang="fr">Métamorphose de Narcisse</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/21/Metamorphosis_of_Narcissus.jpg"/>
+    <rdfs:comment xml:lang="ru">«Метаморфозы Нарцисса» — картина испанского художника Сальвадора Дали, написанная в 1937 году. В настоящее время находится в Галерее Тейт в Лондоне.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">La Métamorphose de Narcisse est une huile sur toile surréaliste de Salvador Dalí réalisée en 1937 et exposée à la Galerie Tate à Londres.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Metamorfosi di Narciso è un dipinto di 50,8 × 78,3 cm realizzato tra il 1936 ed il 1937 dal pittore catalano Salvador Dalí. È conservato alla Tate Gallery di Londra. Questo è il primo quadro in cui utilizza del tutto il suo metodo “critico-paranoico”, che consiste nel guardare un oggetto e vederne, e quindi dipingerne, un altro. L’immagine si presenta divisa a metà, questa suddivisione dipende sia dai colori, sia dalla trasformazione della figura, che avviene da sinistra verso destra.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Metamorfose de Narciso é um quadro do pintor espanhol Salvador Dalí. Ele representa o mito de Narciso, vindo da mitologia grega, sendo uma obra ambigua. Ao mesmo tempo que vemos Narciso, ele aparenta ser várias rochas uma em cima da outra. Na mão que segura o ovo, simbolo da vida, vemos algumas marcas, como se fossem formigas. Dali tinha pavor de formigas, pois na sua infância as viu devorar uma lagartixa ferida.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Metamorphosis of Narcissus (1937) is an oil-on-canvas painting by the Spanish surrealist Salvador Dalí. This painting is from Dalí's Paranoiac-critical period. According to Greek mythology, Narcissus fell in love with his own reflection in a pool. Unable to embrace the watery image, he pined away, and the gods immortalized him as a flower. Dali completed this painting in 1937 on his long awaited return to Paris after having had great success in the United States.</rdfs:comment>
+    <foaf:name xml:lang="en">Metamorphosis of Narcissus</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Metamorphosis_of_Narcissus.jpg/200px-Metamorphosis_of_Narcissus.jpg"/>
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD"/>
+    <dbpprop:backcolor xml:lang="en">#FBF5DF</dbpprop:backcolor>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/London"/>
+    <dbpprop:height rdf:datatype="http://www.w3.org/2001/XMLSchema#double">51.2</dbpprop:height>
+    <dbpprop:heightInch rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.12</dbpprop:heightInch>
+    <dbpprop:imageFile xml:lang="en">Metamorphosis of Narcissus.jpg</dbpprop:imageFile>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbpprop:imageSize>
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate_Modern"/>
+    <dbpprop:paintingAlignment xml:lang="en">right</dbpprop:paintingAlignment>
+    <dbpprop:title xml:lang="en">Metamorphosis of Narcissus</dbpprop:title>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Oil_painting"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#double">78.1</dbpprop:width>
+    <dbpprop:widthInch rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</dbpprop:widthInch>
+    <dbpprop:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1937</dbpprop:year>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Metamorphosis_of_Narcissus?oldid=547781405"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Métamorphose_de_Narcisse">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Metamorfosi_di_Narciso">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Metamorfose_de_Narciso">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q2464824">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://af.dbpedia.org/resource/Metamorfose_van_Narsissus">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/מטמורפוזה_של_נרקיסוס">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Narcisa_metamorfoze">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Метаморфози_Нарциса">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_of_Narcissus"/>
+  </rdf:Description>
+</rdf:RDF>

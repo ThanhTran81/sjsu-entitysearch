@@ -1,0 +1,121 @@
+<rdf:RDF xmlns:ns8="http://dbpedia.org/ontology/Work/" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zerophilia">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2006Films"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Movie_CW"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmsAboutIntersexuality"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Wikidata:Q11424"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ComedyScienceFictionFilms"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanLGBT-relatedFilms"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanFilms"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Show106619065"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Movie106613686"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialEvent107288639"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/IndependentFilms"/>
+    <rdf:type rdf:resource="http://schema.org/Movie"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2000sRomanticComedyFilms"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/English-languageFilms"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/জিরোফিলিয়া"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q3349452"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Zerophilia"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0g9pz0"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zerophilia"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q3349452"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Zerophilia"/>
+    <rdfs:label xml:lang="it">Zerophilia</rdfs:label>
+    <rdfs:label xml:lang="en">Zerophilia</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Films_about_intersex"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2000s_LGBT-related_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT-related_science_fiction_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Independent_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2000s_romantic_comedy_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:English-language_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:LGBT-related_comedy_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Transgender_in_film"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Bisexuality-related_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Comedy_science_fiction_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fictional_diseases"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_LGBT-related_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Films_shot_in_Oregon"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2005_films"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Zerophilia"/>
+    <foaf:homepage rdf:resource="http://www.Zerophilia.com"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.variety.com/review/VE1117932053.html?categoryid=31&amp;cs=1"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://movies.nytimes.com/2006/10/13/movies/13zero.html?scp=1&amp;sq=zerophilia&amp;st=cse"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.slantmagazine.com/film/film_review.asp?ID=2518"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.Zerophilia.com"/>
+    <dbpprop:caption xml:lang="en">Promotional poster</dbpprop:caption>
+    <dbpprop:cinematography xml:lang="en">Graham Futerfas</dbpprop:cinematography>
+    <dbpprop:country xml:lang="en">United States</dbpprop:country>
+    <dbpprop:director xml:lang="en">Martin Curland</dbpprop:director>
+    <dbpprop:distributor rdf:resource="http://dbpedia.org/resource/TLA_Releasing"/>
+    <dbpprop:distributor rdf:resource="http://dbpedia.org/resource/Allumination_FilmWorks"/>
+    <dbpprop:distributor xml:lang="en">Microangelo Entertainment</dbpprop:distributor>
+    <dbpprop:language xml:lang="en">English</dbpprop:language>
+    <dbpprop:music xml:lang="en">Edie Pijpers</dbpprop:music>
+    <dbpprop:music xml:lang="en">Kevin McDaniels</dbpprop:music>
+    <dbpprop:name xml:lang="en">Zerophilia</dbpprop:name>
+    <dbpprop:producer xml:lang="en">Alan Grossbard</dbpprop:producer>
+    <dbpprop:producer xml:lang="en">Jay Whitney Brown</dbpprop:producer>
+    <dbpprop:producer xml:lang="en">Martin Curland</dbpprop:producer>
+    <dbpprop:producer xml:lang="en">Matt Radecki</dbpprop:producer>
+    <dbpprop:producer xml:lang="en">Gregory Lanesey</dbpprop:producer>
+    <dbpprop:runtime rdf:datatype="http://dbpedia.org/datatype/second">5400.0</dbpprop:runtime>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Taylor_Handley"/>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Gina_Bellman"/>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Kyle_Schmid"/>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Kelly_LeBrock"/>
+    <dbpprop:writer xml:lang="en">Martin Curland</dbpprop:writer>
+    <dbpedia-owl:abstract xml:lang="it">Zerophilia è un film del 2005 diretto da Martin Curland.Una condizione genetica particolare determina cambiamenti di genere a seguito di rapporti sessuali. Questo è il fantasioso presupposto alla base delle situazioni comiche che vedono protagonista un ragazzo insicuro e incerto sulla sua mascolinità alle prese con l'altro sesso.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Zerophilia is a 2005 romantic comedy film with speculative-fiction elements directed by Academy of Motion Pictures' Student Academy Award winning director Martin Curland and produced by Microangelo Entertainment. It is about a young man who discovers that he has a genetic condition which will cause a change of gender following each orgasm.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Zerophilia</foaf:name>
+    <dbpedia-owl:distributor rdf:resource="http://dbpedia.org/resource/TLA_Releasing"/>
+    <dbpedia-owl:distributor rdf:resource="http://dbpedia.org/resource/Allumination_FilmWorks"/>
+    <dbpedia-owl:runtime rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5400.0</dbpedia-owl:runtime>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Taylor_Handley"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Gina_Bellman"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Kyle_Schmid"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Kelly_LeBrock"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Zerophilia?oldid=588197106"/>
+    <rdfs:comment xml:lang="it">Zerophilia è un film del 2005 diretto da Martin Curland.Una condizione genetica particolare determina cambiamenti di genere a seguito di rapporti sessuali. Questo è il fantasioso presupposto alla base delle situazioni comiche che vedono protagonista un ragazzo insicuro e incerto sulla sua mascolinità alle prese con l'altro sesso.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Zerophilia is a 2005 romantic comedy film with speculative-fiction elements directed by Academy of Motion Pictures' Student Academy Award winning director Martin Curland and produced by Microangelo Entertainment. It is about a young man who discovers that he has a genetic condition which will cause a change of gender following each orgasm.</rdfs:comment>
+    <ns8:runtime rdf:datatype="http://dbpedia.org/datatype/minute">90.0</ns8:runtime>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6545749</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">588197106</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Zerophilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zerofilia">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Zerophilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zerophilia_Disease">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Zerophilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q3349452">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zerophilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Zerophilia">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zerophilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Zerophilia">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Zerophilia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bn.dbpedia.org/resource/জিরোফিলিয়া">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zerophilia"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:ns8="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Ross">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/L&#39;Age_d&#39;Or">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dal%C3%AD">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleWithParkinson&#39;sDisease" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MaleAristocrat110285135" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Aristocrat109807754" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModernPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Noble110271677" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModernArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Marquis110295479" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SurrealistArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SpanishPrintmakers" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CatalanArtists" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Printmaker110475687" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromFigueres" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MarquessesOfSpain" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/20th-centuryPainters" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CatalanPainters" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.09_xn" />
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Дали,_Сальвадор" />
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rwPWXapwpEbGdrcN5Y29ycA" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/サルバドール・ダリ" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Σαλβαδόρ_Νταλί" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/살바도르_달리" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Salvador_Dalí" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q5577" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_with_Parkinson&#39;s_disease" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1904_births" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Surrealist_artists" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Spanish_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:L%C3%A9gion_d&#39;honneur_recipients" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_artists" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Spanish_Roman_Catholics" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Children&#39;s_book_illustrators" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Catalan_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1989_deaths" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Spanish_artists" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Salvador_Dal%C3%AD" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Spanish_printmakers" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Figueres" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Catalan_artists" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:20th-century_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Marquesses_of_Spain" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Spanish_agnostics" />
+    <dbpedia-owl:abstract xml:lang="it">Dalí era un pittore tecnicamente abile e virtuosissimo disegnatore ma è celebre anche per le immagini suggestive e bizzarre delle sue opere surrealiste. Il suo peculiare tocco pittorico è stato attribuito all&#39;influenza che ebbero su di lui i maestri del Rinascimento. Realizzò una delle sue opere più famose, La persistenza della memoria, nel 1931. Il talento artistico di Dalí trovò espressione in svariati ambiti, tra cui il cinema, la scultura e la fotografia, portandolo a collaborare con artisti di ogni settore. Faceva risalire il suo "amore per tutto ciò che è dorato ed eccessivo, la mia passione per il lusso e la mia predilezione per gli abiti orientali" ad una auto-attribuita "discendenza araba", sostenendo che i suoi antenati discendevano dai Mori. Dalí fu un uomo dotato di una grande immaginazione ma con il vezzo di assumere atteggiamenti stravaganti per attirare l&#39;attenzione su di sé. Tale comportamento ha talvolta irritato coloro che hanno amato la sua arte tanto quanto ha infastidito i suoi detrattori, in quanto i suoi modi eccentrici hanno in alcuni casi catturato l&#39;attenzione del pubblico più delle sue opere.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">Salvador Felipe Jacinto Dalí i Domènech, marqués de Dalí y de Púbol fue un pintor, escultor, grabador, escenógrafo y escritor español, considerado uno de los máximos representantes del surrealismo. Dalí es conocido por sus impactantes y oníricas imágenes surrealistas. Sus habilidades pictóricas se suelen atribuir a la influencia y admiración por el arte renacentista. También fue un experto dibujante. Los recursos plásticos dalinianos también abordaron el cine, la escultura y la fotografía, lo cual le condujo a numerosas colaboraciones con otros artistas audiovisuales. Tuvo la habilidad de forjar un estilo marcadamente personal y reconocible, que en realidad era muy ecléctico y que «vampirizó» innovaciones ajenas. Una de sus obras más célebres es La persistencia de la memoria, el famoso cuadro de los «relojes blandos», realizado en 1931. Como artista extremadamente imaginativo, manifestó una notable tendencia al narcisismo y la megalomanía, cuyo objeto era atraer la atención pública. Esta conducta irritaba a quienes apreciaban su arte y justificaba a sus críticos, que rechazaban sus conductas excéntricas como un reclamo publicitario ocasionalmente más llamativo que su producción artística. Dalí atribuía su «amor por todo lo que es dorado y resulta excesivo, [su su] pasión por el lujo y su amor por la moda oriental» a un autoproclamado «linaje arábigo», que remontaba sus raíces a los tiempos de la dominación árabe de la península ibérica. «... que no conozca el significado de mi arte, no significa que no lo tenga... »«La única diferencia entre un loco y yo, es que yo no estoy loco». —Salvador Dalí</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Сальвадо́р Дали́ (полное имя Сальвадор Доме́нек Фелип Жасинт Дали и Доме́нек, маркиз де Пуболь, кат. Salvador Domènec Felip Jacint Dalí i Domènech, Marqués de Dalí de Púbol, исп.  Salvador Domingo Felipe Jacinto Dalí i Domènech, Marqués de Dalí y de Púbol; 11 мая 1904 — 23 января 1989) — испанский живописец, график, скульптор, режиссёр, писатель. Один из самых известных представителей сюрреализма. Работал над фильмами: «Андалузский пёс», «Золотой век», «Заворожённый». Автор книг «Тайная жизнь Сальвадора Дали, рассказанная им самим» (1942), «Дневник одного гения» (1952—1963), Oui: The Paranoid-Critical Revolution (1927-33) и эссе «Трагический миф Анжелюса Милле».</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Salvador Domingo Felipe Jacinto Dalí i Domènech, 1st Marqués de Dalí de Pubol (May 11, 1904 – January 23, 1989), known as Salvador Dalí, was a prominent Spanish surrealist painter born in Figueres, Spain. Dalí was a skilled draftsman, best known for the striking and bizarre images in his surrealist work. His painterly skills are often attributed to the influence of Renaissance masters. His best-known work, The Persistence of Memory, was completed in 1931. Dalí&#39;s expansive artistic repertoire included film, sculpture, and photography, in collaboration with a range of artists in a variety of media. Dalí attributed his "love of everything that is gilded and excessive, my passion for luxury and my love of oriental clothes" to a self-styled "Arab lineage", claiming that his ancestors were descended from the Moors. Dalí was highly imaginative, and also enjoyed indulging in unusual and grandiose behavior. His eccentric manner and attention-grabbing public actions sometimes drew more attention than his artwork, to the dismay of those who held his work in high esteem, and to the irritation of his critics.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">薩爾瓦多·多明哥·菲利普·哈辛托·達利-多梅內克，普波爾侯爵（西班牙文：Salvador Domingo Felipe Jacinto Dali i Domenech, Marqués de Púbol，1904年5月11日－1989年1月23日），一般簡稱萨尔瓦多·达利（Salvador Dalí），是著名的西班牙加泰羅尼亞畫家，因他的超現實主義作品而聞名。 1922年往馬德里的聖費南度藝術學院（Academia de San Fernando）進修，住在學生宿舍（Residencia de Estudiantes），認識了不少志同道合的好友，如洛爾卡與布努埃爾等。 達利是一位具有非凡才能和想像力的藝術家，他的作品將怪異夢境般的形象與卓越的繪圖技術和受文藝復興大師影響的繪畫技巧令人驚奇地混合在一起。他有一種對做出出格的事物而引起他人注意的狂熱愛好，並影響至他的公眾藝術形象，使他的藝術愛好者與評論家異常苦惱。 1982年西班牙國王胡安·卡洛斯一世封他為普波爾侯爵。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="sv">Salvador Domingo Felipe Jacinto Dalí i Domènech, 1:e markis av Púbol, född 11 maj 1904 i Figueres, Katalonien, Spanien, död 23 januari 1989 i Figueres, var en spansk surrealistisk målare. Salvador Dalí var en skicklig konstnär mest känd för sina slående och bisarra bilder, ofta i form av surrealistiska målningar. Hans stil tillskrivs ofta influenser från renässansmästarna. Ett av hans mest kända verk, Minnets envishet, blev klart 1931. Salvador Dalís konstnärliga register omfattade också film, skulptur och fotografi. Han samarbetade med Walt Disney kring den Oscars-nominerade tecknade kortfilmen Destino, som släpptes postumt 2003. Han samarbetade också med Alfred Hitchcock i arbetet med filmen Trollbunden (Spellbound). Dalí insisterade på att han var av arabisk härstamning, och förfäktade att hans förfäder härstammade från morerna som ockuperade södra Spanien i nästan 800 år (711–1492). Han tillskrev sitt ursprung, "my love of everything that is gilded and excessive, my passion for luxury and my love of oriental clothes. " (min kärlek till allt som är förgyllt och omåttligt, min passion för lyx och min kärlek till orientaliska kläder. ") Dalí hade en enastående förmåga att göra ovanliga saker för att dra uppmärksamhet till sig. Detta irriterade ibland de personer som älskade hans konst lika mycket som det retade kritikerna, eftersom hans excentriska beteende ibland drog uppmärksamhet från, och skymde, hans konst. Dalí byggde medvetet upp bilden av sig själv som ett udda original, allt för att öka uppmärksamheten kring sin person och därmed även öka intresset för och priset på sin konst.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Salvador Felipe Jacinto Dalí i Domènech, seit 1982 Marqués de Púbol war ein spanischer Maler, Grafiker, Schriftsteller, Bildhauer und Bühnenbildner. Als einer der Hauptvertreter des Surrealismus zählt er zu den bekanntesten Malern des 20.  Jahrhunderts. Um das Jahr 1929 hatte Dalí seinen persönlichen Stil und sein Genre gefunden, die Welt des Unbewussten, die in Träumen erscheint. Schmelzende Uhren, Krücken und brennende Giraffen wurden zu Dalís Erkennungsmerkmal. Sein malerisches technisches Können erlaubte es ihm, seine Bilder in einem altmeisterlichen Stil zu malen, der an den späteren Fotorealismus erinnert. Dalís häufigste Themen sind außer der Welt des Traums die des Rausches, des Fiebers und der Religion; oft ist in seinen Gemälden seine Frau Gala dargestellt. Dalís Sympathie für den spanischen Diktator Francisco Franco, sein exzentrisches Verhalten sowie sein Spätwerk führen vielfach zu Kontroversen bei der Bewertung seiner Person und seiner Werke bis in die Gegenwart hinein.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Salvador Dalí i Domènech, marquis de Dalí de Púbol, né à Figueras le 11 mai 1904 et mort dans la même ville le 23 janvier 1989, est un peintre, sculpteur, graveur, scénariste et écrivain catalan de nationalité espagnole. Il est considéré comme l&#39;un des principaux représentants du surréalisme et comme l&#39;un des plus célèbres peintres du XX siècle. Influencé très jeune par l&#39;impressionnisme, il quitta Figueras pour recevoir une éducation artistique académique à Madrid où il se lia d&#39;amitié avec Federico García Lorca et Luis Buñuel et chercha son style entre différents mouvements artistiques. Sur les conseils de Joan Miró, il rejoignit Paris à l&#39;issue de ses études et intégra le groupe des surréalistes où il rencontra sa femme Gala. Il trouva son propre style à partir de 1929, année où il devint surréaliste à part entière et inventa la méthode paranoïaque-critique. Exclu de ce groupe quelques années après, il vécut la guerre d&#39;Espagne en exil en Europe avant de quitter la France en guerre pour New York où il fit fortune et résida huit ans. À son retour en Catalogne en 1949, il opéra un virage vers le catholicisme, se rapprocha de la peinture de la Renaissance et s’inspira des évolutions scientifiques de son temps pour faire évoluer son style vers ce qu&#39;il nomma « mysticisme corpusculaire ». Les thèmes qu&#39;il aborda le plus fréquemment furent le rêve, la sexualité, le comestible, sa femme Gala et la religion. La Persistance de la mémoire est l&#39;une de ses toiles surréalistes les plus célèbres, le Christ de saint Jean de la Croix est l&#39;une de ses principales toiles à motif religieux. Artiste très imaginatif, il manifestait une tendance notable au narcissisme et à la mégalomanie qui lui permettaient de retenir l&#39;attention publique mais irritait une partie du monde de l&#39;art qui voyait dans ce comportement une forme de publicité qui dépassait parfois son œuvre. Deux musées lui furent dédiés de son vivant, le Salvador Dali Museum et le théâtre-musée Dalí. Dalí créa lui-même le second, comme une œuvre surréaliste à part entière. La sympathie de Dalí pour Francisco Franco, son excentricité et ses œuvres tardives font de l&#39;analyse de son œuvre comme de sa personne des thèmes difficiles et sujets à controverses.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Salvador Domingo Felipe Jacinto Dali i Domènech, 1º Marquês de Dalí de Púbol, conhecido apenas como Salvador Dalí, foi um importante pintor catalão, conhecido pelo seu trabalho surrealista. O trabalho de Dalí chama a atenção pela incrível combinação de imagens bizarras, oníricas, com excelente qualidade plástica. Dalí foi influenciado pelos mestres do Renascimento. O seu trabalho mais conhecido, A Persistência da Memória, foi concluído em 1931. Salvador Dalí teve também trabalhos artísticos no cinema, escultura, e fotografia. Ele colaborou com a Walt Disney no curta de animação Destino, que foi lançado postumamente em 2003 e, ao lado de Alfred Hitchcock, no filme Spellbound. Também foi autor de poemas dentro da mesma linha surrealista. Dalí insistiu em sua "linhagem árabe", alegando que os seus antepassados eram descendentes de mouros que ocuparam o sul da Espanha por quase 800 anos, e atribui a isso o seu amor de tudo o que é excessivo e dourado, sua paixão pelo luxo e seu amor oriental por roupas. Tinha uma reconhecida tendência a atitudes e realizações extravagantes destinadas a chamar a atenção, o que por vezes aborrecia aqueles que apreciavam a sua arte, ao mesmo tempo que incomodava os seus críticos, já que sua forma de estar teatral e excêntrica tendia a eclipsar o seu trabalho artístico.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Salvador Domingo Felipe Jacinto Dalí i Domènech, markies de Dalí de Pubol was een Catalaans kunstschilder en tevens veelzijdig kunstenaar.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">Salvador Dalí, właśc. : Salvador Domènec Felip Jacint Dalí i Domènech, marquès de Dalí de Púbol – hiszpański malarz, jeden z najbardziej znanych surrealistów. Jest jednym z bardziej rozpoznawalnych artystów XX wieku. Postrzegany bywał jako skrajny ekscentryk, wymyślił własną metodę "paranoiczno-krytyczną".</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">サルバドール・ダリ（Salvador Dalí、ダリ・デ・プブル侯爵 Marqués de Dalí de Púbol（es）、1904年5月11日 - 1989年1月23日）は、スペインの画家。シュルレアリスムの代表的な作家として知られる。フルネームはカタルーニャ語でサルバドー・ドメネク・ファリプ・ジャシン・ダリ・イ・ドメネク（Salvador Domènec Felip Jacint Dalí i Domènech）。「天才」と自称して憚らず、数々の奇行や逸話が知られている。</dbpedia-owl:abstract>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-05-11</dbpedia-owl:birthDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Spain" />
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Catalonia" />
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Figueres" />
+    <dbpedia-owl:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-01-23</dbpedia-owl:deathDate>
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Figueres" />
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Catalonia" />
+    <dbpedia-owl:deathPlace rdf:resource="http://dbpedia.org/resource/Spain" />
+    <dbpedia-owl:field rdf:resource="http://dbpedia.org/resource/Photography" />
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Dada" />
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Cubism" />
+    <dbpedia-owl:movement rdf:resource="http://dbpedia.org/resource/Surrealism" />
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/Spain" />
+    <dbpedia-owl:spouse rdf:resource="http://dbpedia.org/resource/Gala_Dal%C3%AD" />
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Madrid" />
+    <dbpedia-owl:training rdf:resource="http://dbpedia.org/resource/Real_Academia_de_Bellas_Artes_de_San_Fernando" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40112</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548473640</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="sv">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="ru">Дали, Сальвадор</rdfs:label>
+    <rdfs:label xml:lang="pt">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="it">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="pl">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="nl">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="es">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="zh">萨尔瓦多·达利</rdfs:label>
+    <rdfs:label xml:lang="ja">サルバドール・ダリ</rdfs:label>
+    <rdfs:label xml:lang="fr">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="en">Salvador Dalí</rdfs:label>
+    <rdfs:label xml:lang="de">Salvador Dalí</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/2/24/Salvador_Dalí_1939.jpg" />
+    <rdfs:comment xml:lang="ja">サルバドール・ダリ（Salvador Dalí、ダリ・デ・プブル侯爵 Marqués de Dalí de Púbol（es）、1904年5月11日 - 1989年1月23日）は、スペインの画家。シュルレアリスムの代表的な作家として知られる。フルネームはカタルーニャ語でサルバドー・ドメネク・ファリプ・ジャシン・ダリ・イ・ドメネク（Salvador Domènec Felip Jacint Dalí i Domènech）。「天才」と自称して憚らず、数々の奇行や逸話が知られている。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Salvador Felipe Jacinto Dalí i Domènech, marqués de Dalí y de Púbol fue un pintor, escultor, grabador, escenógrafo y escritor español, considerado uno de los máximos representantes del surrealismo. Dalí es conocido por sus impactantes y oníricas imágenes surrealistas. Sus habilidades pictóricas se suelen atribuir a la influencia y admiración por el arte renacentista. También fue un experto dibujante.</rdfs:comment>
+    <rdfs:comment xml:lang="sv">Salvador Domingo Felipe Jacinto Dalí i Domènech, 1:e markis av Púbol, född 11 maj 1904 i Figueres, Katalonien, Spanien, död 23 januari 1989 i Figueres, var en spansk surrealistisk målare. Salvador Dalí var en skicklig konstnär mest känd för sina slående och bisarra bilder, ofta i form av surrealistiska målningar. Hans stil tillskrivs ofta influenser från renässansmästarna. Ett av hans mest kända verk, Minnets envishet, blev klart 1931.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Salvador Domingo Felipe Jacinto Dalí i Domènech, markies de Dalí de Pubol was een Catalaans kunstschilder en tevens veelzijdig kunstenaar.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Salvador Domingo Felipe Jacinto Dalí i Domènech, 1st Marqués de Dalí de Pubol (May 11, 1904 – January 23, 1989), known as Salvador Dalí, was a prominent Spanish surrealist painter born in Figueres, Spain. Dalí was a skilled draftsman, best known for the striking and bizarre images in his surrealist work. His painterly skills are often attributed to the influence of Renaissance masters. His best-known work, The Persistence of Memory, was completed in 1931.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">薩爾瓦多·多明哥·菲利普·哈辛托·達利-多梅內克，普波爾侯爵（西班牙文：Salvador Domingo Felipe Jacinto Dali i Domenech, Marqués de Púbol，1904年5月11日－1989年1月23日），一般簡稱萨尔瓦多·达利（Salvador Dalí），是著名的西班牙加泰羅尼亞畫家，因他的超現實主義作品而聞名。 1922年往馬德里的聖費南度藝術學院（Academia de San Fernando）進修，住在學生宿舍（Residencia de Estudiantes），認識了不少志同道合的好友，如洛爾卡與布努埃爾等。 達利是一位具有非凡才能和想像力的藝術家，他的作品將怪異夢境般的形象與卓越的繪圖技術和受文藝復興大師影響的繪畫技巧令人驚奇地混合在一起。他有一種對做出出格的事物而引起他人注意的狂熱愛好，並影響至他的公眾藝術形象，使他的藝術愛好者與評論家異常苦惱。 1982年西班牙國王胡安·卡洛斯一世封他為普波爾侯爵。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Salvador Dalí, właśc. : Salvador Domènec Felip Jacint Dalí i Domènech, marquès de Dalí de Púbol – hiszpański malarz, jeden z najbardziej znanych surrealistów. Jest jednym z bardziej rozpoznawalnych artystów XX wieku. Postrzegany bywał jako skrajny ekscentryk, wymyślił własną metodę "paranoiczno-krytyczną".</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Сальвадо́р Дали́ (полное имя Сальвадор Доме́нек Фелип Жасинт Дали и Доме́нек, маркиз де Пуболь, кат. Salvador Domènec Felip Jacint Dalí i Domènech, Marqués de Dalí de Púbol, исп.  Salvador Domingo Felipe Jacinto Dalí i Domènech, Marqués de Dalí y de Púbol; 11 мая 1904 — 23 января 1989) — испанский живописец, график, скульптор, режиссёр, писатель. Один из самых известных представителей сюрреализма. Работал над фильмами: «Андалузский пёс», «Золотой век», «Заворожённый».</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Salvador Dalí i Domènech, marquis de Dalí de Púbol, né à Figueras le 11 mai 1904 et mort dans la même ville le 23 janvier 1989, est un peintre, sculpteur, graveur, scénariste et écrivain catalan de nationalité espagnole. Il est considéré comme l&#39;un des principaux représentants du surréalisme et comme l&#39;un des plus célèbres peintres du XX siècle.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Salvador Domingo Felipe Jacinto Dali i Domènech, 1º Marquês de Dalí de Púbol, conhecido apenas como Salvador Dalí, foi um importante pintor catalão, conhecido pelo seu trabalho surrealista. O trabalho de Dalí chama a atenção pela incrível combinação de imagens bizarras, oníricas, com excelente qualidade plástica. Dalí foi influenciado pelos mestres do Renascimento. O seu trabalho mais conhecido, A Persistência da Memória, foi concluído em 1931.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Salvador Felipe Jacinto Dalí i Domènech, seit 1982 Marqués de Púbol war ein spanischer Maler, Grafiker, Schriftsteller, Bildhauer und Bühnenbildner. Als einer der Hauptvertreter des Surrealismus zählt er zu den bekanntesten Malern des 20.  Jahrhunderts. Um das Jahr 1929 hatte Dalí seinen persönlichen Stil und sein Genre gefunden, die Welt des Unbewussten, die in Träumen erscheint. Schmelzende Uhren, Krücken und brennende Giraffen wurden zu Dalís Erkennungsmerkmal.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Dalí era un pittore tecnicamente abile e virtuosissimo disegnatore ma è celebre anche per le immagini suggestive e bizzarre delle sue opere surrealiste. Il suo peculiare tocco pittorico è stato attribuito all&#39;influenza che ebbero su di lui i maestri del Rinascimento. Realizzò una delle sue opere più famose, La persistenza della memoria, nel 1931.</rdfs:comment>
+    <foaf:name xml:lang="en">Salvador Dalí</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Salvador_Dalí_1939.jpg/200px-Salvador_Dalí_1939.jpg" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.dali-interart.be/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.daliberlin.de/en" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.smh.com.au/articles/2003/07/04/1057179156682.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salvador-dali.org/en_index.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salvador-dali.org/serveis/ced/articles/en_article6.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://blogs.wsj.com/speakeasy/2011/01/11/hello-dali-surrealist-museum-becomes-a-reality/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lletra.net/en/author/salvador-dali" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.hrc.utexas.edu/multimedia/video/2008/wallace/dali_salvador.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thedali.org" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artchive.com/artchive/D/dali.html#images" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.salvadorbrand.com/Salvador-Brand/the-lithograph.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ubu.com/sound/dali.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.firstthings.com/onthesquare/?p=922" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.overgrownpath.com/2010/10/salvador-dalis-lost-opera.html" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.moma.org/calendar/events.php?id=9709&amp;ref=calendar" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.getty.edu/vow/ULANFullDisplay?find=salvador+dali&amp;role=&amp;nation=&amp;prev_page=1&amp;subjectid=500009365" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.doubletakeart.com/cgi-bin/dtg/dtg.psearch?name=Salvador+Dali&amp;a1=00133" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://sapiens.ya.com/fagesdecliment/subpages/gibson1.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.ina.fr/recherche/recherche?search=dali&amp;vue=Video" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.bernardewell.com/2012/04/not-by-dali/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://tesla.liketelevision.com/liketelevision/tuner.php?channel=1099&amp;format=movie&amp;theme=guide" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.daliparis.com" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.daliphoto.com" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/modern/exhibitions/daliandfilm/default.shtm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.robertwhitakerphotography.com" />
+    <dbpprop:alternativeNames xml:lang="en">Dalí, Salvador Felip Jacint, Domènech; Dalí, Salvador Felipe Jacinto, Domènech</dbpprop:alternativeNames>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-05-11</dbpprop:birthDate>
+    <dbpprop:birthName xml:lang="en">Salvador Domingo Felipe Jacinto Dalí i Domènech</dbpprop:birthName>
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Figueres" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Spain" />
+    <dbpprop:birthPlace rdf:resource="http://dbpedia.org/resource/Catalonia" />
+    <dbpprop:caption rdf:datatype="http://www.w3.org/2001/XMLSchema#gMonthDay">--11-29</dbpprop:caption>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1904-05-11</dbpprop:dateOfBirth>
+    <dbpprop:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-01-23</dbpprop:dateOfDeath>
+    <dbpprop:deathDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1989-01-23</dbpprop:deathDate>
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Figueres" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Spain" />
+    <dbpprop:deathPlace rdf:resource="http://dbpedia.org/resource/Catalonia" />
+    <dbpprop:field xml:lang="en">Painting, Drawing, Photography, Sculpture, Writing, Film</dbpprop:field>
+    <dbpprop:lccn xml:lang="en">n/79/21554</dbpprop:lccn>
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Dada" />
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Cubism" />
+    <dbpprop:movement rdf:resource="http://dbpedia.org/resource/Surrealism" />
+    <dbpprop:name xml:lang="en">Dalí, Salvador</dbpprop:name>
+    <dbpprop:name xml:lang="en">Salvador Dalí</dbpprop:name>
+    <dbpprop:nationality xml:lang="en">Spanish</dbpprop:nationality>
+    <dbpprop:placeOfBirth xml:lang="en">Figueres, Catalonia, Spain</dbpprop:placeOfBirth>
+    <dbpprop:placeOfDeath xml:lang="en">Figueres, Catalonia, Spain</dbpprop:placeOfDeath>
+    <dbpprop:religion xml:lang="en">Roman Catholic</dbpprop:religion>
+    <dbpprop:shortDescription rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</dbpprop:shortDescription>
+    <dbpprop:spouse rdf:resource="http://dbpedia.org/resource/Gala_Dal%C3%AD" />
+    <dbpprop:training xml:lang="en">San Fernando School of Fine Arts, Madrid</dbpprop:training>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64004109</dbpprop:viaf>
+    <dbpprop:works xml:lang="en">Swans Reflecting Elephants</dbpprop:works>
+    <dbpprop:works xml:lang="en">The Persistence of Memory</dbpprop:works>
+    <dbpprop:works xml:lang="en">Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening</dbpprop:works>
+    <dbpprop:works xml:lang="en">Galatea of the Spheres</dbpprop:works>
+    <dbpprop:works xml:lang="en">Ballerina in a Death&#39;s Head</dbpprop:works>
+    <dbpprop:works xml:lang="en">The Temptation of St. Anthony</dbpprop:works>
+    <dbpprop:works xml:lang="en">Crucifixion (Corpus Hypercubus)</dbpprop:works>
+    <dbpprop:works xml:lang="en">Soft Construction with Boiled Beans (Premonition of Civil War)</dbpprop:works>
+    <dbpprop:works xml:lang="en">Face of Mae West Which May Be Used as an Apartment,</dbpprop:works>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-artist-noun-1" />
+    <foaf:givenName xml:lang="en">Salvador</foaf:givenName>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Salvador_Dalí" />
+    <dc:description xml:lang="en">20th century Catalan surrealist artist</dc:description>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Salvador_Dalí?oldid=548473640" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Salvador_Dalí" />
+    <foaf:surname xml:lang="en">Dalí</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Garc%C3%ADa_Lorca">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jeff_Koons">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luis_Bu%C3%B1uel">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Un_Chien_Andalou">
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Felipe_Jacinto_Dali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Francis">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Madonna_of_Port_Lligat">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dalí">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Basket_of_Bread">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vilabertran_(Dal%C3%AD)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_dal%C3%AC">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Avida_Dollars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ellen_Stagg">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Santos">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steven_Ford_Brown">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Crucifixion_(Corpus_Hypercubus)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Geopoliticus_Child_Watching_the_Birth_of_the_New_Man">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amanda_Lear">
+    <dbpedia-owl:associatedBand rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpedia-owl:associatedMusicalArtist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:associatedActs rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/David_Cronenberg">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._R._Giger">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Arnold_B%C3%B6cklin">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigmund_Freud">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reg_Hartt">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anna_Chrom%C3%BD">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galacidalacidesoxyribonucleicacid">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Antonio_Lopez_(illustrator)">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chet_Zar">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Peter_Andrew_Jones">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Federico_Castell%C3%B3n">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Works_of_M._P._Shiel">
+    <dbpedia-owl:coverArtist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galatea_of_the_Spheres">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Felip_Jacint_Dal%C3%AD_Dom%C3%A8nech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dali_salvador">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Meanings_of_Paintings_by_Salvador_Dali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dali_i_Domenech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Domenec_Felip_Jacint_Dali_Domenech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Domingo_Felipe_Jacinto_Dali_i_Domenech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Felip_Jacint_Dali_Domenech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Felipe_Jacinto_DalA">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_dhali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvidor_Dali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Meanings_of_the_Paintings_of_Salvador_Dali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Morphological_Echo">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dal%C3%AC">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvadore_Dali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Destino">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ilene_Meyer">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_dali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mike_Diana">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zeeshan_Jawed_Shah">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/La_Gare_de_Perpignan">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Domingo_Felipe_Jacinto_Dal%C3%AD_i_Dom%C3%A8nech,_1st_Marquis_of_P%C3%BAbol">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._G._Ballard">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dal%C3%AD">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dal&amp;iacute">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Who_Wants_to_Be_a_Millionaire%3F_(Australian_game_show)">
+    <dbpprop:c rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Noel_Fielding">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cartrain">
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christo_Coetzee">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Claudio_Bravo_(painter)">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dust_La_Rock_(artist)">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eduardo_%C3%9Arculo">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victor_Stabin">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Secret_Life_of_Salvador_Dal%C3%AD">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpedia-owl:illustrator rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:illustrator rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apparatus_and_Hand">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dali">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Apparition_of_Face_and_Fruit_Dish_on_a_Beach">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Basket_of_Bread">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christ_of_Saint_John_of_the_Cross">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dream_Caused_by_the_Flight_of_a_Bee_Around_a_Pomegranate_a_Second_Before_Awakening">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Landscape_Near_Figueras">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leda_Atomica">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Living_Still_Life">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metamorphosis_of_Narcissus">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slave_Market_with_the_Disappearing_Bust_of_Voltaire">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soft_Construction_with_Boiled_Beans_(Premonition_of_Civil_War)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Swans_Reflecting_Elephants">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Burning_Giraffe">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Discovery_of_America_by_Christopher_Columbus">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Disintegration_of_the_Persistence_of_Memory">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Elephants">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Face_of_War">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_First_Days_of_Spring">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Great_Masturbator">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hallucinogenic_Toreador">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lugubrious_Game">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Persistence_of_Memory">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Swallow&#39;s_Tail">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tuna_Fishing_(painting)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Young_Virgin_Auto-Sodomized_by_the_Horns_of_Her_Own_Chastity">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cabaret_Scene">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ecumenical_Council_(painting)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Domingo_Felipe_Jacinto_Dal%C3%AD_i_Dom%C3%A8nech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marques_de_Pubol">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nuclear_cross">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shirley_Temple,_The_Youngest,_Most_Sacred_Monster_of_the_Cinema_in_Her_Time">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mario_Prassinos">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dal%C3%AD_i_Dom%C3%A8nech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Domenec_Felip_Jacint_Dal%C3%AD_Domenech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ta-Li">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Domingo_Felipe_Jacinto_Dal%C3%AD_i_Domenech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Domingo_Felipe_Jacinto_Dali_i_Dom%C3%A8nech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Salvador_Dalí">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dali_(crater)">
+    <dbpprop:eponym rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cubist_Self_Portrait">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Portrait_of_my_father_(Dal%C3%AD)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francisco_Santos__Xesko__1">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Felipe_Jacinto_Dali_i_Domenech">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alex_Randall">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Genco_Gulan">
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+    <dbpprop:influencedBy rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dali_Lithograph">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Salvador_Dal%5CxC3%5CxAD">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Salvador_Dal%C3%AD" />
+  </rdf:Description>
+</rdf:RDF>

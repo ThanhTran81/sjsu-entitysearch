@@ -1,0 +1,21 @@
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory</field>
+<field name="owl_sameAs_resource">http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory</field>
+<field name="owl_sameAs_resource">http://yago-knowledge.org/resource/Metaphysical_Interior_with_Large_Factory</field>
+<field name="owl_sameAs_resource">http://rdf.freebase.com/ns/m.0drctk</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:1910s_paintings</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="dbpedia-owl_abstract_text">Metaphysical Interior with Large Factory (1916–17) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is part of a series that extended late into de Chirico’s career. Like the other works in this series it depicts a small room cluttered with surreal objects. This time the main focus is a framed picture of a factory complex.</field>
+<field name="dbpedia-owl_author_resource">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="dbpedia-owl_museum_resource">http://dbpedia.org/resource/Staatsgalerie_Stuttgart</field>
+<field name="rdfs_label_text">Metaphysical Interior with Large Factory</field>
+<field name="rdfs_comment_text">Metaphysical Interior with Large Factory (1916–17) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is part of a series that extended late into de Chirico’s career. Like the other works in this series it depicts a small room cluttered with surreal objects. This time the main focus is a framed picture of a factory complex.</field>
+<field name="foaf_name_text">Metaphysical Interior with Large Factory</field>
+<field name="dbpprop_artist_resource">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="dbpprop_city_resource">http://dbpedia.org/resource/Stuttgart</field>
+<field name="dbpprop_museum_resource">http://dbpedia.org/resource/Staatsgalerie_Stuttgart</field>
+<field name="dbpprop_title_text">Metaphysical Interior with Large Factory</field>
+<field name="dbpprop_type_resource">http://dbpedia.org/resource/Oil_painting</field>
+<field name="foaf_isPrimaryTopicOf_resource">http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Large_Factory</field>
+</doc>

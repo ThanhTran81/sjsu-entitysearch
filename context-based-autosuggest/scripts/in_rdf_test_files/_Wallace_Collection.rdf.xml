@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns6="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallace_Collection">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Woman_Peeling_Apples">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Swing_(painting)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Francesca_da_Rimini_and_Paolo_Malatesta_appraised_by_Dante_and_Virgil">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Wallace_Collection">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Categoría:Colección_Wallace" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Categoria:Wallace_Collection" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8171880" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32324210</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546814428</dbpedia-owl:wikiPageRevisionID>
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Museums_sponsored_by_the_Department_for_Culture,_Media_and_Sport" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Museums_in_Westminster" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Former_private_collections" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Non-departmental_public_bodies_of_the_United_Kingdom_government" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Houses_in_Westminster" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Paintings_by_collection" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_London" />
+    <rdfs:label xml:lang="en">Wallace Collection</rdfs:label>
+    <skos:prefLabel xml:lang="en">Wallace Collection</skos:prefLabel>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Category:Wallace_Collection?oldid=546814428" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lady_with_a_Fan_(Vel%C3%A1zquez)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laughing_Cavalier">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Boy_Bringing_Bread">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Categoría:Colección_Wallace">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Categoria:Wallace_Collection">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q8171880">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Wallace_Collection" />
+  </rdf:Description>
+</rdf:RDF>

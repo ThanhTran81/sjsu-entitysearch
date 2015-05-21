@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:ns8="http://www.w3.org/ns/prov#"
+	xmlns:grs="http://www.georss.org/georss/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brazilian_slender_opossum">
+    <dbpedia-owl:binomialAuthority rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ModernArtMuseums" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoGeoEntity" />
+    <rdf:type rdf:resource="http://www.opengis.net/gml/_Feature" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Gallery103412058" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Room104105893" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Structure104341686" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/RecordLabel" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ContemporaryArtGalleriesInTheUnitedKingdom" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtMuseumsAndGalleriesInCornwall" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtMuseumsAndGalleriesInLondon" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Broadcaster" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Area102735688" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MuseumsSponsoredByTheDepartmentForCulture,MediaAndSport" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ArtMuseumsAndGalleriesInMerseyside" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MuseumsEstablishedIn1897" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Depository103177349" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Facility103315023" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Museum103800563" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Tate_(galerie)" />
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Tate_(galerie)" />
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Tate_Gallery" />
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Pinacotheca_Tate" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/泰特美術館" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/גלריית_טייט" />
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Tate_Gallery" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Тејт_галерије" />
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/テート・ギャラリー" />
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Tate_Gallery" />
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Тейт_(група_галерей)" />
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Тејт" />
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/ტეიტი" />
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Tate_Gallery" />
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/หอศิลป์เทท" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q430682" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Тейт_(музеи)" />
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Tate_Gallery" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0hhgw" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Tate_Gallery" />
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Tate_muziejus" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Tate_Galéria" />
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/تیت" />
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Tate" />
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Галерэя_Тэйт" />
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Tate" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Non-departmental_public_bodies_of_the_United_Kingdom_government" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Turner_Prize" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Tate_Gallery" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Charities_based_in_London" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_established_in_1897" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Merseyside" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Orden_de_las_Artes_y_las_Letras_de_Espa%C3%B1a_recipients" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Cornwall" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_London" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Museums_sponsored_by_the_Department_for_Culture,_Media_and_Sport" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Exempt_charities" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Contemporary_art_galleries_in_the_United_Kingdom" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1897_establishments_in_England" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Modern_art_museums" />
+    <dbpedia-owl:abstract xml:lang="it">La Tate Gallery (adesso ufficialmente Tate) di Londra, Inghilterra, è un complesso di quattro musei di stato: Tate Britain, Tate Liverpool, Tate St Ives e Tate Modern, con un sito web unico, Tate Online. È stata creata grazie ad una donazione allo stato di opere d’arte da parte di Sir Henri Tate, con lo scopo di istituire un museo d’arte moderna ed è ospitata in un edificio neoclassico progettato da Sidney R. J. Smith, che oggi corrisponde alla Tate Britain. Con il susseguirsi degli anni la collezione aumentò notevolmente e quindi venne suddivisa in diversi musei.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Depuis 2000 Tate à Londres comprend deux musées : Tate Britain (art britannique), fondée en 1897 ; Tate Modern (art moderne), fondée en 2000.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">泰特美術館是英國國立博物館，收藏英國與現代藝術，在英格蘭有四個據點：泰特不列顛（1897年成立、2000年重新命名）、泰特利物浦美術館（1988年）、泰特聖艾富思美術館（1993年）以及泰特現代藝術館（2000年），另外還有一個互相搭配的網站：泰特線上（1998年）。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">テート（テイト） (Tate) は、イギリス政府の持つイギリス美術コレクションや近現代美術コレクションを所蔵・管理する組織で、ロンドンなど各地にある国立の美術館を運営する。2000年の改組以前はテート（テイト）・ギャラリー (Tate Gallery) と呼ばれたが、それ以後はテート・ギャラリーと呼ばれることはなく、単にテイト（Tate）という。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">Tate – sieć czterech galerii w Anglii: Tate Britain (otwarta w 1897 i przemianowana w 2000), Tate Liverpool (1988), Tate St Ives (1993) i Tate Modern (2000). Organizacja jest niepubliczna, posiada własną witrynę internetową – Tate Online (1998).</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="sv">Tate är ett nätverk bestående av fem konstmuseer i Storbritannien: Tate Britain (1897), Tate Liverpool (1988), Tate St Ives (1993), Tate Online (1998), Tate Modern (2000) och Tate in Space (2002). Det ursprungliga Tate Gallery, som idag heter Tate Britain, ligger på Millbank i Westminster, London och grundades av Henry Tate för pengar han hade tjänat på sina sockerbruk. Det började som en samling av brittisk konst, med fokus på modern konst, vilket när det öppnades år 1897 innebar viktorianska konstnärer. Det har utökat sin samling till att omfatta även utländsk konst och att tidsramen för den brittiska samlingen utökats så att den sträcker sig från 1500-talet till idag. Alla museerna i nätverket delar en enda samling. Den brittiska och den moderna samlingen har sedan år 2000 separerats mellan respektive Tate Britain och Tate Modern. De andra museerna har verk från olika länder och konstperioder. 		 			Tate. britain. arp.750pix. jpg 			 Tate Britain 			 		 		 			Albert Docks Liverpool. jpg 			 Tate Liverpool 			 		 		 			St Ives, Cornwall, Porthmeor Beach. jpg 			 Tate St Ives 			 		 		 			Tate modern london 2001 02. jpg 			 Tate Modern</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">Tate es el nombre con el que se conoce a la Galería Nacional de arte británico y arte moderno en Inglaterra. Está compuesta por cuatro museos: el Tate Britain (abierto en 1897 y conocido anteriormente como Tate Gallery), el Tate Liverpool, el Tate St. Ives y el Tate Modern, más el sitio web de todo el conjunto, Tate Online, creado en 1998. El grupo Tate es estatal, y por ello recibe una dotación del tesoro público del gobierno británico. El cargo de director es por siete años.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="de">Tate Gallery ist ein Netzwerk von vier Galerien im Vereinigten Königreich: Tate Britain (eröffnet 1897), Tate Liverpool (1988), Tate St Ives (1993) und Tate Modern (2000) und einer zugehörigen Website: Tate Online (1998). Das Museum verleiht alljährlich den Turner-Preis an einen Künstler unter 50 Jahren.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">De Tate Gallery is een netwerk van 4 musea in Engeland: Tate Britain (1897), Tate Liverpool (1988), Tate St Ives (1993) en Tate Modern (2000). De Tate-organisatie beschikt over een online website Tate Online (1998). De Tate Gallery verleent jaarlijks de Turner Prize aan een Britse kunstenaar onder de vijftig jaar. Tate Gallery is genoemd naar Henry Tate, een door suikerplantages rijk geworden kunstverzamelaar, die de fondsen noodzakelijk om een nationaal museum te stichten aan de Britse staat heeft geschonken.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Tate é o museu nacional de arte moderna do Reino Unido sediado em Londres. Compreende quatro galerias: Tate Britain, Tate Liverpool, Tate St Ives e Tate Modern, com a ainda a galeria online, Tate Online. Foi fundada originalmente com o nome de National Gallery of British Art e renomeada após Henry Tate fundar um edifício especialmente para ela em Millbank, Londres. Henry Tate que fez fortuna com açúcar, fundou a Tate Britain em 1897, a fim de expor quadros e esculturas de artistas britânicos conteporâneos que a National Gallery não aceitava. Mais tarde a Tate Gallery começou a expor obras antigas até que foi decidido separar obras contemporâneas das antigas. Assim a Tate Gallery foi dividida e a construída em Millbank foi rebatizada como Tate Britain. Tate Britain: exibe arte britânica Tate Modern: exibe arte moderna Tate St Ives: exibe arte moderna de artistas britânicos St Ives School Tate Liverpool: única fora de Londres, exibe obras das outras tates x30px Este sobre Arte ou História da arte é um esboço. Você pode ajudar a Wikipédia expandindo-o.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">The Tate is an institution that houses the United Kingdom&#39;s national collection of British Art, and International Modern and Contemporary Art. It is a network of four art museums: Tate Britain, London (previously known as the Tate Gallery, founded 1897), Tate Liverpool (founded 1988), Tate St Ives, Cornwall (founded 1993) and Tate Modern, London (founded 2000), with a complementary website, Tate Online (created 1998). It is an executive non-departmental public body of the Department for Culture, Media and Sport. Tate is used as the operating name for the corporate body, which was established by the Museums and Galleries Act 1992 as The Board of Trustees of the Tate Gallery. The gallery was founded in 1897, as the National Gallery of British Art. When its role was changed to include the national collection of Modern Art as well as the national collection of British art, in 1932, it was renamed the Tate Gallery after sugar magnate Henry Tate of Tate &amp; Lyle, who had laid the foundations for the collection. The Tate Gallery was housed in the current building occupied by Tate Britain, which is situated in Millbank, London. In 2000, the Tate Gallery transformed itself into the current-day Tate, or the Tate Modern, which consists of a federation of four museums: Tate Britain, which displays the collection of British art from 1500 to the present day; Tate Modern, which is also in London, houses the Tate&#39;s collection of British and International Modern and Contemporary Art from 1900 to the present day. Tate Liverpool, in Liverpool has the same purpose as Tate Modern but on a smaller scale, and Tate St Ives displays Modern and Contemporary Art by artists who have connections with the area. All four museums share the Tate Collection. One of the Tate&#39;s most publicised art events is the awarding of the annual Turner Prize, which takes place at Tate Britain.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66101</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546725558</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="ja">テート・ギャラリー</rdfs:label>
+    <rdfs:label xml:lang="sv">Tate</rdfs:label>
+    <rdfs:label xml:lang="de">Tate Gallery</rdfs:label>
+    <rdfs:label xml:lang="pl">Tate (galerie)</rdfs:label>
+    <rdfs:label xml:lang="pt">Tate</rdfs:label>
+    <rdfs:label xml:lang="fr">Tate (galerie)</rdfs:label>
+    <rdfs:label xml:lang="es">Tate</rdfs:label>
+    <rdfs:label xml:lang="ru">Тейт (музеи)</rdfs:label>
+    <rdfs:label xml:lang="it">Tate Gallery</rdfs:label>
+    <rdfs:label xml:lang="en">Tate</rdfs:label>
+    <rdfs:label xml:lang="nl">Tate Gallery</rdfs:label>
+    <rdfs:label xml:lang="zh">泰特美術館</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/7/70/Tate-logo.png" />
+    <rdfs:comment xml:lang="en">The Tate is an institution that houses the United Kingdom&#39;s national collection of British Art, and International Modern and Contemporary Art. It is a network of four art museums: Tate Britain, London (previously known as the Tate Gallery, founded 1897), Tate Liverpool (founded 1988), Tate St Ives, Cornwall (founded 1993) and Tate Modern, London (founded 2000), with a complementary website, Tate Online (created 1998).</rdfs:comment>
+    <rdfs:comment xml:lang="it">La Tate Gallery (adesso ufficialmente Tate) di Londra, Inghilterra, è un complesso di quattro musei di stato: Tate Britain, Tate Liverpool, Tate St Ives e Tate Modern, con un sito web unico, Tate Online. È stata creata grazie ad una donazione allo stato di opere d’arte da parte di Sir Henri Tate, con lo scopo di istituire un museo d’arte moderna ed è ospitata in un edificio neoclassico progettato da Sidney R. J. Smith, che oggi corrisponde alla Tate Britain.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">テート（テイト） (Tate) は、イギリス政府の持つイギリス美術コレクションや近現代美術コレクションを所蔵・管理する組織で、ロンドンなど各地にある国立の美術館を運営する。2000年の改組以前はテート（テイト）・ギャラリー (Tate Gallery) と呼ばれたが、それ以後はテート・ギャラリーと呼ばれることはなく、単にテイト（Tate）という。</rdfs:comment>
+    <rdfs:comment xml:lang="pl">Tate – sieć czterech galerii w Anglii: Tate Britain (otwarta w 1897 i przemianowana w 2000), Tate Liverpool (1988), Tate St Ives (1993) i Tate Modern (2000). Organizacja jest niepubliczna, posiada własną witrynę internetową – Tate Online (1998).</rdfs:comment>
+    <rdfs:comment xml:lang="sv">Tate är ett nätverk bestående av fem konstmuseer i Storbritannien: Tate Britain (1897), Tate Liverpool (1988), Tate St Ives (1993), Tate Online (1998), Tate Modern (2000) och Tate in Space (2002). Det ursprungliga Tate Gallery, som idag heter Tate Britain, ligger på Millbank i Westminster, London och grundades av Henry Tate för pengar han hade tjänat på sina sockerbruk.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">De Tate Gallery is een netwerk van 4 musea in Engeland: Tate Britain (1897), Tate Liverpool (1988), Tate St Ives (1993) en Tate Modern (2000). De Tate-organisatie beschikt over een online website Tate Online (1998). De Tate Gallery verleent jaarlijks de Turner Prize aan een Britse kunstenaar onder de vijftig jaar.</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Tate é o museu nacional de arte moderna do Reino Unido sediado em Londres. Compreende quatro galerias: Tate Britain, Tate Liverpool, Tate St Ives e Tate Modern, com a ainda a galeria online, Tate Online. Foi fundada originalmente com o nome de National Gallery of British Art e renomeada após Henry Tate fundar um edifício especialmente para ela em Millbank, Londres.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Depuis 2000 Tate à Londres comprend deux musées : Tate Britain (art britannique), fondée en 1897 ; Tate Modern (art moderne), fondée en 2000.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">泰特美術館是英國國立博物館，收藏英國與現代藝術，在英格蘭有四個據點：泰特不列顛（1897年成立、2000年重新命名）、泰特利物浦美術館（1988年）、泰特聖艾富思美術館（1993年）以及泰特現代藝術館（2000年），另外還有一個互相搭配的網站：泰特線上（1998年）。</rdfs:comment>
+    <rdfs:comment xml:lang="es">Tate es el nombre con el que se conoce a la Galería Nacional de arte británico y arte moderno en Inglaterra. Está compuesta por cuatro museos: el Tate Britain (abierto en 1897 y conocido anteriormente como Tate Gallery), el Tate Liverpool, el Tate St. Ives y el Tate Modern, más el sitio web de todo el conjunto, Tate Online, creado en 1998. El grupo Tate es estatal, y por ello recibe una dotación del tesoro público del gobierno británico. El cargo de director es por siete años.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Tate Gallery ist ein Netzwerk von vier Galerien im Vereinigten Königreich: Tate Britain (eröffnet 1897), Tate Liverpool (1988), Tate St Ives (1993) und Tate Modern (2000) und einer zugehörigen Website: Tate Online (1998). Das Museum verleiht alljährlich den Turner-Preis an einen Künstler unter 50 Jahren.</rdfs:comment>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tate-logo.png/200px-Tate-logo.png" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/podcasts/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/shop/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/servlet/BrowseGroup?cgroupid=999999998" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/space/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.turnermuseum.org/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://channel.tate.org.uk/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/servlet/BrowseGroup?cgroupid=999999953" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/research/researchservices/archive/archiverecords.htm" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.tate.org.uk/tateetc/" />
+    <geo:geometry rdf:datatype="http://www.openlinksw.com/schemas/virtrdf#Geometry">POINT(-0.127 51.491)</geo:geometry>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Tate" />
+    <geo:long rdf:datatype="http://www.w3.org/2001/XMLSchema#float">-0.127</geo:long>
+    <geo:lat rdf:datatype="http://www.w3.org/2001/XMLSchema#float">51.491</geo:lat>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Tate?oldid=546725558" />
+    <grs:point xml:lang="en">51.491 -0.127</grs:point>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Britain">
+    <dbpedia-owl:network rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Modern">
+    <dbpedia-owl:network rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Browne,_Baron_Browne_of_Madingley">
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Farms_near_Auvers_(Van_Gogh)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Tate_Gallery">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Tate_(galerie)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_gallery">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Symphony_in_White,_No._2:_The_Little_White_Girl">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Three_Dancers">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.nytimes.com/35071449671220490622">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Age_of_Innocence_(painting)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colonel_Mordaunt&#39;s_Cock_Match">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chichester_Canal_(painting)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mariana_(Millais)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Elephant_Celebes">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Piet%C3%A0_or_Revolution_by_Night">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Awakening_Conscience">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Collection">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Liverpool">
+    <dbpedia-owl:network rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hope_(painting)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Tate_(galerie)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Regie_Hamm">
+    <dbpedia-owl:recordLabel rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:label rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marilyn_Diptych">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Weeping_Woman">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Night_of_Enitharmon&#39;s_Joy">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_(London)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_(gallery)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Distinguished_Member_of_the_Humane_Society">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ellen_Terry_as_Lady_Macbeth">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Gallery">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Colonel_Acland_and_Lord_Sydney:_The_Archers">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pity_(William_Blake)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Tate_Gallery">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nocturne:_Blue_and_Silver_%E2%80%93_Chelsea">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_End_of_the_World_(painting)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Snail">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forest_and_Dove">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mr_and_Mrs_Clark_and_Percy">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_in_Space">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Online">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Reality_and_Dreams">
+    <dbpedia-owl:coverArtist rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:coverArtist rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Tate_Gallery">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/テート・ギャラリー">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate.org">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Galleries">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Gallery,_London">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_Museum">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tate_and_Tate_Modern">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Tate">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Tate">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Gallery_of_British_Art">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Flatford_Mill_(Scene_on_a_Navigable_River)">
+    <dbpprop:owner rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Тейт_(музеи)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Tate_Gallery">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Consulting_the_Oracle">
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guyanan_spiny_rat">
+    <dbpedia-owl:binomialAuthority rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sheepshanks_Collection">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vernon_Gallery">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q430682">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/泰特美術館">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Галерэя_Тэйт">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Tate_Gallery">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/تیت">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gl.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/גלריית_טייט">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Tate_Galéria">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/ტეიტი">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Pinacotheca_Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lt.dbpedia.org/resource/Tate_muziejus">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mk.dbpedia.org/resource/Тејт">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Tate_Gallery">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Тејт_галерије">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/หอศิลป์เทท">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Tate">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Тейт_(група_галерей)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Tate" />
+  </rdf:Description>
+</rdf:RDF>

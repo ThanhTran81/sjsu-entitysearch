@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns6="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Conscience_of_the_King">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lion_King">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(opera)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Works_based_on_Hamlet">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8950904" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17725074</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">463148743</dbpedia-owl:wikiPageRevisionID>
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Adaptations_of_works_by_William_Shakespeare" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Hamlet" />
+    <rdfs:label xml:lang="en">Works based on Hamlet</rdfs:label>
+    <skos:prefLabel xml:lang="en">Works based on Hamlet</skos:prefLabel>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Category:Works_based_on_Hamlet?oldid=463148743" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Silverlock">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Song_for_Athene">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Plays_and_musicals_based_on_Hamlet">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gertrude_and_Claudius">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Something_Rotten_(novel)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Story_of_Edgar_Sawtelle">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dating_Hamlet">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Something_Rotten">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Klingon_Hamlet">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Producer">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_Had_an_Uncle">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet&#39;s_Father">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Films_based_on_Hamlet">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Amleto">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ophelia_(painting)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ophelia&#39;s_Revenge">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hamlet_(Tchaikovsky)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sons_of_Anarchy">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dead_Fathers_Club">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Born_to_Be_King_(Blackadder)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q8950904">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Works_based_on_Hamlet" />
+  </rdf:Description>
+</rdf:RDF>

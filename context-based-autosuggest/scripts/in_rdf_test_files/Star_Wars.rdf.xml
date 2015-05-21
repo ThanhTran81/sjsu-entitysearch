@@ -1,0 +1,1615 @@
+<rdf:RDF xmlns:prov="http://www.w3.org/ns/prov#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_Command_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Slave_Ship_(Jeter_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Death_Star_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sacrifice_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_The_Clone_Wars_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Luke_Skywalker_and_the_Shadows_of_Mindor">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dharma_of_Star_Wars">
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Weekends">
+    <dbpedia-owl:genre rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialEvent107288639"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Show106619065"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Movie106613686"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ElstreeStudiosFilms"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <owl:sameAs rdf:resource="http://als.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/Hviezdne_vojny_(kult)"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/Vojna_zvezd"/>
+    <owl:sameAs rdf:resource="http://scn.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://sah.dbpedia.org/resource/Сулустар_сэриилэрэ"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/Războiul_stelelor_(franciză)"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Звёздные_войны"/>
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://uz.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://vep.dbpedia.org/resource/Tähthasižed_voinad"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/Chiến_tranh_giữa_các_vì_sao"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Yıldız_Savaşları"/>
+    <owl:sameAs rdf:resource="http://tl.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Зоряні_війни"/>
+    <owl:sameAs rdf:resource="http://tt.dbpedia.org/resource/Йолдыз_сугышлары"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/La_guerra_de_les_galàxies"/>
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/ஸ்டார்_வார்ஸ்"/>
+    <owl:sameAs rdf:resource="http://szl.dbpedia.org/resource/Gwjezdne_wojny"/>
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/สตาร์_วอร์ส"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/스타_워즈"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Междузвездни_войни"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Звездани_ратови"/>
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/Ratovi_zvijezda"/>
+    <owl:sameAs rdf:resource="http://sq.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Ulduz_müharibələri"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Зорныя_войны"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q462"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/حرب_النجوم_(فيلم)"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Guerre_stellari"/>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06mmr"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/ვარსკვლავური_ომები"/>
+    <owl:sameAs rdf:resource="http://ast.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://jv.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://kn.dbpedia.org/resource/ಸ್ಟಾರ್_ವಾರ್ಸ್‌"/>
+    <owl:sameAs rdf:resource="http://gd.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://ia.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/מלחמת_הכוכבים"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://fo.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://io.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/Tähtien_sota"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/Zvjezdani_ratovi"/>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/स्टार_वॉर्स"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/Tähtede_sõda"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Աստղային_պատերազմներ"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/Csillagok_háborúja"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q462"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/جنگ_ستارگان"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Ο_Πόλεμος_των_Άστρων"/>
+    <owl:sameAs rdf:resource="http://zh_min_nan.dbpedia.org/resource/Seng-kiû_Tāi-chiàn"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/星際大戰"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/Gwiezdne_wojny"/>
+    <owl:sameAs rdf:resource="http://new.dbpedia.org/resource/स्टार_वार"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/സ്റ്റാർ_വാർസ്"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Војна_на_ѕвездите"/>
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/स्टार_वॉर्स"/>
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Zvaigžņu_kari"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/Guerra_nas_Estrelas"/>
+    <owl:sameAs rdf:resource="http://lt.dbpedia.org/resource/Žvaigždžių_karai"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Star_Wars"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/スター・ウォーズ・シリーズ"/>
+    <rdfs:label xml:lang="en">Star Wars</rdfs:label>
+    <rdfs:label xml:lang="ja">スター・ウォーズ・シリーズ</rdfs:label>
+    <rdfs:label xml:lang="fr">Star Wars</rdfs:label>
+    <rdfs:label xml:lang="nl">Star Wars</rdfs:label>
+    <rdfs:label xml:lang="it">Guerre stellari</rdfs:label>
+    <rdfs:label xml:lang="es">Star Wars</rdfs:label>
+    <rdfs:label>Star Wars</rdfs:label>
+    <rdfs:label xml:lang="pt">Guerra nas Estrelas</rdfs:label>
+    <rdfs:label xml:lang="ar">حرب النجوم (فيلم)</rdfs:label>
+    <rdfs:label xml:lang="pl">Gwiezdne wojny</rdfs:label>
+    <rdfs:label xml:lang="zh">星際大戰</rdfs:label>
+    <rdfs:label xml:lang="ru">Звёздные войны</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:20th_Century_Fox_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Elstree_Studios_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lucasfilm_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1977_introductions"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Science_fiction_films_by_series"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Disney_franchises"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fantasy_films_by_series"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Adventure_films_by_series"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Star_Wars"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wars_in_fiction"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Monomyths"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Politics_in_fiction"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Star_Wars"/>
+    <foaf:homepage rdf:resource="http://www.starwars.com/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://books.google.co.uk/books?id=vpbuSXSSqdkC&amp;pg=PA519"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://secrethistoryofstarwars.com/book.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.starwars.com/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Making-Star-Wars-Episode-III/dp/0345431391"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Peace-Knights-Soul-Jon-Snodgrass/dp/0975521470"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Power-Myth-Joseph-Campbell/dp/0385418868"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Star-Wars-Magic-Myth-Wars/dp/0553102060"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Star-Wars-Philosophy-Popular-Culture/dp/0812695836"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Star-Wars-Screenplays-Laurent-Bouzereau/dp/0345409817"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Tao-Star-Wars-John-Porter/dp/0893343854"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Christian-Wisdom-Jedi-Masters-Staub/dp/0787978949"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Dharma-Star-Wars-Matthew-Bortolin/dp/0861714970"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.amazon.com/Joseph-Campbell-Fire-Stephen-Larsen/dp/0892818735"/>
+    <dbpprop:radio xml:lang="en">* Star Wars: A New Hope
+* Star Wars: The Empire Strikes Back
+* Star Wars: Return of the Jedi</dbpprop:radio>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <dbpprop:caption xml:lang="en">The Star Wars title card/logo, as seen in all films</dbpprop:caption>
+    <dbpprop:caption xml:lang="en">Just like the franchise, its fictional weapons contained in it, such as the lightsaber and the blaster, have been used in popular culture and have been an iconic part of the franchise.</dbpprop:caption>
+    <dbpprop:comics rdf:resource="http://dbpedia.org/resource/Star_Wars_(comics)"/>
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:direction xml:lang="en">vertical</dbpprop:direction>
+    <dbpprop:films xml:lang="en">* 
+* 
+* 
+* 
+* 
+* 
+* 
+*</dbpprop:films>
+    <dbpprop:image xml:lang="en">Lightsaber blue.svg</dbpprop:image>
+    <dbpprop:image xml:lang="en">StormTrooper Blaster.jpg</dbpprop:image>
+    <dbpprop:novels rdf:resource="http://dbpedia.org/resource/List_of_Star_Wars_books"/>
+    <dbpprop:origin xml:lang="en">Star Wars</dbpprop:origin>
+    <dbpprop:title xml:lang="en">Star Wars</dbpprop:title>
+    <dbpprop:tv xml:lang="en">* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+*</dbpprop:tv>
+    <dbpprop:vgs xml:lang="en">* List of Star Wars video games
+By series:
+* X-Wing
+* Jedi Knight
+* Rebel Alliance
+* Rogue Squadron
+* Knights of the Old Republic
+* Battlefront
+* Commando
+* Empire at War
+* Galaxies
+* Lego Star Wars
+* The Force Unleashed</dbpprop:vgs>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</dbpprop:width>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_Logo.svg"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_Logo.svg?width=300"/>
+    <dbpedia-owl:abstract xml:lang="ar">حرب النجوم (بالإنجليزية: Star Wars، ستار ورز) هو فيلم خيال علمي تأليف وإخراج جورج لوكاس. الملحمه قصة بدأت مع فيلم حرب النجوم بعد تسميته حرب النجوم الجزء الرابع: امل جديد الذي صدر يوم 25 مايو 1977، من تونتيث سينتشوري فوكس. الفيلم أصبح ظاهرة ثقافية عالمية، تضم الملحمة ستة افلام وكون موسع يضم مسلسلات تلفزيونيه ومجموعة واسعة من الكتب والمجلات الهزليه لها، وألعاب الفيديو، كل مجموعة ضمن اطار خيالي يحدث في "زمن سحيق جدا وفي مجرة بعيدة، بعيدة جدا". وفي عام 2005، مجلة فوربس قدرت الإيرادات المتولده من كل حرب النجوم (على مدار تاريخها) بحوالى 20 مليار دولار أمريكي، مما يجعلها واحدة من انجح البرامج على الإطلاق.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Шаблон:Медиафраншиза«Звёздные во́йны» (англ. Star Wars, МФА: [stɑːɹ wɔːɹz]) — культовая эпическая фантастическая сага, включающая в себя 6 кинофильмов, а также анимационные сериалы, мультфильмы, телефильмы, книги, комиксы, видеоигры — все пронизанные единой сюжетной линией и созданные в единой фантастической Вселенной «Звёздных войн», задуманной и реализованной американским режиссёром Джорджем Лукасом в начале 1970-х годов и позднее расширенной. Сага, а в особенности первые кинофильмы, оказали огромное влияние на современную западную культуру, вошли в число шедевров научно-фантастического кино, и по разным опросам даже признавались лучшими за всю историю кинематографа.Первый фильм вышел 25 мая 1977 года под названием «Звёздные войны». Фильм имел огромный кассовый успех, что фактически спасло компанию 20th Century Fox от угрожавшего ей тогда банкротства. Когда сомнения в окупаемости проекта отпали, первый фильм получил подзаголовок «Новая надежда», и вскоре за ним появились два продолжения — в 1980 и 1983 годах.В 1997 году, 20 лет спустя после выхода первого фильма, оригинальная трилогия была переработана с добавлением компьютерных спецэффектов и выпущена в повторный прокат. В повторном прокате фильмы собрали соответственно 256,5 млн, 124,2 млн и 88,7 млн долларов.В 1999 году на экраны был выпущен фильм «Звёздные войны. Эпизод I: Скрытая угроза», который положил начало новой трилогии — предыстории оригинальной.По признанию Джорджа Лукаса, идея фильма возникла под влиянием исследований Джозефа Кэмпбелла по сравнительной мифологии («Герой с тысячью лицами» и др.).Началом истории «Звёздных войн» принято считать 1976 год. Именно тогда появилась одноимённая книга-новеллизация А. Д. Фостера и Джорджа Лукаса, рассказывающая о событиях «Эпизода IV: Новая надежда». Продюсеры 20th Century Fox опасались провала фильма в прокате, и решили выпустить книгу раньше, чтобы оценить её успешность. В 1997 году на Конгрессе Всемирного сообщества научной фантастики Джордж Лукас получил специальную премию «Хьюго» за этот роман.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">《星球大戰》（英语：Star Wars），中文可簡稱星戰，是美國導演兼編劇喬治·盧卡斯所構思拍攝的一系列科幻電影。同时“星球大戰”也是该系列電影最早拍摄上映的第四章故事的原始片名。从1970年代末到1980年代，盧卡斯出品了《星球大戰》三部曲。他曾説明第一部星戰（第四部曲）的人物及故事是參照日本導演黑澤明的《戰國英豪》隠し砦の三悪人 所創作而成；原三部曲以二戰英德大戰為架構並溶入美國西部片及日本武士刀劇的節奏；藴涵了太空冒險、希臘神話的大視野制作。影片中所特別使用的特效從此定義並改變了太空科幻片的未來發展。1990年代末基於各界要求又拍摄了原三部曲之前的故事，又叫“星战前传”。同时他把最初的三部曲改为六部系列的第四、五、六集，并将最早的第四集改名为「新希望」「new hope」。2012年10月，華特迪士尼公司以40.5億美元收購盧卡斯影業，迪士尼公司亦宣布製作星戰新作三部曲，第七部電影將在英國拍摄，預定於2015年上映。该片描写在很久以前的一个遥远的銀河系，肩负正义使命感的绝地武士与帝國邪恶黑暗势力作戰的故事。绝地武士是一群有着非凡天赋的人，經由各种筛选，他们在幼年即开始接受嚴格特殊训练，其宗旨是认识和使用“原力”（Force）。训练有素的绝地武士有極強的意志力可以使用无所不在的“原力”來維護銀河間的和平。比如，控制意志較弱人的思想，甚至可以預感将要发生的事情，所以绝地武士有着非凡的戰鬥能力。故事以三條主線貫穿：銀河共和國轉變為銀河帝國的過程中引發內戰，反抗軍與帝國軍互相對抗；絕地武士階級的興衰起落；以及天行者家族在大環境下面臨的種種挑戰。本片開啟好萊塢電影商品授權的龐大事業，旗下分別有小說、漫畫、玩具與電玩遊戲等相關周邊產業，系列中每部電影，小說與電玩遊戲，皆以“在很久以前，在一個很遙遠、遙遠的星系……”（A long time ago, in a galaxy far, far away...）開頭。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Star Wars is an American epic space opera franchise centered on a film series created by George Lucas. The film series, consisting of two trilogies, has spawned an extensive media franchise called the Expanded Universe including books, television series, computer and video games, and comic books. These supplements to the franchise resulted in significant development of the series' fictional universe, keeping the franchise active in the 16-year interim between the two film trilogies. The franchise depicts a galaxy described as far, far away in the distant past, and it commonly portrays Jedi as a representation of good, in conflict with the Sith, their evil counterpart. Their weapon of choice, the lightsaber, is commonly recognized in popular culture. The franchise's storylines contain many themes, with strong influences from philosophy and religion.The first film in the series was originally released on May 25, 1977, under the title Star Wars, by 20th Century Fox, and became a worldwide pop culture phenomenon, followed by two sequels, released at three-year intervals. Sixteen years after the release of the trilogy's final film, the first in a new prequel trilogy of films was released. The three prequel films were also released at three-year intervals, with the final film of the trilogy released on May 19, 2005. In October 2012, The Walt Disney Company acquired Lucasfilm for $4.05 billion and announced that it would produce three new films, with the first film, Star Wars Episode VII, planned for release in 2015. 20th Century Fox still retains the distribution rights to the first two Star Wars trilogies, owning permanent rights for the original film Episode IV: A New Hope, while holding the rights to Episodes I–III, V, and VI until May 2020.Reactions to the original trilogy were mostly positive, with the last film being considered the weakest, while the prequel trilogy received a more mixed reaction, with most of the praise being for the final film, according to most review aggregator websites. All six of the main films in the series were also nominated for or won Academy Awards. All of the main films have been box office successes, with the overall box office revenue generated by the Star Wars films (including the theatrical Star Wars: The Clone Wars) totalling $4.38 billion, making it the fifth-highest-grossing film series. The success has also led to multiple re-releases in theaters for the series.Disney Publishing Worldwide also announced that Del Rey Books would publish a new line of canon Star Wars books under the Lucasfilm Story Group being released starting in September on a bi-monthly schedule. The Star Wars Legends banner would be used for those Extended Universe materials that are in print.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">Guerra nas Estrelas (Brasil) ou Guerra das Estrelas (Portugal) (do título original Star Wars) é o título de uma space opera americana que foi transformada numa série de seis filmes de fantasia escritos por George Lucas. O primeiro filme da série foi lançado originalmente pela 20th Century Fox em 25 de maio de 1977 sob o título Star Wars, tornando-se um fenômeno mundial de cultura popular. Foi acompanhado por duas sequências, Empire Strikes Back e Return of the Jedi, lançadas em intervalos de três anos. Dezesseis anos depois da exibição do último filme teve início uma nova trilogia, mais uma vez lançada em intervalos de três anos, com o último filme sendo lançado em 19 de maio de 2005.Em 2008, a soma da bilheteria arrecadada pelos seis filmes Star Wars totalizava aproximadamente 4,41 bilhões\mil milhões de dólares, fazendo desta a quarta série cinematográfica com maior bilheteria de todos os tempos, atrás dos filmes do Universo Marvel Cinematográfico, James Bond e Harry Potter. Como subprodutos surgiram também uma franquia literária, uma série de jogos eletrônicos e desenhos animados (incluindo inúmeros prelúdios, sequências e adaptações literárias). A franquia toda soma mais de 30 bilhões de dólares, o que faz dela a franquia mais lucrativa da história.A série vai expandir-se com o lançamento do Episódio VII, que tem o lançamento anunciado para 2015 pela The Walt Disney Company, que adquiriu a produtora da série, a Lucasfilm, por US$4,05 bilhões. Os episódios VIII e IX também foram anunciados.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Guerre stellari (inglese: Star Wars) è una saga cinematografica creata da George Lucas. La trama, scritta negli anni settanta, è una delle poche serie di space opera nel cinema. Fin dall'inizio pensato come tre trilogie, i primi film prodotti facevano parte della trilogia di mezzo, a partire dal quarto capitolo Guerre stellari, uscito il 25 maggio 1977 negli Stati Uniti d'America (il 21 ottobre dello stesso anno in Italia) e divenne subito un fenomeno, grazie alla miscela di elementi presi da cinema, fumetti e televisione.. Si tratta di una delle più massicce e importanti opere di concept artist del XX Secolo.Il 30 ottobre 2012, con l'annuncio dell'acquisizione della LucasFilm da parte della Disney, viene annunciata ufficialmente la produzione di una terza trilogia (sempre negata dallo stesso Lucas, negli anni successivi alla conclusione della prequel trilogy), nonché seguito della vecchia, con: Episodio VII che uscirà il 18 dicembre 2015 (che sarà diretto da J. J. Abrams che lo co-sceneggierà insieme a Lawrence Kasdan)., Episodio VIII nel 2017 e Episodio IX nel 2019.Inoltre è stata annunciata la produzione di una trilogia di "Spin-Off" dedicati a tre determinati personaggi diversi visti nelle due trilogie, e usciranno ciascuno ad un anno di distanza da ogni nuovo capitolo della nuova trilogia, in modo da avere dal 2015 al 2020 un film di Star Wars ogni anno.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract>Star Wars (BE [stɑː wɔːz], AE [stɑːɹ wɔːɹz], dt. Krieg der Sterne, wörtlich „Sternenkriege“) ist ein von dem Drehbuchautor, Produzenten und Regisseur George Lucas erdachtes Heldenepos. Die Space Opera begann mit dem Film Krieg der Sterne, der am 25. Mai 1977 in den US-amerikanischen und am 2. Februar 1978 in den westdeutschen Kinos anlief. Der Film entwickelte sich zu einem Phänomen der heutigen Popkultur. Fünf weitere Spielfilme folgten sowie eine Reihe von lizenzierten Büchern, Comic-Heften, Videospielen, Nebenfilmen, Fernsehserien, Spielzeugen, Kostümen, Rollenspielen und anderen Produkten.Im Jahr 2005 schätzte das Forbes Magazine die durch Star-Wars-Merchandising über 28 Jahre erwirtschafteten Einnahmen und ermittelte eine Gesamtsumme von beinahe 20 Milliarden US-Dollar. Somit ist Star Wars, finanziell gesehen, das erfolgreichste Filmprojekt aller Zeiten.Im Wesentlichen handelt Star Wars vom andauernden Kampf zwischen Gut und Böse. Dieser Kampf spielt sich „vor langer Zeit“ in einer „weit, weit entfernten Galaxie“ ab und gilt deshalb als moderne Version eines Märchens oder einer Kunstsage. Auch die Charaktere stellen Archetypen aus Märchen, Heldensage und Fantasy dar. Als Beispiele dafür seien Darth Vader als schwarzer Ritter, Imperator Palpatine als böser König bzw. Hexer und denen gegenüber Luke Skywalker als klassischer Held genannt, der die Prinzessin Leia aus der Hand des bösen Imperators befreit. Diese archetypischen Motive und mythologischen Elemente wurden vermischt und in eine Handlungswelt projiziert, die an klassische Science-Fiction erinnert.Am 30. Oktober 2012 gaben Star-Wars-Schöpfer George Lucas und die Walt Disney Company bekannt, dass Disney das Unternehmen Lucasfilm mit sämtlichen Tochterunternehmen, darunter das Spezialeffekt-Unternehmen Industrial Light &amp; Magic (ILM), und allen Markenrechten für rund 4,05 Milliarden US-Dollar (ca. 3,12 Milliarden Euro, 3,78 Milliarden Schweizer Franken) vom bisherigen Alleineigentümer George Lucas gekauft hat. Teil der Transaktion sind Lucas’ Entwürfe für die Star-Wars-Fortsetzungen Episode VII bis IX, die Disney zeitnah verfilmen möchte. Star Wars: Episode VII soll unter der Regie von J. J. Abrams am 18. Dezember 2015 in die Kinos kommen, Episode VIII und IX sollen dann in je zwei Jahren Abstand folgen.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">Star Wars ("Sterrenoorlogen") is een Amerikaanse epische space-opera-franchise in handen van de Walt Disney Company (na de overname van Lucasfilm Ltd.), die bestaat uit een filmserie bedacht door George Lucas. Op dit moment zijn er zes films, die opgenomen zijn in twee reeksen van drie. Dit zijn de Oorspronkelijke-trilogie (1977-1983) en Prequel-trilogie (1999-2005). De episodes hebben in de loop van de jaren verschillende nabewerkingen gehad. De films samen werden genomineerd voor 25 Academy Awards, waarvan ze er tien wonnen. Voor 2015 staat de film Star Wars Episode VII gepland, die het eerste deel moet zijn voor de Sequel trilogy. De filmserie heeft geleid tot een media-franchise buiten de filmreeks om genaamd de Expanded Universe. De franchise portretteert een universum dat zich afspeelt in een sterrenstelsel dat wordt omschreven als ver, ver weg. Het toont vaak de Jedi als een representatie van het goede, in strijd met de Sith, hun kwade tegenhanger. Hun wapen van keuze, het lichtzwaard, wordt algemeen erkend in de popcultuur. Het fictieve universum bevat ook veel thema's, met name invloeden van filosofie en religie. Een voorbeeld hiervan is De Kracht (The Force).</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">『スター・ウォーズ』（英語：Star Wars）シリーズは、ジョージ・ルーカスが温めていた構想を元に映画化された、スペースオペラ作品である。辺境の惑星で奴隷の身分であった一人の少年アナキン・スカイウォーカーとその子供達の成長、銀河系の自由と正義の守護者ジェダイと銀河系の悪と恐怖の信奉者シスの攻防、そして、銀河規模の共同国家体銀河共和国から銀河帝国へ変わり、そして、帝国の圧制に対する反乱により再び復活した「新共和国」への変遷を描いた物語である。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pl">Gwiezdne wojny (ang. Star Wars) – seria filmów fantastycznych z gatunku space opera (science fantasy) George’a Lucasa oraz innych produktów związanych ze światem stworzonym w filmie: wydawnictw literackich, komiksów, gier fabularnych, gier komputerowych itp.Trzonem świata Gwiezdnych wojen pozostaje sześć pełnometrażowych filmów. Filmy te, w kolejności chronologicznej wydarzeń: Gwiezdne wojny: część I – Mroczne widmo (19 maja 1999) Gwiezdne wojny: część II – Atak klonów (16 maja 2002) Gwiezdne wojny: część III – Zemsta Sithów (15 maja 2005) Gwiezdne wojny: część IV – Nowa nadzieja (25 maja 1977) Gwiezdne wojny: część V – Imperium kontratakuje (21 maja 1980) Gwiezdne wojny: część VI – Powrót Jedi (25 maja 1983)30 października 2012 roku wytwórnia Lucasfilm odpowiedzialna za dotychczasowe epizody serii, została sprzedana korporacji The Walt Disney Company, która zapowiedziała, że w 2015 roku ukaże się film Gwiezdne wojny: część VII, a także kolejne filmy w późniejszych latach. Pierwszy z nich ma wyreżyserować Jeffrey Abrams.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">Star Wars, también conocida en España e Hispanoamérica como La guerra de las galaxias, aunque literalmente significa «Guerras estelares», es una franquicia de medios estadounidense bajo el concepto de la opereta espacial épica, concebida por el guionista, director y productor de cine George Lucas. La primera película de la franquicia, Star Wars: Episode IV - A New Hope, contó con los actores Mark Hamill, Harrison Ford, Carrie Fisher, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, Peter Cushing y David Prowse y, aunque tuvo numerosas dificultades durante la producción, 20th Century Fox se encargó finalmente de su distribución, con lo que su estreno tuvo lugar el 25 de mayo de 1977. Pasado el tiempo, pasó a convertirse en un fenómeno de la cultura popular a nivel mundial y su influencia ha sido reconocida por numerosos cineastas. El éxito de la película hizo que Lucas se involucrara en la financiación de las dos secuelas que completaron la llamada «trilogía original», Star Wars: Episode V - The Empire Strikes Back y Star Wars: Episode VI - Return of the Jedi, a las que se incorporaron nuevos actores como Billy Dee Williams, Frank Oz e Ian McDiarmid, y que fueron estrenadas en intervalos de tres años.Dieciséis años después llegó a los cines Star Wars: Episode I - The Phantom Menace, la primera cinta de una nueva trilogía centrada en los años previos a la anterior. Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Hayden Christensen, Samuel L. Jackson y Christopher Lee fueron algunos de los principales miembros del reparto, que también contó con la presencia de algunos actores de la trilogía original. Star Wars: Episode II - Attack of the Clones y Star Wars: Episode III - Revenge of the Sith, estrenadas nuevamente en intervalos de tres años, completaron una saga que recaudó aproximadamente 5510 millones USD estadounidenses entre las seis películas, convirtiéndola en la tercera más exitosa de todos los tiempos por detrás de las franquicias de James Bond y Harry Potter, sin considerar la inflación. En octubre de 2012, The Walt Disney Company adquirió a Lucasfilm, y anunció la producción de una nueva trilogía cinematográfica, cuya primera película se estrenará en 2015.La saga cinematográfica de Star Wars ha derivado en otros medios, tales como libros, series de televisión, videojuegos, historietas o juegos de rol. Dichos suplementos conforman el denominado «Universo expandido», a partir del cual se ha desarrollado de forma significativa el material ficticio de la saga. Además, esta colección de medios ha profundizado en cuestiones apenas incorporadas en las películas originales, extendiendo por otra parte las tramas presentadas en cada trilogía. En 2008 se estrenó Star Wars: The Clone Wars, convirtiéndose en la primera cinta de la franquicia en lanzarse a nivel mundial y que no forma parte de las trilogías originales. Asimismo cabe señalar que esta fue la primera película animada de Star Wars, destinada a servir de introducción de la serie televisiva homónima y que se basa en la serie previa también del mismo nombre. En 2012, Rovio Entertainment Ltd. (compañía creadora de la franquicia de juegos de Angry Birds), junto con LucasArt, desarrollaron Angry Birds Star Wars, un crossover de la franquicia de películas y los pájaros enojados basada en la trilogía original. Un año después, salió Angry Birds Star Wars II, secuela del juego y basada en la prequela original.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Star Wars (à l'origine nommée en France et au Québec sous son titre français, La Guerre des étoiles) est une épopée cinématographique de science-fiction créée par George Lucas en 1977. D'abord conçue comme une trilogie sortie entre 1977 et 1983, la saga s'est ensuite élargie de trois films sortis entre 1999 et 2005 racontant des événements antérieurs aux premiers. Tous ont connu un grand succès commercial et la première trilogie (épisodes IV, V et VI) a reçu un accueil critique très positif, qui ne sera néanmoins pas autant au rendez-vous pour la deuxième trilogie (épisodes I, II et III). Dans un souci de cohérence et pour atteindre un résultat qu'il n'avait pas pu obtenir dès le départ, le créateur de la saga a également retravaillé les films de sa première trilogie, ressortis en 1997 et 2004 dans de nouvelles versions. Les droits d'auteur de Star Wars ont été achetés en octobre 2012 par la Walt Disney Company pour un peu plus de 4 milliards de dollars, la sortie au cinéma du VIIe épisode de l'épopée est alors planifiée pour 2015.En accord avec les lois du genre space opera, l'action se déroule « Il y a bien longtemps, dans une galaxie lointaine » et se fonde sur la lutte entre les chevaliers Jedi et les Sith. Le personnage central Anakin Skywalker cède à la tentation du côté obscur de la Force pour devenir Dark Vador (en version originale Darth Vader), puis connait sa rédemption grâce à l'action de son fils, Luke. Les nombreux personnages emblématiques, humains et aliens, ont permis de lancer quelques carrières d'acteurs, notamment Harrison Ford. L'univers a été décliné dans divers produits dérivés conçus ou non sous l'égide de Lucas : romans, bandes dessinées, jeux vidéo, séries, etc. L'histoire de la série est ainsi élargie et approfondie par divers médias.Le monde de Star Wars est inspiré de nombreuses œuvres cinématographiques (serials, western, cinéma japonais), mais aussi littéraires (essentiellement d'après les ouvrages de Frank Herbert, mais aussi d'Isaac Asimov et de J. R. R. Tolkien) et de faits historiques réels. À son tour, le monde créé par George Lucas a influencé une génération de réalisateurs et contribué à la création de nouvelles techniques dans le domaine du cinéma, notamment en ce qui concerne le montage, les bruitages et les effets spéciaux. L'univers de Star Wars a fait l'objet de nombreuses parodies et hommages et dispose également d'une grande communauté de fans qui s'exprime par le biais de diverses manifestations.</dbpedia-owl:abstract>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Star_Wars?oldid=606009606"/>
+    <rdfs:comment xml:lang="pl">Gwiezdne wojny (ang. Star Wars) – seria filmów fantastycznych z gatunku space opera (science fantasy) George’a Lucasa oraz innych produktów związanych ze światem stworzonym w filmie: wydawnictw literackich, komiksów, gier fabularnych, gier komputerowych itp.Trzonem świata Gwiezdnych wojen pozostaje sześć pełnometrażowych filmów.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Guerre stellari (inglese: Star Wars) è una saga cinematografica creata da George Lucas. La trama, scritta negli anni settanta, è una delle poche serie di space opera nel cinema.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Шаблон:Медиафраншиза«Звёздные во́йны» (англ. Star Wars, МФА: [stɑːɹ wɔːɹz]) — культовая эпическая фантастическая сага, включающая в себя 6 кинофильмов, а также анимационные сериалы, мультфильмы, телефильмы, книги, комиксы, видеоигры — все пронизанные единой сюжетной линией и созданные в единой фантастической Вселенной «Звёздных войн», задуманной и реализованной американским режиссёром Джорджем Лукасом в начале 1970-х годов и позднее расширенной.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">《星球大戰》（英语：Star Wars），中文可簡稱星戰，是美國導演兼編劇喬治·盧卡斯所構思拍攝的一系列科幻電影。同时“星球大戰”也是该系列電影最早拍摄上映的第四章故事的原始片名。从1970年代末到1980年代，盧卡斯出品了《星球大戰》三部曲。他曾説明第一部星戰（第四部曲）的人物及故事是參照日本導演黑澤明的《戰國英豪》隠し砦の三悪人 所創作而成；原三部曲以二戰英德大戰為架構並溶入美國西部片及日本武士刀劇的節奏；藴涵了太空冒險、希臘神話的大視野制作。影片中所特別使用的特效從此定義並改變了太空科幻片的未來發展。1990年代末基於各界要求又拍摄了原三部曲之前的故事，又叫“星战前传”。同时他把最初的三部曲改为六部系列的第四、五、六集，并将最早的第四集改名为「新希望」「new hope」。2012年10月，華特迪士尼公司以40.5億美元收購盧卡斯影業，迪士尼公司亦宣布製作星戰新作三部曲，第七部電影將在英國拍摄，預定於2015年上映。该片描写在很久以前的一个遥远的銀河系，肩负正义使命感的绝地武士与帝國邪恶黑暗势力作戰的故事。绝地武士是一群有着非凡天赋的人，經由各种筛选，他们在幼年即开始接受嚴格特殊训练，其宗旨是认识和使用“原力”（Force）。训练有素的绝地武士有極強的意志力可以使用无所不在的“原力”來維護銀河間的和平。比如，控制意志較弱人的思想，甚至可以預感将要发生的事情，所以绝地武士有着非凡的戰鬥能力。故事以三條主線貫穿：銀河共和國轉變為銀河帝國的過程中引發內戰，反抗軍與帝國軍互相對抗；絕地武士階級的興衰起落；以及天行者家族在大環境下面臨的種種挑戰。本片開啟好萊塢電影商品授權的龐大事業，旗下分別有小說、漫畫、玩具與電玩遊戲等相關周邊產業，系列中每部電影，小說與電玩遊戲，皆以“在很久以前，在一個很遙遠、遙遠的星系……”（A long time ago, in a galaxy far, far away...）開頭。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">Guerra nas Estrelas (Brasil) ou Guerra das Estrelas (Portugal) (do título original Star Wars) é o título de uma space opera americana que foi transformada numa série de seis filmes de fantasia escritos por George Lucas. O primeiro filme da série foi lançado originalmente pela 20th Century Fox em 25 de maio de 1977 sob o título Star Wars, tornando-se um fenômeno mundial de cultura popular.</rdfs:comment>
+    <rdfs:comment xml:lang="ja">『スター・ウォーズ』（英語：Star Wars）シリーズは、ジョージ・ルーカスが温めていた構想を元に映画化された、スペースオペラ作品である。辺境の惑星で奴隷の身分であった一人の少年アナキン・スカイウォーカーとその子供達の成長、銀河系の自由と正義の守護者ジェダイと銀河系の悪と恐怖の信奉者シスの攻防、そして、銀河規模の共同国家体銀河共和国から銀河帝国へ変わり、そして、帝国の圧制に対する反乱により再び復活した「新共和国」への変遷を描いた物語である。</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Star Wars (à l'origine nommée en France et au Québec sous son titre français, La Guerre des étoiles) est une épopée cinématographique de science-fiction créée par George Lucas en 1977. D'abord conçue comme une trilogie sortie entre 1977 et 1983, la saga s'est ensuite élargie de trois films sortis entre 1999 et 2005 racontant des événements antérieurs aux premiers.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Star Wars is an American epic space opera franchise centered on a film series created by George Lucas. The film series, consisting of two trilogies, has spawned an extensive media franchise called the Expanded Universe including books, television series, computer and video games, and comic books. These supplements to the franchise resulted in significant development of the series' fictional universe, keeping the franchise active in the 16-year interim between the two film trilogies.</rdfs:comment>
+    <rdfs:comment xml:lang="es">Star Wars, también conocida en España e Hispanoamérica como La guerra de las galaxias, aunque literalmente significa «Guerras estelares», es una franquicia de medios estadounidense bajo el concepto de la opereta espacial épica, concebida por el guionista, director y productor de cine George Lucas.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">حرب النجوم (بالإنجليزية: Star Wars، ستار ورز) هو فيلم خيال علمي تأليف وإخراج جورج لوكاس. الملحمه قصة بدأت مع فيلم حرب النجوم بعد تسميته حرب النجوم الجزء الرابع: امل جديد الذي صدر يوم 25 مايو 1977، من تونتيث سينتشوري فوكس. الفيلم أصبح ظاهرة ثقافية عالمية، تضم الملحمة ستة افلام وكون موسع يضم مسلسلات تلفزيونيه ومجموعة واسعة من الكتب والمجلات الهزليه لها، وألعاب الفيديو، كل مجموعة ضمن اطار خيالي يحدث في "زمن سحيق جدا وفي مجرة بعيدة، بعيدة جدا".</rdfs:comment>
+    <rdfs:comment>Star Wars (BE [stɑː wɔːz], AE [stɑːɹ wɔːɹz], dt. Krieg der Sterne, wörtlich „Sternenkriege“) ist ein von dem Drehbuchautor, Produzenten und Regisseur George Lucas erdachtes Heldenepos. Die Space Opera begann mit dem Film Krieg der Sterne, der am 25. Mai 1977 in den US-amerikanischen und am 2. Februar 1978 in den westdeutschen Kinos anlief. Der Film entwickelte sich zu einem Phänomen der heutigen Popkultur.</rdfs:comment>
+    <rdfs:comment xml:lang="nl">Star Wars ("Sterrenoorlogen") is een Amerikaanse epische space-opera-franchise in handen van de Walt Disney Company (na de overname van Lucasfilm Ltd.), die bestaat uit een filmserie bedacht door George Lucas. Op dit moment zijn er zes films, die opgenomen zijn in twee reeksen van drie. Dit zijn de Oorspronkelijke-trilogie (1977-1983) en Prequel-trilogie (1999-2005). De episodes hebben in de loop van de jaren verschillende nabewerkingen gehad.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26678</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">606009606</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Forest_Apart">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Guide_to_the_Star_Wars_Universe">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agents_of_Chaos:_Hero's_Trial">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Agents_of_Chaos:_Jedi_Eclipse">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ambush_at_Corellia">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Assault_at_Selonia">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Balance_Point">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boba_Fett:_A_New_Threat">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boba_Fett:_Crossfire">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boba_Fett:_Hunted">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boba_Fett:_Pursuit">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boba_Fett:_The_Fight_to_Survive">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Champions_of_the_Force">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Children_of_the_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cloak_of_Deception">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Apprentice">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Force_Rising">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Lord:_The_Rise_of_Darth_Vader">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Tide:_Onslaught">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Tide:_Ruin">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darth_Maul:_Shadow_Hunter">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Destiny's_Way">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edge_of_Victory:_Conquest">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Edge_of_Victory:_Rebirth">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enemy_Lines:_Rebel_Dream">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Enemy_Lines:_Rebel_Stand">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_Heretic:_Refugee">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_Heretic:_Remnant">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Force_Heretic:_Reunion">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_Army_of_Terror">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_City_of_the_Dead">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_Clones">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_Eaten_Alive">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_Ghost_of_the_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_Planet_Plague">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_Spore">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_The_Brain_Spiders">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_The_Doomsday_Ship">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_The_Hunger">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_The_Nightmare_Machine">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galaxy_of_Fear:_The_Swarm">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hard_Merchandise">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Heir_to_the_Empire">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I,_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Iron_Fist_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Isard's_Revenge">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jedi_Apprentice:_Deceptions">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jedi_Apprentice:_The_Followers">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jedi_Search">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jedi_Trial">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jedi_Twilight">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junior_Jedi_Knights:_Anakin's_Quest">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junior_Jedi_Knights:_Kenobi's_Blade">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junior_Jedi_Knights:_Lyric's_World">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junior_Jedi_Knights:_Promises">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junior_Jedi_Knights:_The_Golden_Globe">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Junior_Jedi_Knights:_Vader's_Fortress">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Labyrinth_of_Evil">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lando_Calrissian_and_the_Flamewind_of_Oseon">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lando_Calrissian_and_the_Mindharp_of_Sharu">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lando_Calrissian_and_the_Starcave_of_ThonBoka">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Legacy_of_the_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MedStar_I:_Battle_Surgeons">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/MedStar_II:_Jedi_Healer">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mission_from_Mount_Yoda">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Outbound_Flight">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Path_to_Truth">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Planet_of_Twilight">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prophets_of_the_Dark_Side_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Queen_of_the_Empire">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rogue_Planet_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rogue_Squadron_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Secrets_of_the_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shatterpoint">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shield_of_Lies">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Showdown_at_Centerpoint">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Solo_Command">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Specter_of_the_Past">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Splinter_of_the_Mind's_Eye">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Darth_Bane:_Path_of_Destruction">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_From_the_Adventures_of_Luke_Skywalker">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Shadows_of_the_Empire">
+    <dbpprop:era rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Encyclopedia">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_I:_The_Phantom_Menace_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_II:_Attack_of_the_Clones_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_III:_Revenge_of_the_Sith_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_I_Journal:_Queen_Amidala">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Galaxies:_The_Ruins_of_Dantooine">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Republic_Commando:_Hard_Contact">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Republic_Commando:_Triple_Zero">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_by_Star">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starfighters_of_Adumar">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Survivor's_Quest">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tales_of_the_Bounty_Hunters">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tatooine_Ghost">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Approaching_Storm">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Bacta_War_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Call_to_Vengeance">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Captive_Temple">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Cestus_Deception">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Courtship_of_Princess_Leia">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Crystal_Star">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dangerous_Games">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dangerous_Rescue">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dark_Rival">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Deadly_Hunter">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Death_of_Hope">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Defenders_of_the_Dead">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Evil_Experiment">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_False_Peace">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Fight_for_Truth">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Final_Prophecy">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hidden_Past">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Joiner_King">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Krytos_Trap">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_A_Tangled_Web">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_Dark_Warning">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_Death_on_Naboo">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_Return_of_the_Dark_Side">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_The_Desperate_Mission">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_Underworld">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lost_City_of_the_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Lost_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mandalorian_Armor">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Mark_of_the_Crown">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Master_of_Disguise_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_Essential_Chronology">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_New_Rebellion">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Only_Witness">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Queen's_Amulet">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Rising_Force">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_School_of_Fear">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Shadow_Trap">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Shattered_Peace">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Swarm_War">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Threat_Within">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Ties_That_Bind_(Star_Wars)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Trail_of_the_Jedi">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Truce_at_Bakura">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Uncertain_Path">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Unifying_Force">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Unseen_Queen">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Traitor_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyrant's_Test">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vector_Prime">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vision_of_the_Future">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wedge's_Gamble">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ylesia_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yoda:_Dark_Rendezvous">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zorba_the_Hutt's_Revenge">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Escape_from_Dagu">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_The_Old_Republic:_Revan">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lightsaber">
+    <dbpprop:source rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Exile_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Journey_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Tide:_Siege">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Coruscant_Nights">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fool's_Bargain">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Clone_Wars_Gambit:_Stealth">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_original_trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Clone_Wars_(Star_Wars)">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Inferno_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Invincible_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Origin">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Changing_of_the_Guard_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Galactic_Civil_War">
+    <dbpprop:place rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:place rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Darth_Bane:_Dynasty_of_Evil">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tales_from_Jabba's_Palace">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tales_from_the_Mos_Eisley_Cantina">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tales_from_the_New_Republic">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mercy_Kill_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Holiday_Special">
+    <dbpedia-owl:composer rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bloodlines_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fury_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Allegiance_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Day_of_Reckoning_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Betrayal_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Hive_(novella)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pierre_Bordage">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Recovery_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Moment_of_Truth_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Imperial_Commando:_501st">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darth_Maul:_Saboteur">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Glove_of_Darth_Vader">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Millennium_Falcon_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Crosscurrent">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Patterns_of_Force_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Empire_Strikes_Back_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_Secret_Weapon">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuart_Freeborn">
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_I_Journal:_Darth_Maul">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Way_of_the_Apprentice">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Republic_Commando:_Order_66">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Last_of_the_Jedi:_Against_the_Empire">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_I_Journal:_Anakin_Skywalker">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Steve_Sansweet">
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_prequel_trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_licensed_and_localized_editions_of_Monopoly:_USA">
+    <dbpprop:edition rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Revelation_(Star_Wars_novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/SW">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tales_from_the_Empire">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_The_Old_Republic:_Annihilation">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Knightfall_Trilogy">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chad_Vader:_Day_Shift_Manager">
+    <dbpedia-owl:related rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/TheForce.Net">
+    <dbpedia-owl:type rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Before_the_Storm_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Brian_Muir_(sculptor)">
+    <dbpedia-owl:knownFor rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Street_of_Shadows_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Journal:_Hero_for_Hire">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boba_Fett:_A_Practical_Man">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Ο_Πόλεμος_των_Άστρων">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Guerre_stellari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/スター・ウォーズ・シリーズ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/스타_워즈">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/Gwiezdne_wojny">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q462">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prequel_trilogy_(Star_Wars)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Republic_Commando:_True_Colors">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Darth_Bane:_Rule_of_Two">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Darth_Plagueis">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Journal:_Captive_to_Evil">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Han_Solo_Adventures">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Han_Solo_Trilogy">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malevolence">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wraith_Squadron">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Return_of_the_Jedi_(novel)">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_The_Last_of_the_Jedi">
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_galaxy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chuck_Versus_the_Last_Details">
+    <dbpedia-owl:musicComposer rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boba_Fett:_Maze_of_Deception">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Darksaber">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Or_Die_Trying">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Journal:_The_Fight_for_Justice">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_The_Old_Republic:_Fatal_Alliance">
+    <dbpprop:subject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+    <dbpedia-owl:nonFictionSubject rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Confederation_(Star_Wars)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dark_Underlord">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Empire_of_dreams">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ferus_olin">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Holotable">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_have_a_bad_feeling_about_this">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_have_a_bad_feeling_about_this!">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_have_a_bad_feeling_about_this.">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jango_and_Boba_Fett">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jedi_Halla">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kaox_Krul">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Kopecz">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_minor_Sith_Characters">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lumas_Etima">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Malevolence_(ship)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Markinin_raimin">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Minor_vehicles_in_Star_Wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Olee_starstone">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Orginal_Star_Wars_trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Original_Trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Original_trilogy_(Star_Wars)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ottarious">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Philsophy_and_religion_in_Star_Wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prequel_Trilogy_(Star_Wars)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Quantum_Armor">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/STAR_WARS">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/STar_Wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sar_wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sibwarra">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/StarWars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_War">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Warian">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Databank">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_The_Complete_Saga">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_(franchise)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Movies">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Prequel_Trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Prequels">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Toys">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_films">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_franchise">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_movies">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_saga">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wras">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_war">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_wars_films">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_wars_movie">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_wrs">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starwars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Starwars.com">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Str_wrs">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sunsailor">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tallisibeth">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tan_Yuster">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Teljkon_Vagabond">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Dark_Underlord">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Star_Wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Star_Wars_Trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Star_Wars_Trilogy:_Special_Edition">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Victory_Cruiser">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Original_Trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_The_Critic_episodes">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Original_Star_Wars_trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_wars_prequel">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_theatrical_films">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_prequels">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Original_trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Prequel_trilogy">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_(film_series)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plot_of_Star_Wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Universe_of_Star_Wars">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Star_Wars">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://als.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/حرب_النجوم_(فيلم)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ast.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://az.dbpedia.org/resource/Ulduz_müharibələri">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Зорныя_войны">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bg.dbpedia.org/resource/Междузвездни_войни">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://br.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bs.dbpedia.org/resource/Ratovi_zvijezda">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/La_guerra_de_les_galàxies">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cy.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/Tähtede_sõda">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/جنگ_ستارگان">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/Tähtien_sota">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fo.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ga.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gd.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gl.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/מלחמת_הכוכבים">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hi.dbpedia.org/resource/स्टार_वॉर्स">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/Zvjezdani_ratovi">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/Csillagok_háborúja">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hy.dbpedia.org/resource/Աստղային_պատերազմներ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ia.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://io.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://is.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://jv.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/ვარსკვლავური_ომები">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kn.dbpedia.org/resource/ಸ್ಟಾರ್_ವಾರ್ಸ್‌">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lb.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lt.dbpedia.org/resource/Žvaigždžių_karai">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Zvaigžņu_kari">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mk.dbpedia.org/resource/Војна_на_ѕвездите">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ml.dbpedia.org/resource/സ്റ്റാർ_വാർസ്">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mr.dbpedia.org/resource/स्टार_वॉर्स">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ms.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://new.dbpedia.org/resource/स्टार_वार">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nn.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oc.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/Războiul_stelelor_(franciză)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Звёздные_войны">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sah.dbpedia.org/resource/Сулустар_сэриилэрэ">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scn.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sco.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/Hviezdne_vojny_(kult)">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sl.dbpedia.org/resource/Vojna_zvezd">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sq.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Звездани_ратови">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://szl.dbpedia.org/resource/Gwjezdne_wojny">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ta.dbpedia.org/resource/ஸ்டார்_வார்ஸ்">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/สตาร์_วอร์ส">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tl.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Yıldız_Savaşları">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tt.dbpedia.org/resource/Йолдыз_сугышлары">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Зоряні_війни">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uz.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vep.dbpedia.org/resource/Tähthasižed_voinad">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/Chiến_tranh_giữa_các_vì_sao">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://war.dbpedia.org/resource/Star_Wars">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/星際大戰">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh_min_nan.dbpedia.org/resource/Seng-kiû_Tāi-chiàn">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Star_Wars"/>
+  </rdf:Description>
+</rdf:RDF>

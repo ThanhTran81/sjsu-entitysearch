@@ -1,0 +1,51 @@
+<rdf:RDF xmlns:ns7="http://www.w3.org/ns/prov#" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GraphicArt103453809"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artwork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Art102743547"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1910sPaintings"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painting103876519"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PaintingsByGiorgioDeChirico"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SurrealistPaintings"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Metaphysical_Interior_with_Large_Factory"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0drctk"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1910s_paintings"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Surrealist_paintings"/>
+    <dbpedia-owl:abstract xml:lang="en">Metaphysical Interior with Large Factory (1916–17) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is part of a series that extended late into de Chirico’s career. Like the other works in this series it depicts a small room cluttered with surreal objects. This time the main focus is a framed picture of a factory complex.</dbpedia-owl:abstract>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Giorgio_de_Chirico"/>
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Staatsgalerie_Stuttgart"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5535487</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485136906</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="en">Metaphysical Interior with Large Factory</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/54/Metaphysical_with_Factory.jpg"/>
+    <rdfs:comment xml:lang="en">Metaphysical Interior with Large Factory (1916–17) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is part of a series that extended late into de Chirico’s career. Like the other works in this series it depicts a small room cluttered with surreal objects. This time the main focus is a framed picture of a factory complex.</rdfs:comment>
+    <foaf:name xml:lang="en">Metaphysical Interior with Large Factory</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Metaphysical_with_Factory.jpg/200px-Metaphysical_with_Factory.jpg"/>
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Giorgio_de_Chirico"/>
+    <dbpprop:backcolor xml:lang="en">#FBF5DF</dbpprop:backcolor>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Stuttgart"/>
+    <dbpprop:imageFile xml:lang="en">Metaphysical with Factory.jpg</dbpprop:imageFile>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">221</dbpprop:imageSize>
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Staatsgalerie_Stuttgart"/>
+    <dbpprop:paintingAlignment xml:lang="en">right</dbpprop:paintingAlignment>
+    <dbpprop:title xml:lang="en">Metaphysical Interior with Large Factory</dbpprop:title>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Oil_painting"/>
+    <dbpprop:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1916</dbpprop:year>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Large_Factory"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Large_Factory?oldid=485136906"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metaphysical_Interior_with_Large_Factory"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Large_Factory">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory"/>
+  </rdf:Description>
+</rdf:RDF>

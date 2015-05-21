@@ -1,0 +1,37 @@
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dragon_Fighter</field>
+<field name="owl_sameAs_resource">http://dbpedia.org/resource/Dragon_Fighter</field>
+<field name="owl_sameAs_resource">http://wikidata.dbpedia.org/resource/Q2618450</field>
+<field name="owl_sameAs_resource">http://yago-knowledge.org/resource/Dragon_Fighter</field>
+<field name="owl_sameAs_resource">http://fr.dbpedia.org/resource/Dragon_Fighter</field>
+<field name="owl_sameAs_resource">http://rdf.freebase.com/ns/m.0265rr2</field>
+<field name="owl_sameAs_resource">http://wikidata.org/entity/Q2618450</field>
+<field name="owl_sameAs_resource">http://uk.dbpedia.org/resource/Винищувач_драконів</field>
+<field name="owl_sameAs_resource">http://hi.dbpedia.org/resource/ड्रैगन_फाइटर</field>
+<field name="owl_sameAs_resource">http://ru.dbpedia.org/resource/Истребитель_драконов</field>
+<field name="owl_sameAs_resource">http://ja.dbpedia.org/resource/ドラゴンファイター_炎獣降臨</field>
+<field name="rdfs_label_text">Dragon Fighter</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:2003_television_films</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:American_television_films</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Bulgarian_films</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Films_about_dragons</field>
+<field name="dbpprop_director_resource">http://dbpedia.org/resource/Phillip_J._Roth</field>
+<field name="dbpprop_name_text">Dragon Fighter</field>
+<field name="dbpprop_producer_text">Jeffery Beach,</field>
+<field name="dbpprop_producer_text">Dean Cain</field>
+<field name="dbpprop_writer_text">Phillip J. Roth,</field>
+<field name="dbpprop_writer_resource">http://dbpedia.org/resource/Micheal_Baldwin</field>
+<field name="dbpedia-owl_abstract_text">Dragon Fighter is a Sci Fi Pictures original film that premiered on January 4, 2003 and was directed by Phillip J. Roth. It stars Dean Cain and Kristine Byers.</field>
+<field name="foaf_name_text">Dragon Fighter</field>
+<field name="dbpedia-owl_country_resource">http://dbpedia.org/resource/Bulgaria</field>
+<field name="dbpedia-owl_country_resource">http://dbpedia.org/resource/United_States</field>
+<field name="dbpedia-owl_director_resource">http://dbpedia.org/resource/Phillip_J._Roth</field>
+<field name="dbpedia-owl_producer_resource">http://dbpedia.org/resource/Dean_Cain</field>
+<field name="dbpedia-owl_starring_resource">http://dbpedia.org/resource/Kristine_Byers</field>
+<field name="dbpedia-owl_starring_resource">http://dbpedia.org/resource/Robert_Zachar</field>
+<field name="dbpedia-owl_starring_resource">http://dbpedia.org/resource/Dean_Cain</field>
+<field name="dbpedia-owl_writer_resource">http://dbpedia.org/resource/Micheal_Baldwin</field>
+<field name="dbpedia-owl_writer_resource">http://dbpedia.org/resource/Phillip_J._Roth</field>
+<field name="rdfs_comment_text">Dragon Fighter is a Sci Fi Pictures original film that premiered on January 4, 2003 and was directed by Phillip J. Roth. It stars Dean Cain and Kristine Byers.</field>
+<field name="foaf_isPrimaryTopicOf_resource">http://en.wikipedia.org/wiki/Dragon_Fighter</field>
+</doc>

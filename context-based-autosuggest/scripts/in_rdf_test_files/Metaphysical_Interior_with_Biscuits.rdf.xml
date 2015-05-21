@@ -1,0 +1,59 @@
+<rdf:RDF xmlns:ns7="http://www.w3.org/ns/prov#" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SurrealistPaintings"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artwork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PaintingsByGiorgioDeChirico"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1916Paintings"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painting103876519"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Art102743547"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GraphicArt103453809"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6823130"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0drcrv"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Metaphysical_Interior_with_Biscuits"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1916_paintings"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Surrealist_paintings"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico"/>
+    <dbpedia-owl:abstract xml:lang="en">Metaphysical Interior with Biscuits (1916) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. It is one of the earliest editions in a series of works that extended late into de Chirico’s career. Like the others in this series, this painting depicts a room that is cluttered with objects in a surreal arrangement. In this case the main focus is a panel on which is mounted several biscuits (crackers) that are arranged to resemble an abstract face. Behind this panel is a picture in an irregularly shaped frame. The image in the frame is an architectural scene in the style of de Chirico’s earlier work.</dbpedia-owl:abstract>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Giorgio_de_Chirico"/>
+    <dbpedia-owl:museum rdf:resource="http://dbpedia.org/resource/Menil_Collection"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5535443</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">532050146</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="en">Metaphysical Interior with Biscuits</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/0/0c/Metaphysical_with_Biscuits.jpg"/>
+    <rdfs:comment xml:lang="en">Metaphysical Interior with Biscuits (1916) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. It is one of the earliest editions in a series of works that extended late into de Chirico’s career. Like the others in this series, this painting depicts a room that is cluttered with objects in a surreal arrangement. In this case the main focus is a panel on which is mounted several biscuits (crackers) that are arranged to resemble an abstract face.</rdfs:comment>
+    <foaf:name xml:lang="en">Metaphysical Interior with Biscuits</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Metaphysical_with_Biscuits.jpg/200px-Metaphysical_with_Biscuits.jpg"/>
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Giorgio_de_Chirico"/>
+    <dbpprop:backcolor xml:lang="en">#FBF5DF</dbpprop:backcolor>
+    <dbpprop:city rdf:resource="http://dbpedia.org/resource/Houston"/>
+    <dbpprop:height rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.28</dbpprop:height>
+    <dbpprop:heightInch rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</dbpprop:heightInch>
+    <dbpprop:imageFile xml:lang="en">Metaphysical_with_Biscuits.jpg</dbpprop:imageFile>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300</dbpprop:imageSize>
+    <dbpprop:museum rdf:resource="http://dbpedia.org/resource/Menil_Collection"/>
+    <dbpprop:paintingAlignment xml:lang="en">right</dbpprop:paintingAlignment>
+    <dbpprop:title xml:lang="en">Metaphysical Interior with Biscuits</dbpprop:title>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Oil_painting"/>
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#double">65.0875</dbpprop:width>
+    <dbpprop:widthInch rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</dbpprop:widthInch>
+    <dbpprop:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1916</dbpprop:year>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Biscuits"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Biscuits?oldid=532050146"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metaphysical_Interior_with_Biscuits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Biscuits">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q6823130">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits"/>
+  </rdf:Description>
+</rdf:RDF>

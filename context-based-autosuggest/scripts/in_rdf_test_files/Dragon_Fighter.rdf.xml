@@ -1,0 +1,111 @@
+<rdf:RDF xmlns:ns8="http://dbpedia.org/ontology/Work/" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dragon_Fighter">
+    <rdf:type rdf:resource="http://schema.org/Movie"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2003Films"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Wikidata:Q11424"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Film"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Show106619065"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Movie106613686"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialEvent107288639"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmsAboutDragons"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q2618450"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Dragon_Fighter"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Dragon_Fighter"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0265rr2"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q2618450"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Винищувач_драконів"/>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/ड्रैगन_फाइटर"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Истребитель_драконов"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ドラゴンファイター_炎獣降臨"/>
+    <rdfs:label xml:lang="fr">Dragon Fighter</rdfs:label>
+    <rdfs:label xml:lang="ru">Истребитель драконов</rdfs:label>
+    <rdfs:label xml:lang="en">Dragon Fighter</rdfs:label>
+    <rdfs:label xml:lang="ja">ドラゴンファイター 炎獣降臨</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2003_television_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_television_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Bulgarian_films"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Films_about_dragons"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dragon_Fighter"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.beyondhollywood.com/reviews/dragonfighter.htm"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.scifi.com/onair/scifipictures/dragonfighter/"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://imdb.com/title/tt0312640/"/>
+    <dbpprop:country xml:lang="en">Bulgaria</dbpprop:country>
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Phillip_J._Roth"/>
+    <dbpprop:distributor rdf:resource="http://dbpedia.org/resource/Syfy"/>
+    <dbpprop:distributor xml:lang="en">Artisan Entertainment</dbpprop:distributor>
+    <dbpprop:language xml:lang="en">English</dbpprop:language>
+    <dbpprop:name xml:lang="en">Dragon Fighter</dbpprop:name>
+    <dbpprop:producer xml:lang="en">Jeffery Beach,</dbpprop:producer>
+    <dbpprop:producer xml:lang="en">Dean Cain</dbpprop:producer>
+    <dbpprop:runtime rdf:datatype="http://dbpedia.org/datatype/second">5100.0</dbpprop:runtime>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Kristine_Byers"/>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Robert_Zachar"/>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/Dean_Cain"/>
+    <dbpprop:writer xml:lang="en">Phillip J. Roth,</dbpprop:writer>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Micheal_Baldwin"/>
+    <dbpedia-owl:abstract xml:lang="fr">Dragon Fighter est un film américain réalisé par Phillip J. Roth, sorti en 2003.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">『ドラゴンファイター 炎獣降臨』（原題：Dragon Fighter) は、2003年1月3日アメリカのSyfyで放映されたテレビ映画。日本では劇場未公開で、2003年1月24日にオリジナルビデオとしてリリースされた。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Dragon Fighter is a Sci Fi Pictures original film that premiered on January 4, 2003 and was directed by Phillip J. Roth. It stars Dean Cain and Kristine Byers.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">«Истребитель драконов» (англ. Dragon Fighter) — оригинальный фильм телеканала Syfy Universal. Производство студии UFO совместно с Dragon Productions. Жанр — фантастический триллер с элементами фильма ужасов. Режиссёр и автор сценария — Филлип Дж. Рот. Премьера фильма состоялась 4 января 2003 г.</dbpedia-owl:abstract>
+    <foaf:name xml:lang="en">Dragon Fighter</foaf:name>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Bulgaria"/>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/Phillip_J._Roth"/>
+    <dbpedia-owl:distributor rdf:resource="http://dbpedia.org/resource/Syfy"/>
+    <dbpedia-owl:distributor rdf:resource="http://dbpedia.org/resource/Artisan_Entertainment"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/Dean_Cain"/>
+    <dbpedia-owl:runtime rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5100.0</dbpedia-owl:runtime>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Kristine_Byers"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Robert_Zachar"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/Dean_Cain"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Micheal_Baldwin"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Phillip_J._Roth"/>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1"/>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Dragon_Fighter?oldid=583695061"/>
+    <rdfs:comment xml:lang="ja">『ドラゴンファイター 炎獣降臨』（原題：Dragon Fighter) は、2003年1月3日アメリカのSyfyで放映されたテレビ映画。日本では劇場未公開で、2003年1月24日にオリジナルビデオとしてリリースされた。</rdfs:comment>
+    <rdfs:comment xml:lang="ru">«Истребитель драконов» (англ. Dragon Fighter) — оригинальный фильм телеканала Syfy Universal. Производство студии UFO совместно с Dragon Productions. Жанр — фантастический триллер с элементами фильма ужасов. Режиссёр и автор сценария — Филлип Дж. Рот. Премьера фильма состоялась 4 января 2003 г.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Dragon Fighter est un film américain réalisé par Phillip J. Roth, sorti en 2003.</rdfs:comment>
+    <rdfs:comment xml:lang="en">Dragon Fighter is a Sci Fi Pictures original film that premiered on January 4, 2003 and was directed by Phillip J. Roth. It stars Dean Cain and Kristine Byers.</rdfs:comment>
+    <ns8:runtime rdf:datatype="http://dbpedia.org/datatype/minute">85.0</ns8:runtime>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7576612</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">583695061</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Dragon_Fighter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Dragon_Fighter">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q2618450">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ドラゴンファイター_炎獣降臨">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Dragon_Fighter">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hi.dbpedia.org/resource/ड्रैगन_फाइटर">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Истребитель_драконов">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Винищувач_драконів">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Dragon_Fighter"/>
+  </rdf:Description>
+</rdf:RDF>

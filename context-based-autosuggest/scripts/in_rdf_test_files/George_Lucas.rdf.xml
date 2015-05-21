@@ -1,0 +1,913 @@
+<rdf:RDF xmlns:prov="http://www.w3.org/ns/prov#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Look_at_Life_(film)">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Raiders_of_the_Lost_Ark:_The_Adaptation">
+    <dbpprop:story rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/H._Rider_Haggard">
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones_and_the_Last_Crusade">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Leigh_Brackett">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Obi-Wan_Kenobi">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/R2-D2">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Return_of_the_Jedi">
+    <dbpprop:screenplay rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_(film)">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_I:_The_Phantom_Menace">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_II:_Attack_of_the_Clones">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_III:_Revenge_of_the_Sith">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Empire_Strikes_Back">
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Red_Tails">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Star_Wars:_Clone_Wars_(2003_TV_series)_episodes">
+    <dbpprop:writtenby rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Laugh_It_Up,_Fuzzball:_The_Family_Guy_Trilogy">
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anyone_Lived_in_a_Pretty_How_Town_(film)">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Howard_the_Duck_(film)">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_The_Colbert_Report_episodes_(2005%E2%80%932006)">
+    <dbpprop:aux rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lucas">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanScreenwriters"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanFilmDirectors"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Executive110069645"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanCinematographers"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/PersonWithOccupation"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanBillionaires"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanVoiceActors"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Leader109623038"/>
+    <rdf:type rdf:resource="http://wikidata.dbpedia.org/resource/Q215627"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Head110162991"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Administrator109770949"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanChiefExecutives"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmTheorists"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanScienceFictionWriters"/>
+    <rdf:type rdf:resource="http://wikidata.dbpedia.org/resource/Q5"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/MythopoeicWriters"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"/>
+    <rdf:type rdf:resource="http://schema.org/Person"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Theorist110706812"/>
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SkilledWorker110605985"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Editor110044879"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Worker109632518"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Cameraman109889539"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Actor109765278"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Performer110415638"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Intellectual109621545"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Entertainer109616922"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Communicator109610660"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Scriptwriter110564905"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Screenwriter110564400"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Writer110794014"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/DisneyPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Advocate109774783"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmDirector110088200"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SportsFan110639925"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Supporter110677713"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Enthusiast110059582"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ScienceFictionFans"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/RichPerson110529231"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SpecialEffectsPeople"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmDirectorsFromCalifornia"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmProducersFromCalifornia"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromMarinCounty,California"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromModesto,California"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanCinemaEditors"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanFilmEditors"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Billionaire110529684"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanFilmActors"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Actor"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/AmericanFilmProducers"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/FilmMaker110088390"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Producer110480018"/>
+    <rdf:type rdf:resource="http://umbel.org/umbel/rc/Artist"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Photographer110426749"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person"/>
+    <owl:sameAs rdf:resource="http://vi.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://bn.dbpedia.org/resource/জর্জ_লুকাস"/>
+    <owl:sameAs rdf:resource="http://arz.dbpedia.org/resource/جورج_لوكاس"/>
+    <owl:sameAs rdf:resource="http://no.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://pms.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://sl.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ga.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_루커스"/>
+    <owl:sameAs rdf:resource="http://gd.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://oc.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://uk.dbpedia.org/resource/Джордж_Лукас"/>
+    <owl:sameAs rdf:resource="http://bs.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0343h"/>
+    <owl:sameAs rdf:resource="http://be_x_old.dbpedia.org/resource/Джордж_Лукас"/>
+    <owl:sameAs rdf:resource="http://cy.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Лукас,_Джордж"/>
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/ג'ורג'_לוקאס"/>
+    <owl:sameAs rdf:resource="http://sw.cyc.com/concept/Mx4rvvKhX5wpEbGdrcN5Y29ycA"/>
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q38222"/>
+    <owl:sameAs rdf:resource="http://li.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://hy.dbpedia.org/resource/Ջորջ_Լուկաս"/>
+    <owl:sameAs rdf:resource="http://ro.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://et.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ast.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/乔治·卢卡斯"/>
+    <owl:sameAs rdf:resource="http://mr.dbpedia.org/resource/जॉर्ज_लुकास"/>
+    <owl:sameAs rdf:resource="http://sr.dbpedia.org/resource/Џорџ_Лукас"/>
+    <owl:sameAs rdf:resource="http://hr.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ml.dbpedia.org/resource/ജോർജ്ജ്_ലൂക്കാസ്"/>
+    <owl:sameAs rdf:resource="http://pt.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://sk.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://is.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://mk.dbpedia.org/resource/Џорџ_Лукас"/>
+    <owl:sameAs rdf:resource="http://ms.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://simple.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://sw.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ka.dbpedia.org/resource/ჯორჯ_ლუკასი"/>
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://fa.dbpedia.org/resource/جورج_لوکاس"/>
+    <owl:sameAs rdf:resource="http://th.dbpedia.org/resource/จอร์จ_ลูคัส"/>
+    <owl:sameAs rdf:resource="http://ko.dbpedia.org/resource/조지_루카스"/>
+    <owl:sameAs rdf:resource="http://eu.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://el.dbpedia.org/resource/Τζορτζ_Λούκας"/>
+    <owl:sameAs rdf:resource="http://ca.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://be.dbpedia.org/resource/Джордж_Лукас"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://war.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://hu.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://hi.dbpedia.org/resource/जॉर्ज_लूकस"/>
+    <owl:sameAs rdf:resource="http://bg.dbpedia.org/resource/Джордж_Лукас"/>
+    <owl:sameAs rdf:resource="http://nn.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://cs.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://www.bbc.co.uk/things/439d3d72-0729-4445-94ba-c244fd622500#id"/>
+    <owl:sameAs rdf:resource="http://sco.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://gl.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://mn.dbpedia.org/resource/Жорж_Лукас"/>
+    <owl:sameAs rdf:resource="http://la.dbpedia.org/resource/Georgius_Lucas"/>
+    <owl:sameAs rdf:resource="http://fy.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://da.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://vo.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ar.dbpedia.org/resource/جورج_لوكاس"/>
+    <owl:sameAs rdf:resource="http://sq.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://lv.dbpedia.org/resource/Džordžs_Lūkass"/>
+    <owl:sameAs rdf:resource="http://data.linkedmdb.org/resource/producer/9685"/>
+    <owl:sameAs rdf:resource="http://eo.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://bat_smg.dbpedia.org/resource/Džuordžos_Lokasos"/>
+    <owl:sameAs rdf:resource="http://ta.dbpedia.org/resource/ஜோர்ச்_லூகாஸ்"/>
+    <owl:sameAs rdf:resource="http://az.dbpedia.org/resource/Corc_Lukas"/>
+    <owl:sameAs rdf:resource="http://id.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://lb.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://an.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://new.dbpedia.org/resource/जर्ज_लुकास"/>
+    <owl:sameAs rdf:resource="http://fi.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://ilo.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://fo.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://es.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q38222"/>
+    <owl:sameAs rdf:resource="http://ja.dbpedia.org/resource/ジョージ・ルーカス"/>
+    <owl:sameAs rdf:resource="http://br.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://nl.dbpedia.org/resource/George_Lucas"/>
+    <owl:sameAs rdf:resource="http://pl.dbpedia.org/resource/George_Lucas"/>
+    <rdfs:label xml:lang="it">George Lucas</rdfs:label>
+    <rdfs:label xml:lang="en">George Lucas</rdfs:label>
+    <rdfs:label>George Lucas</rdfs:label>
+    <rdfs:label xml:lang="fr">George Lucas</rdfs:label>
+    <rdfs:label xml:lang="pt">George Lucas</rdfs:label>
+    <rdfs:label xml:lang="zh">乔治·卢卡斯</rdfs:label>
+    <rdfs:label xml:lang="es">George Lucas</rdfs:label>
+    <rdfs:label xml:lang="ru">Лукас, Джордж</rdfs:label>
+    <rdfs:label xml:lang="ja">ジョージ・ルーカス</rdfs:label>
+    <rdfs:label xml:lang="nl">George Lucas</rdfs:label>
+    <rdfs:label xml:lang="ar">جورج لوكاس</rdfs:label>
+    <rdfs:label xml:lang="pl">George Lucas</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Science_fiction_fans"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Film_directors_from_California"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_science_fiction_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_chief_executives"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_film_producers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Modesto,_California"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Science_fiction_film_directors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_film_editors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Cinema_of_the_San_Francisco_Bay_Area"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:George_Lucas"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Lucasfilm"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Cinema_Editors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Buddhists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_male_film_actors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_Methodists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Film_producers_from_California"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Mythopoeic_writers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_film_directors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:University_of_Southern_California_alumni"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Businesspeople_from_California"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_entertainment_industry_businesspeople"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fellows_of_the_American_Academy_of_Arts_and_Sciences"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_billionaires"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Living_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Science_Fiction_Hall_of_Fame_inductees"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Marin_County,_California"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Film_theorists"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_screenwriters"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Disney_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Special_effects_people"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_art_collectors"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Giving_Pledgers"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1944_births"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:American_cinematographers"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/George_Lucas"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.lucasfilm.com/inside/bio/georgelucas.html"/>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.wobi.com/speakers/george-lucas-1"/>
+    <dbpprop:align xml:lang="en">right</dbpprop:align>
+    <dbpprop:almaMater xml:lang="en">University of Southern California</dbpprop:almaMater>
+    <dbpprop:alternativeNames xml:lang="en">Lucas, George Walton, Jr.</dbpprop:alternativeNames>
+    <dbpprop:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-05-14+02:00</dbpprop:birthDate>
+    <dbpprop:birthPlace xml:lang="en">Modesto, California, U.S.</dbpprop:birthPlace>
+    <dbpprop:birthname xml:lang="en">George Walton Lucas, Jr.</dbpprop:birthname>
+    <dbpprop:caption xml:lang="en">Lucas in 2009</dbpprop:caption>
+    <dbpprop:children rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbpprop:children>
+    <dbpprop:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-05-14+02:00</dbpprop:dateOfBirth>
+    <dbpprop:education rdf:resource="http://dbpedia.org/resource/Modesto_Junior_College"/>
+    <dbpprop:gnd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119187876</dbpprop:gnd>
+    <dbpprop:homeTown xml:lang="en">Central Valley, California, U.S.</dbpprop:homeTown>
+    <dbpprop:lccn xml:lang="en">nr/2002/015365</dbpprop:lccn>
+    <dbpprop:name xml:lang="en">Lucas, George</dbpprop:name>
+    <dbpprop:nationality xml:lang="en">American</dbpprop:nationality>
+    <dbpprop:networth rdf:datatype="http://dbpedia.org/datatype/usDollar">7.3E9</dbpprop:networth>
+    <dbpprop:notableWorks xml:lang="en">American Graffiti</dbpprop:notableWorks>
+    <dbpprop:notableWorks xml:lang="en">Star Wars</dbpprop:notableWorks>
+    <dbpprop:notableWorks xml:lang="en">Indiana Jones</dbpprop:notableWorks>
+    <dbpprop:notableWorks xml:lang="en">THX 1138</dbpprop:notableWorks>
+    <dbpprop:occupation xml:lang="en">Former chairman &amp; CEO of Lucasfilm</dbpprop:occupation>
+    <dbpprop:placeOfBirth xml:lang="en">Modesto, California, USA</dbpprop:placeOfBirth>
+    <dbpprop:quote xml:lang="en">“I'm moving away from the business... From the company, from all this kind of stuff."</dbpprop:quote>
+    <dbpprop:residence xml:lang="en">Marin County, California, U.S.</dbpprop:residence>
+    <dbpprop:selibr rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">280988</dbpprop:selibr>
+    <dbpprop:shortDescription xml:lang="en">American filmmaker</dbpprop:shortDescription>
+    <dbpprop:source xml:lang="en">—George Lucas on his future career plans.</dbpprop:source>
+    <dbpprop:title xml:lang="en">Awards for George Lucas</dbpprop:title>
+    <dbpprop:viaf rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16738168</dbpprop:viaf>
+    <dbpprop:width rdf:datatype="http://dbpedia.org/datatype/perCent">30.0</dbpprop:width>
+    <dbpprop:yearsActive rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1967</dbpprop:yearsActive>
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/George_Lucas_cropped_2009.jpg"/>
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/George_Lucas_cropped_2009.jpg?width=300"/>
+    <dbpedia-owl:abstract xml:lang="pl">George Lucas, właściwie George Walton Lucas Junior (ur. 14 maja 1944 roku w Modesto, Kalifornia) – amerykański reżyser, producent, scenarzysta, a także okazjonalnie aktor. Jeden z najbardziej znanych twórców kasowych filmów w Ameryce[potrzebne źródło]. Debiutem kinowym Lucasa był antytotalitarny THX 1138, jednak popularność zyskał dzięki młodzieżowemu filmowi Amerykańskie graffiti. Zasłynął stworzeniem popularnej serii Gwiezdne wojny, był także pomysłodawcą filmów i serialu o przygodach Indiany Jonesa. Lucas założył firmy Lucasfilm (produkcja filmów), Industrial Light and Magic (efekty specjalne) oraz LucasArts (gry komputerowe).Był czterokrotnie nominowany do Oscara. W 1992 roku otrzymał nagrodę im. Irvinga G. Thalberga.George Lucas określa się w wywiadach jako metodysta-buddysta (metodystą jest po rodzicach, a buddyzm to jego osobista fascynacja)[potrzebne źródło].</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="nl">George Walton Lucas jr. (Modesto (Californië), 14 mei 1944) is een Amerikaans filmregisseur, filmproducent en schrijver.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="es">George Walton Lucas, Jr. (14 de mayo de 1944; Modesto, California, Estados Unidos) es un cineasta estadounidense, creador de la exitosa saga fílmica de Star Wars y posteriormente de Indiana Jones, presidente de Lucasfilm, LucasArts Entertainment Company, y Lucas Digital Ltd, Lucas Licensing, LucasBooks y Lucas Learning Ltd. Considerado dos años consecutivos como el número 4 de los más poderosos de la industria del entretenimiento, justo detrás de los dueños de Time Warner, Turner y Steven Spielberg.Gran amante del cómic (en especial, Flash Gordon) es también coleccionista de los mismos.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ar">جورج لوكاس (14 مايو 1944 ،موديستو، كاليفورنيا)، مخرج وسيناريست ومنتج اشتهر باخراجه وإنتاجه لفيلم حرب النجوم.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">George Walton Lucas Jr. (Modesto, 14 maggio 1944) è un regista, sceneggiatore, produttore cinematografico e montatore statunitense.È stato proprietario di una holding del cinema, la Lucasfilm, e anche un importante imprenditore nell'ambito dei giocattoli e dei videogiochi. È famoso soprattutto per le saghe di Guerre stellari e Indiana Jones, per aver diretto il classico della fantascienza L'uomo che fuggì dal futuro e il film culto American Graffiti. La sua figura è indubbiamente legata alla Nuova Hollywood. Lucas ha spesso affidato ad altri, Spielberg in primis, il compito di portare sullo schermo le sue creazioni, dedicandosi, per la maggior parte del tempo, a lavorare dietro le quinte a storie e personaggi, a mondi paralleli e credibili, a ecosistemi in cui i protagonisti potessero vivere come persone reali. Lucas non è solo un grande uomo di marketing che con un solo brand è riuscito a vivere commercialmente di rendita per decenni, ma è anche un genio tecnico che ha imposto nuovi standard nelle tecnologie applicate al cinema.La rivista Forbes lo pone al 1º posto nella classifica degli artisti cinematografici più ricchi del mondo con un patrimonio di 3.9 miliardi di dollari.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">George Lucas est un réalisateur, scénariste et producteur américain né le 14 mai 1944 à Modesto, en Californie. Il est notamment le créateur des sagas cinématographiques Star Wars et Indiana Jones.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">George Walton Lucas, Jr. (born May 14, 1944) is an American film director, screenwriter, producer, and entrepreneur. He founded Lucasfilm and led the company as chairman and chief executive before selling it to The Walt Disney Company on October 30, 2012. He is best known as the creator of the space opera franchise Star Wars and the archaeologist adventurer character Indiana Jones. Lucas is one of the American film industry's most financially successful filmmakers and has been nominated for four Academy Awards.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract>George Walton Lucas Jr. (* 14. Mai 1944 in Modesto, Kalifornien) ist ein US-amerikanischer Produzent, Drehbuchautor und Regisseur. Seine erfolgreichsten Filmprojekte waren vor allem die Star-Wars-Filmreihe und die Indiana-Jones-Tetralogie. Außerdem gilt Lucas mit Unternehmen wie dem Studio für Tricktechnik Industrial Light &amp; Magic seiner Unternehmensgruppe Lucasfilm als Pionier beim Einsatz digitaler Kinokameras und des Qualitätsstandards THX als sehr engagierter Geschäftsmann im Bereich Film.Im Jahr 2009 rangierte Lucas auf der Liste der reichsten Leute der Welt des Forbes Magazine mit einem geschätzten Vermögen von drei Milliarden US-Dollar auf Platz 205. Allein seine Star-Wars-Saga (Episode 1–6, inklusive der Wiederveröffentlichung von Episode 4–6 im Jahr 1997) spielte weltweit über 4,4 Milliarden US-Dollar ein (Stand: Januar 2010).2005 schätzte das Forbes Magazine die durch Star-Wars-Merchandising über 28 Jahre erwirtschafteten Einnahmen und ermittelte eine Gesamtsumme von beinahe 20 Milliarden US-Dollar. Damit ist Star Wars finanziell gesehen das bislang erfolgreichste Filmprojekt.Im Oktober 2012 wurde bekannt, dass Lucas seine Firmengruppe Lucasfilm für über vier Milliarden US-Dollar an die Walt Disney Company verkauft hat, wobei er den größten Teil des Erlöses für Bildungszwecke spenden will.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Джордж Уо́лтон Лу́кас-младший (англ. George Walton Lucas, Jr.; род. 14 мая 1944, Модесто, Калифорния, США) — американский кинорежиссёр, сценарист, продюсер, бывший глава компании Lucasfilm Ltd. Известен как создатель научно-фантастической саги «Звёздные войны», фантастического фильма «THX 1138», а также персонажа Индианы Джонса. Лукас является одним из самыx богатыx режиссёров мира c собственным капиталом в 3,9 миллиарда долларов (данные на март 2013 года).</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ja">ジョージ・ウォルトン・ルーカス・ジュニア（George Walton Lucas, Jr.、1944年5月14日 - ）は、アメリカの映画監督、映画プロデューサー、脚本家。『スター・ウォーズ』シリーズや『インディ・ジョーンズ』シリーズなどの世界的大ヒットシリーズの製作で、非常によく知られている。スティーヴン・スピルバーグ、ジェームズ・キャメロンと並んで、最も商業的に成功した映画作家の一人でもある。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="pt">George Walton Lucas Jr., (Modesto, 14 de Maio de 1944) é um produtor cinematográfico, roteirista e cineasta, norte-americano. Lucas é mundialmente famoso pelas franquias Guerra nas Estrelas e Indiana Jones. Está entre as pessoas mais ricas e influentes do mundo, sua fortuna é estimada em US$ 3 bilhões de dólares.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">小乔治·沃尔特·卢卡斯（George Walton Lucas Jr.，1944年5月14日－），是美国的电影导演、制片人和编剧，其最著名的是史诗式作品《星球大战》和《法櫃奇兵》系列（注：编剧）。他的作品《星球大战》在美国人的心目中擁有崇高的地位，也曾经打破美国本土以及世界上多项票房纪录。例如在1977年的《星球大战IV：新希望》全球创下7.7亿美金的票房，成为当时的票房冠军。如果计算与通货膨胀，毛利点仅次于《乱世佳人》，成为历史上第二最卖座的电影。在2004年福布斯杂志估计卢卡斯的个人财富达到30亿美元。</dbpedia-owl:abstract>
+    <dbpedia-owl:birthName xml:lang="en">George Walton Lucas, Jr.</dbpedia-owl:birthName>
+    <dc:description>American filmmaker</dc:description>
+    <dc:description xml:lang="en">American filmmaker</dc:description>
+    <foaf:givenName xml:lang="en">George</foaf:givenName>
+    <foaf:name xml:lang="en">Lucas, George</foaf:name>
+    <foaf:name xml:lang="en">George Lucas</foaf:name>
+    <dbpedia-owl:activeYearsStartYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1967+02:00</dbpedia-owl:activeYearsStartYear>
+    <dbpedia-owl:alias>Lucas, George Walton, Jr.</dbpedia-owl:alias>
+    <dbpedia-owl:birthDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1944-05-14+02:00</dbpedia-owl:birthDate>
+    <dbpedia-owl:birthPlace rdf:resource="http://dbpedia.org/resource/Modesto,_California"/>
+    <dbpedia-owl:birthYear rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1944+02:00</dbpedia-owl:birthYear>
+    <dbpedia-owl:hometown rdf:resource="http://dbpedia.org/resource/Central_Valley_(California)"/>
+    <dbpedia-owl:lccnId>nr/2002/015365</dbpedia-owl:lccnId>
+    <dbpedia-owl:nationality rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/George_Lucas__1"/>
+    <dbpedia-owl:occupation rdf:resource="http://dbpedia.org/resource/Lucasfilm"/>
+    <dbpedia-owl:residence rdf:resource="http://dbpedia.org/resource/Marin_County,_California"/>
+    <dbpedia-owl:stateOfOrigin rdf:resource="http://dbpedia.org/resource/United_States"/>
+    <dbpedia-owl:viafId>16738168</dbpedia-owl:viafId>
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1"/>
+    <dbpedia-owl:almaMater rdf:resource="http://dbpedia.org/resource/University_of_Southern_California"/>
+    <dbpedia-owl:education rdf:resource="http://dbpedia.org/resource/Modesto_Junior_College"/>
+    <dbpedia-owl:individualisedGnd>119187876</dbpedia-owl:individualisedGnd>
+    <dbpedia-owl:networth rdf:datatype="http://dbpedia.org/datatype/usDollar">7.3E9</dbpedia-owl:networth>
+    <dbpedia-owl:selibrId>280988</dbpedia-owl:selibrId>
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/George_Lucas?oldid=604397838"/>
+    <rdfs:comment xml:lang="nl">George Walton Lucas jr. (Modesto (Californië), 14 mei 1944) is een Amerikaans filmregisseur, filmproducent en schrijver.</rdfs:comment>
+    <rdfs:comment>George Walton Lucas Jr. (* 14. Mai 1944 in Modesto, Kalifornien) ist ein US-amerikanischer Produzent, Drehbuchautor und Regisseur. Seine erfolgreichsten Filmprojekte waren vor allem die Star-Wars-Filmreihe und die Indiana-Jones-Tetralogie.</rdfs:comment>
+    <rdfs:comment xml:lang="pl">George Lucas, właściwie George Walton Lucas Junior (ur. 14 maja 1944 roku w Modesto, Kalifornia) – amerykański reżyser, producent, scenarzysta, a także okazjonalnie aktor. Jeden z najbardziej znanych twórców kasowych filmów w Ameryce[potrzebne źródło]. Debiutem kinowym Lucasa był antytotalitarny THX 1138, jednak popularność zyskał dzięki młodzieżowemu filmowi Amerykańskie graffiti.</rdfs:comment>
+    <rdfs:comment xml:lang="it">George Walton Lucas Jr. (Modesto, 14 maggio 1944) è un regista, sceneggiatore, produttore cinematografico e montatore statunitense.È stato proprietario di una holding del cinema, la Lucasfilm, e anche un importante imprenditore nell'ambito dei giocattoli e dei videogiochi. È famoso soprattutto per le saghe di Guerre stellari e Indiana Jones, per aver diretto il classico della fantascienza L'uomo che fuggì dal futuro e il film culto American Graffiti.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Джордж Уо́лтон Лу́кас-младший (англ. George Walton Lucas, Jr.; род. 14 мая 1944, Модесто, Калифорния, США) — американский кинорежиссёр, сценарист, продюсер, бывший глава компании Lucasfilm Ltd. Известен как создатель научно-фантастической саги «Звёздные войны», фантастического фильма «THX 1138», а также персонажа Индианы Джонса. Лукас является одним из самыx богатыx режиссёров мира c собственным капиталом в 3,9 миллиарда долларов (данные на март 2013 года).</rdfs:comment>
+    <rdfs:comment xml:lang="ja">ジョージ・ウォルトン・ルーカス・ジュニア（George Walton Lucas, Jr.、1944年5月14日 - ）は、アメリカの映画監督、映画プロデューサー、脚本家。『スター・ウォーズ』シリーズや『インディ・ジョーンズ』シリーズなどの世界的大ヒットシリーズの製作で、非常によく知られている。スティーヴン・スピルバーグ、ジェームズ・キャメロンと並んで、最も商業的に成功した映画作家の一人でもある。</rdfs:comment>
+    <rdfs:comment xml:lang="pt">George Walton Lucas Jr., (Modesto, 14 de Maio de 1944) é um produtor cinematográfico, roteirista e cineasta, norte-americano. Lucas é mundialmente famoso pelas franquias Guerra nas Estrelas e Indiana Jones. Está entre as pessoas mais ricas e influentes do mundo, sua fortuna é estimada em US$ 3 bilhões de dólares.</rdfs:comment>
+    <rdfs:comment xml:lang="zh">小乔治·沃尔特·卢卡斯（George Walton Lucas Jr.，1944年5月14日－），是美国的电影导演、制片人和编剧，其最著名的是史诗式作品《星球大战》和《法櫃奇兵》系列（注：编剧）。他的作品《星球大战》在美国人的心目中擁有崇高的地位，也曾经打破美国本土以及世界上多项票房纪录。例如在1977年的《星球大战IV：新希望》全球创下7.7亿美金的票房，成为当时的票房冠军。如果计算与通货膨胀，毛利点仅次于《乱世佳人》，成为历史上第二最卖座的电影。在2004年福布斯杂志估计卢卡斯的个人财富达到30亿美元。</rdfs:comment>
+    <rdfs:comment xml:lang="en">George Walton Lucas, Jr. (born May 14, 1944) is an American film director, screenwriter, producer, and entrepreneur. He founded Lucasfilm and led the company as chairman and chief executive before selling it to The Walt Disney Company on October 30, 2012. He is best known as the creator of the space opera franchise Star Wars and the archaeologist adventurer character Indiana Jones.</rdfs:comment>
+    <rdfs:comment xml:lang="ar">جورج لوكاس (14 مايو 1944 ،موديستو، كاليفورنيا)، مخرج وسيناريست ومنتج اشتهر باخراجه وإنتاجه لفيلم حرب النجوم.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">George Lucas est un réalisateur, scénariste et producteur américain né le 14 mai 1944 à Modesto, en Californie. Il est notamment le créateur des sagas cinématographiques Star Wars et Indiana Jones.</rdfs:comment>
+    <rdfs:comment xml:lang="es">George Walton Lucas, Jr. (14 de mayo de 1944; Modesto, California, Estados Unidos) es un cineasta estadounidense, creador de la exitosa saga fílmica de Star Wars y posteriormente de Indiana Jones, presidente de Lucasfilm, LucasArts Entertainment Company, y Lucas Digital Ltd, Lucas Licensing, LucasBooks y Lucas Learning Ltd.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11857</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">604397838</dbpedia-owl:wikiPageRevisionID>
+    <foaf:surname xml:lang="en">Lucas</foaf:surname>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Campbell">
+    <dbpprop:influenced rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:influenced rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/LucasArts">
+    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:foundedBy rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:keyPerson rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/THX_1138">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:editing rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Shadows_of_the_Empire">
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/6-18-67">
+    <dbpprop:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/From_Star_Wars_to_Jedi:_The_Making_of_a_Saga">
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/American_Graffiti">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones_and_the_Temple_of_Doom">
+    <dbpprop:story rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucasfilm">
+    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:foundedBy rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Mishima:_A_Life_in_Four_Chapters">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/THX">
+    <dbpedia-owl:keyPerson rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Derek_Benz">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/New_Hollywood">
+    <dbpprop:majorfigures rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones_and_the_Tomb_of_the_Gods">
+    <dbpprop:creators rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones_and_the_Spear_of_Destiny">
+    <dbpprop:creators rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/El_Cielo_(album)">
+    <dbpedia-owl:recordedIn rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Willow_(film)">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ewoks:_The_Battle_for_Endor">
+    <dbpprop:story rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucasfilm_Animation">
+    <dbpprop:founder rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:foundedBy rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Freiheit_(film)">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Golden_Idol">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Skywalker_Sound">
+    <dbpprop:keyPeople rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:keyPerson rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Watto">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bedknobs_and_Broomsticks">
+    <dbpprop:screenplay rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbie_(film)">
+    <dbpprop:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Episode_IV:_A_New_Hope_(soundtrack)">
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/J._S._Lewis">
+    <dbpprop:influences rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:influencedBy rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1:42.08">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:editing rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lucas_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Twice_Upon_a_Time_(1983_film)">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/More_American_Graffiti">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:basedOn rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_Star_(novel)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Captain_EO">
+    <dbpprop:customValue rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/GL">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Clone_Wars_(2003_TV_series)">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Droids">
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:executiveProducer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_Ewoks">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:executiveProducer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:executiveProducer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars:_The_Clone_Wars_(2008_TV_series)">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:executiveProducer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_(manga)">
+    <dbpprop:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_live-action_TV_series">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Radioland_Murders">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Oprah_Prime_episodes">
+    <dbpprop:rtitle rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones_and_the_Iron_Phoenix">
+    <dbpprop:creators rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Body_Heat">
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hearts_of_Darkness:_A_Filmmaker's_Apocalypse">
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bald:_The_Making_of_THX_1138">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Electronic_Labyrinth:_THX_1138_4EB">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones_and_the_Kingdom_of_the_Crystal_Skull">
+    <dbpprop:story rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Latino_(film)">
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Young_Indiana_Jones_Chronicles">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:developer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:executiveProducer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:developer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:executiveProducer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Filmmaker_(film)">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:cinematography rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:editing rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_Dawn">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Making_of_Star_Wars">
+    <dbpprop:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:starring rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Emperor_(film)">
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_(season_14)">
+    <dbpprop:guests rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_Jones_(franchise)">
+    <dbpprop:story rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Shadow_Moon_(novel)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jett_Lucas">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Star_Wars_Detours">
+    <dbpprop:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+    <dbpedia-owl:creator rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q38222">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cs.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://el.dbpedia.org/resource/Τζορτζ_Λούκας">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://es.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eu.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://id.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ja.dbpedia.org/resource/ジョージ・ルーカス">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nl.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pl.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pt.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/G_lucas">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Jr._Lucas">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lucas_Jnr">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lucas_Jr.">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Lucus">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_W_Lucas_Jr">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Walton_Lucas">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_Walton_Lucas_Jr.">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_lucas">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gorge_Lucas">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Indiana_(dog)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Katie_lucas">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lucas,_George">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Flanneled_One">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tyger_(actress)">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/George_Lucas">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ko.dbpedia.org/resource/조지_루커스">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://an.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ar.dbpedia.org/resource/جورج_لوكاس">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://arz.dbpedia.org/resource/جورج_لوكاس">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ast.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://az.dbpedia.org/resource/Corc_Lukas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bat_smg.dbpedia.org/resource/Džuordžos_Lokasos">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be.dbpedia.org/resource/Джордж_Лукас">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://be_x_old.dbpedia.org/resource/Джордж_Лукас">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bg.dbpedia.org/resource/Джордж_Лукас">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bn.dbpedia.org/resource/জর্জ_লুকাস">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://br.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://bs.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ca.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://cy.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://da.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://eo.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://et.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fa.dbpedia.org/resource/جورج_لوکاس">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fi.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fo.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fy.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ga.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gd.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://gl.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/ג'ורג'_לוקאס">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hi.dbpedia.org/resource/जॉर्ज_लूकस">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hr.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hu.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hy.dbpedia.org/resource/Ջորջ_Լուկաս">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ilo.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://is.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ka.dbpedia.org/resource/ჯორჯ_ლუკასი">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://la.dbpedia.org/resource/Georgius_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lb.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://li.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://lv.dbpedia.org/resource/Džordžs_Lūkass">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mk.dbpedia.org/resource/Џорџ_Лукас">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ml.dbpedia.org/resource/ജോർജ്ജ്_ലൂക്കാസ്">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mn.dbpedia.org/resource/Жорж_Лукас">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mr.dbpedia.org/resource/जॉर्ज_लुकास">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ms.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://new.dbpedia.org/resource/जर्ज_लुकास">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://nn.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://no.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://oc.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://pms.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ro.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Лукас,_Джордж">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sco.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://simple.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sk.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sl.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sq.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sr.dbpedia.org/resource/Џорџ_Лукас">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sw.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ta.dbpedia.org/resource/ஜோர்ச்_லூகாஸ்">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://th.dbpedia.org/resource/จอร์จ_ลูคัส">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uk.dbpedia.org/resource/Джордж_Лукас">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vi.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://vo.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://war.dbpedia.org/resource/George_Lucas">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/乔治·卢卡斯">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/George_Lucas"/>
+  </rdf:Description>
+</rdf:RDF>

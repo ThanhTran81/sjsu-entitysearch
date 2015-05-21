@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:ns7="http://www.w3.org/ns/prov#" xmlns:dbpprop="http://dbpedia.org/property/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dbpedia-owl="http://dbpedia.org/ontology/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metamorphosis_I">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Oeuvre103841417"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GraphicArt103453809"/>
+    <rdf:type rdf:resource="http://schema.org/CreativeWork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woodcuts"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/EndProduct103287178"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painting103876519"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/WorksByM.C.Escher"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artwork"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Engraving103289268"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1937Paintings"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Print104003597"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Art102743547"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Woodcut104597706"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939"/>
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553"/>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_I"/>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q6823055"/>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.03szsr"/>
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Metamorphosis_I"/>
+    <owl:sameAs rdf:resource="http://tr.dbpedia.org/resource/Metamorfoz_I"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1937_paintings"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Works_by_M._C._Escher"/>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Woodcuts"/>
+    <dbpedia-owl:abstract xml:lang="en">Metamorphosis I is a woodcut print by the Dutch artist M. C. Escher which was first printed in May, 1937. This piece measures 19.5 by 90.8 centimetres ( in ×  in) and is printed on two sheets. The concept of this work is to morph one image into a tessellated pattern, then gradually to alter the outlines of that pattern to become an altogether different image. From left to right, the image begins with a depiction of the coastal Italian town of Atrani. The outlines of the architecture then morph to a pattern of three dimensional blocks. These blocks then slowly become a tessellated pattern of cartoon like figures in oriental attire.</dbpedia-owl:abstract>
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/M._C._Escher"/>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">953341</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">543837308</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="en">Metamorphosis I</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/4/42/Escher,_Metamorphosis_I.jpg"/>
+    <rdfs:comment xml:lang="en">Metamorphosis I is a woodcut print by the Dutch artist M. C. Escher which was first printed in May, 1937. This piece measures 19.5 by 90.8 centimetres ( in ×  in) and is printed on two sheets. The concept of this work is to morph one image into a tessellated pattern, then gradually to alter the outlines of that pattern to become an altogether different image. From left to right, the image begins with a depiction of the coastal Italian town of Atrani.</rdfs:comment>
+    <foaf:name xml:lang="en">Metamorphosis I</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escher,_Metamorphosis_I.jpg/200px-Escher,_Metamorphosis_I.jpg"/>
+    <dbpprop:artist xml:lang="en">M. C. Escher</dbpprop:artist>
+    <dbpprop:heightMetric rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.5</dbpprop:heightMetric>
+    <dbpprop:imageFile xml:lang="en">Escher,_Metamorphosis_I.jpg</dbpprop:imageFile>
+    <dbpprop:metricUnit xml:lang="en">cm</dbpprop:metricUnit>
+    <dbpprop:title xml:lang="en">Metamorphosis I</dbpprop:title>
+    <dbpprop:type rdf:resource="http://dbpedia.org/resource/Woodcut"/>
+    <dbpprop:widthMetric rdf:datatype="http://www.w3.org/2001/XMLSchema#double">90.8</dbpprop:widthMetric>
+    <dbpprop:year rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1937</dbpprop:year>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Metamorphosis_I"/>
+    <ns7:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Metamorphosis_I?oldid=543837308"/>
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metamorphosis_I"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Metamorphosis_(disambiguation)">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/Metamorphosis_I"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Metamorphosis_I">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Metamorphosis_I"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q6823055">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_I"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://tr.dbpedia.org/resource/Metamorfoz_I">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Metamorphosis_I"/>
+  </rdf:Description>
+</rdf:RDF>

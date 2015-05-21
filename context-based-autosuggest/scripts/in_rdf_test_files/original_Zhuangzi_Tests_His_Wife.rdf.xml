@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:prov="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoPermanentlyLocatedEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PsychologicalFeature100023100" />
+    <rdf:type rdf:resource="http://schema.org/Movie" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1913Films" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Event100029378" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Abstraction100002137" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Black-and-whiteFilms" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Product104007894" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Show106619065" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creation103129123" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Movie106613686" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SocialEvent107288639" />
+    <rdf:type rdf:resource="http://schema.org/CreativeWork" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artifact100021939" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Wikidata:Q11424" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#InformationEntity" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Film" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/SilentFilms" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Work" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1910sDramaFilms" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/HongKongFilms" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.02q3c1s" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Zhuangzi_Tests_His_Wife" />
+    <owl:sameAs rdf:resource="http://wikidata.dbpedia.org/resource/Q8071200" />
+    <owl:sameAs rdf:resource="http://sh.dbpedia.org/resource/Zhuangzi_iskušava_svoju_suprugu" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/莊子試妻" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife" />
+    <owl:sameAs rdf:resource="http://wikidata.org/entity/Q8071200" />
+    <rdfs:label>Zhuangzi Tests His Wife</rdfs:label>
+    <rdfs:label xml:lang="zh">莊子試妻</rdfs:label>
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1913_films" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Silent_films" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Black-and-white_films" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Hong_Kong_films" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1910s_drama_films" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Zhuangzi_Tests_His_Wife" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.imdb.com/title/tt0266097/" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://people.cohums.ohio-state.edu/denton2/courses/c505/temp/history/chapter1.html" />
+    <dbpprop:country rdf:resource="http://dbpedia.org/resource/Hong_Kong" />
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Lai_Man-Wai" />
+    <dbpprop:distributor>Huamei</dbpprop:distributor>
+    <dbpprop:imageSize rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">200</dbpprop:imageSize>
+    <dbpprop:name>Zhuangzi Tests His Wife</dbpprop:name>
+    <dbpprop:producer rdf:resource="http://dbpedia.org/resource/Lai_Man-Wai" />
+    <dbpprop:released rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1913</dbpprop:released>
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Lai_Man-Wai" />
+    <foaf:depiction rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/LaiMan-Wai.jpg" />
+    <dbpedia-owl:thumbnail rdf:resource="http://commons.wikimedia.org/wiki/Special:FilePath/LaiMan-Wai.jpg?width=300" />
+    <dbpedia-owl:abstract xml:lang="zh">《莊子試妻》（英文：Chuang Tzu Tests His Wife）&lt;/span&gt;是一部1913年出品的無聲黑白電影，由香港華美影片公司出品，是香港本土最早製作的電影之一。電影由黎北海導演兼飾演莊周，黎民偉編劇兼反串飾演莊子妻，黎民偉的妻子嚴珊珊飾演使女，而此電影讓嚴珊珊成為中國銀幕上的第一位女性演員。此片曾到美國作首映，但從未在香港上映。</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract>Zhuangzi Tests His Wife (Traditional Chinese: 莊子試妻 Zhuangzi shi qi) is a 1913 Hong Kong drama film directed by Li Minwei. It is the first ever feature film in Hong Kong cinema. It also became the first ever Chinese film to be shown abroad, when it was exhibited in the Chinese communities of Los Angeles and San Francisco.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="zh">《莊子試妻》（英文：Chuang Tzu Tests His Wife）是一部1913年出品的無聲黑白電影，由香港華美影片公司出品，是香港本土最早製作的電影之一。電影由黎北海導演兼飾演莊周，黎民偉編劇兼反串飾演莊子妻，黎民偉的妻子嚴珊珊飾演使女，而此電影讓嚴珊珊成為中國銀幕上的第一位女性演員。此片曾到美國作首映，但從未在香港上映。</dbpedia-owl:abstract>
+    <foaf:name>Zhuangzi Tests His Wife</foaf:name>
+    <dbpedia-owl:country rdf:resource="http://dbpedia.org/resource/Hong_Kong" />
+    <dbpedia-owl:director rdf:resource="http://dbpedia.org/resource/Lai_Man-Wai" />
+    <dbpedia-owl:producer rdf:resource="http://dbpedia.org/resource/Lai_Man-Wai" />
+    <dbpedia-owl:writer rdf:resource="http://dbpedia.org/resource/Lai_Man-Wai" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-movie-noun-1" />
+    <prov:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Zhuangzi_Tests_His_Wife?oldid=601146682" />
+    <rdfs:comment xml:lang="zh">《莊子試妻》（英文：Chuang Tzu Tests His Wife）是一部1913年出品的無聲黑白電影，由香港華美影片公司出品，是香港本土最早製作的電影之一。電影由黎北海導演兼飾演莊周，黎民偉編劇兼反串飾演莊子妻，黎民偉的妻子嚴珊珊飾演使女，而此電影讓嚴珊珊成為中國銀幕上的第一位女性演員。此片曾到美國作首映，但從未在香港上映。</rdfs:comment>
+    <rdfs:comment xml:lang="zh">《莊子試妻》（英文：Chuang Tzu Tests His Wife）&lt;/span&gt;是一部1913年出品的無聲黑白電影，由香港華美影片公司出品，是香港本土最早製作的電影之一。電影由黎北海導演兼飾演莊周，黎民偉編劇兼反串飾演莊子妻，黎民偉的妻子嚴珊珊飾演使女，而此電影讓嚴珊珊成為中國銀幕上的第一位女性演員。此片曾到美國作首映，但從未在香港上映。</rdfs:comment>
+    <rdfs:comment>Zhuangzi Tests His Wife (Traditional Chinese: 莊子試妻 Zhuangzi shi qi) is a 1913 Hong Kong drama film directed by Li Minwei. It is the first ever feature film in Hong Kong cinema. It also became the first ever Chinese film to be shown abroad, when it was exhibited in the Chinese communities of Los Angeles and San Francisco.</rdfs:comment>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10147226</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">601146682</dbpedia-owl:wikiPageRevisionID>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Zhuangzi_Tests_His_Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q8071200">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Zhuangzi_Tests_His_Wife">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sh.dbpedia.org/resource/Zhuangzi_iskušava_svoju_suprugu">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/莊子試妻">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,26 @@
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stefano_da_Verona</field>
+<field name="owl_sameAs_resource">http://rdf.freebase.com/ns/m.0gvrpv7</field>
+<field name="owl_sameAs_resource">http://ru.dbpedia.org/resource/Стефано_да_Верона</field>
+<field name="owl_sameAs_resource">http://de.dbpedia.org/resource/Stefano_da_Verona</field>
+<field name="owl_sameAs_resource">http://yago-knowledge.org/resource/Stefano_da_Verona</field>
+<field name="owl_sameAs_resource">http://www.wikidata.org/entity/Q724508</field>
+<field name="owl_sameAs_resource">http://fr.dbpedia.org/resource/Stefano_da_Verona</field>
+<field name="owl_sameAs_resource">http://dbpedia.org/resource/Stefano_da_Verona</field>
+<field name="owl_sameAs_resource">http://it.dbpedia.org/resource/Stefano_da_Verona</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:1370s_births</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:1430s_deaths</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:People_from_Verona</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Gothic_painters</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Italian_painters</field>
+<field name="dbpedia-owl_abstract_text">Stefano da Verona (or da Zevio; c. 1379–c. 1438) was an Italian painter who was active in Verona. He was the son of the French painter Jean d'Arbois, who had come to Italy at the court for Gian Galeazzo Visconti after working for Philip II of Burgundy. He likely apprenticed at Pavia in the workshops of illuminators of the Visconti. He was influenced by Michelino da Besozzo, as it can be seen in the Madonna of the Rose Garden (1420s-1430s), variously attributed to him or Michelino. Before settling in Verona, Stefano worked at Padua. In Verona he executed his major works, such as the Adoration of the Magi (now in the Pinacoteca di Brera), signed and dated 1434. He was a friend of Pisanello, who was in Verona in the same period. Vincenzo di Stefano da Verona was likely a son or pupil. 40x40px Wikimedia Commons has media related to: Stefano da Verona</field>
+<field name="rdfs_label_text">Stefano da Verona</field>
+<field name="rdfs_comment_text">Stefano da Verona (or da Zevio; c. 1379–c. 1438) was an Italian painter who was active in Verona. He was the son of the French painter Jean d'Arbois, who had come to Italy at the court for Gian Galeazzo Visconti after working for Philip II of Burgundy. He likely apprenticed at Pavia in the workshops of illuminators of the Visconti. He was influenced by Michelino da Besozzo, as it can be seen in the Madonna of the Rose Garden (1420s-1430s), variously attributed to him or Michelino.</field>
+<field name="foaf_name_text">Stefano Da Verona</field>
+<field name="dbpprop_name_text">Verona, Stefano Da</field>
+<field name="dbpprop_shortDescription_text">Italian painter</field>
+<field name="foaf_givenName_text">Stefano Da</field>
+<field name="foaf_isPrimaryTopicOf_resource">http://en.wikipedia.org/wiki/Stefano_da_Verona</field>
+<field name="dc_description_text">Italian painter</field>
+<field name="foaf_surname_text">Verona</field>
+</doc>

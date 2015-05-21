@@ -1,0 +1,23 @@
+<doc>
+<field name="uri">http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife</field>
+<field name="owl_sameAs_resource">http://rdf.freebase.com/ns/m.02q3c1s</field>
+<field name="owl_sameAs_resource">http://yago-knowledge.org/resource/Zhuangzi_Tests_His_Wife</field>
+<field name="owl_sameAs_resource">http://wikidata.dbpedia.org/resource/Q8071200</field>
+<field name="owl_sameAs_resource">http://sh.dbpedia.org/resource/Zhuangzi_iskušava_svoju_suprugu</field>
+<field name="owl_sameAs_resource">http://zh.dbpedia.org/resource/莊子試妻</field>
+<field name="owl_sameAs_resource">http://dbpedia.org/resource/Zhuangzi_Tests_His_Wife</field>
+<field name="owl_sameAs_resource">http://wikidata.org/entity/Q8071200</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:1913_films</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Silent_films</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Black-and-white_films</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:Hong_Kong_films</field>
+<field name="dcterms_subject_resource">http://dbpedia.org/resource/Category:1910s_drama_films</field>
+<field name="dbpprop_director_resource">http://dbpedia.org/resource/Lai_Man-Wai</field>
+<field name="dbpprop_producer_resource">http://dbpedia.org/resource/Lai_Man-Wai</field>
+<field name="dbpprop_writer_resource">http://dbpedia.org/resource/Lai_Man-Wai</field>
+<field name="dbpedia-owl_country_resource">http://dbpedia.org/resource/Hong_Kong</field>
+<field name="dbpedia-owl_director_resource">http://dbpedia.org/resource/Lai_Man-Wai</field>
+<field name="dbpedia-owl_producer_resource">http://dbpedia.org/resource/Lai_Man-Wai</field>
+<field name="dbpedia-owl_writer_resource">http://dbpedia.org/resource/Lai_Man-Wai</field>
+<field name="foaf_isPrimaryTopicOf_resource">http://en.wikipedia.org/wiki/Zhuangzi_Tests_His_Wife</field>
+</doc>

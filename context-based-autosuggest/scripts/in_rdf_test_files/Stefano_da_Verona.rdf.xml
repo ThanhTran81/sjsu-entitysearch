@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:ns8="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://it.dbpedia.org/resource/Stefano_da_Verona">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefano_da_Verona">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PhysicalEntity100001930" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Person" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Artist109812338" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Painter110391653" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Person100007846" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/CausalAgent100007347" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Artist" />
+    <rdf:type rdf:resource="http://dbpedia.org/ontology/Agent" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Organism100004475" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActor" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/ItalianPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/LivingThing100004258" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/YagoLegalActorGeo" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Whole100003553" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Object100002684" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/Creator109614315" />
+    <rdf:type rdf:resource="http://schema.org/Person" />
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Thing" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/GothicPainters" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/PeopleFromVerona" />
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gvrpv7" />
+    <owl:sameAs rdf:resource="http://ru.dbpedia.org/resource/Стефано_да_Верона" />
+    <owl:sameAs rdf:resource="http://de.dbpedia.org/resource/Stefano_da_Verona" />
+    <owl:sameAs rdf:resource="http://yago-knowledge.org/resource/Stefano_da_Verona" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q724508" />
+    <owl:sameAs rdf:resource="http://fr.dbpedia.org/resource/Stefano_da_Verona" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+    <owl:sameAs rdf:resource="http://it.dbpedia.org/resource/Stefano_da_Verona" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1370s_births" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1430s_deaths" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:People_from_Verona" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Gothic_painters" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Italian_painters" />
+    <dbpedia-owl:abstract xml:lang="de">Stefano da Verona (* 1374 in Zevio; † um 1450 in Verona; auch Stefano di Giovanni, Stefano da Zevio) war ein italienischer Maler. Stefano wurde in Verona geboren und verbrachte dort den größten Teil seines Lebens. Stefano war einer der ersten, die auf elegante, dekorative und dichterische Art im Stil der Internationalen Gotik malten. Seine Madonna, in einem umschlossenen Garten in Verona, ist von einer unwirklichen Atmosphäre umgeben. Das Bild „Anbetung der Könige“ (1435) gilt als eines seiner wichtigsten Werke und befindet sich in Mailand.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="en">Stefano da Verona (or da Zevio; c. 1379–c. 1438) was an Italian painter who was active in Verona. He was the son of the French painter Jean d&#39;Arbois, who had come to Italy at the court for Gian Galeazzo Visconti after working for Philip II of Burgundy. He likely apprenticed at Pavia in the workshops of illuminators of the Visconti. He was influenced by Michelino da Besozzo, as it can be seen in the Madonna of the Rose Garden (1420s-1430s), variously attributed to him or Michelino. Before settling in Verona, Stefano worked at Padua. In Verona he executed his major works, such as the Adoration of the Magi (now in the Pinacoteca di Brera), signed and dated 1434. He was a friend of Pisanello, who was in Verona in the same period. Vincenzo di Stefano da Verona was likely a son or pupil. 40x40px Wikimedia Commons has media related to: Stefano da Verona</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="ru">Стефано да Верона — итальянский художник, работавший в Вероне в конце XIV — начале XV веков. Является представителем позднеготического направления в живописи, был учителем известного ренессансного художника Антонио Пизанелло. В творчестве Стефано да Верона прослеживается верность готическому символизму и условности передачи бытовых деталей. Академик В. Н. Лазарев отмечает: 		 			Mizhelino da besozzo o stefano da zevio, madonna del roseto, castelvecchio, verona. jpg 			 «Мадонна дель Розето», музей Кастельвеккио 			 		 		 			Stefano da verona, adorazione dei magi, 1435, 47x72 cm, milano, pinacoteca di brera. jpg 			 «Поклонение волхвов», Пинакотека Брера</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="it">Figlio del pittore francese Jean d&#39;Arbois, che era approdato al servizio di Gian Galeazzo Visconti dopo aver lavorato sotto Filippo l&#39;Ardito in Borgogna, ebbe verosimilmente formazione artistica pavese, nell&#39;atelier dei miniatori viscontei. Fu influenzato da Michelino da Besozzo, come rintracciabile in confronti come quello con la Madonna del roseto di Michelino, oggi al Museo di Castelvecchio di Verona ed a lungo attribuita a Stefano. Prima di stabilirsi a Verona visse anche a Padova. Finalmente a Verona si affermò come esponente del gotico internazionale, con opere di grande raffinatezza lineare, come l&#39;Adorazione dei Magi della Pinacoteca di Brera, suo capolavoro della maturità, firmato e datato 1434. L&#39;opera dimostra dimestichezza nel calibrare una composizione affollata, una straordinaria cura nei dettagli e una resa spaziale innaturale e fiabesca. Frequentò il collega Pisanello, negli stessi anni a Verona, e tra i due si notano influenze reciproche.</dbpedia-owl:abstract>
+    <dbpedia-owl:abstract xml:lang="fr">Stefano di Giovanni ou Stefano da Zevio dit Stefano da Verona est un peintre italien de style gothique qui a été actif à Vérone.</dbpedia-owl:abstract>
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31960298</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">541236068</dbpedia-owl:wikiPageRevisionID>
+    <rdfs:label xml:lang="ru">Стефано да Верона</rdfs:label>
+    <rdfs:label xml:lang="it">Stefano da Verona</rdfs:label>
+    <rdfs:label xml:lang="fr">Stefano da Verona</rdfs:label>
+    <rdfs:label xml:lang="de">Stefano da Verona</rdfs:label>
+    <rdfs:label xml:lang="en">Stefano da Verona</rdfs:label>
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/c/cd/Stefano_da_verona,_adorazione_dei_magi,_1435,_47x72_cm,_milano,_pinacoteca_di_brera.jpg" />
+    <rdfs:comment xml:lang="en">Stefano da Verona (or da Zevio; c. 1379–c. 1438) was an Italian painter who was active in Verona. He was the son of the French painter Jean d&#39;Arbois, who had come to Italy at the court for Gian Galeazzo Visconti after working for Philip II of Burgundy. He likely apprenticed at Pavia in the workshops of illuminators of the Visconti. He was influenced by Michelino da Besozzo, as it can be seen in the Madonna of the Rose Garden (1420s-1430s), variously attributed to him or Michelino.</rdfs:comment>
+    <rdfs:comment xml:lang="it">Figlio del pittore francese Jean d&#39;Arbois, che era approdato al servizio di Gian Galeazzo Visconti dopo aver lavorato sotto Filippo l&#39;Ardito in Borgogna, ebbe verosimilmente formazione artistica pavese, nell&#39;atelier dei miniatori viscontei. Fu influenzato da Michelino da Besozzo, come rintracciabile in confronti come quello con la Madonna del roseto di Michelino, oggi al Museo di Castelvecchio di Verona ed a lungo attribuita a Stefano. Prima di stabilirsi a Verona visse anche a Padova.</rdfs:comment>
+    <rdfs:comment xml:lang="de">Stefano da Verona (* 1374 in Zevio; † um 1450 in Verona; auch Stefano di Giovanni, Stefano da Zevio) war ein italienischer Maler. Stefano wurde in Verona geboren und verbrachte dort den größten Teil seines Lebens. Stefano war einer der ersten, die auf elegante, dekorative und dichterische Art im Stil der Internationalen Gotik malten. Seine Madonna, in einem umschlossenen Garten in Verona, ist von einer unwirklichen Atmosphäre umgeben.</rdfs:comment>
+    <rdfs:comment xml:lang="ru">Стефано да Верона — итальянский художник, работавший в Вероне в конце XIV — начале XV веков. Является представителем позднеготического направления в живописи, был учителем известного ренессансного художника Антонио Пизанелло. В творчестве Стефано да Верона прослеживается верность готическому символизму и условности передачи бытовых деталей. Академик В. Н. Лазарев отмечает: 		 			Mizhelino da besozzo o stefano da zevio, madonna del roseto, castelvecchio, verona.</rdfs:comment>
+    <rdfs:comment xml:lang="fr">Stefano di Giovanni ou Stefano da Zevio dit Stefano da Verona est un peintre italien de style gothique qui a été actif à Vérone.</rdfs:comment>
+    <foaf:name xml:lang="en">Stefano Da Verona</foaf:name>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Stefano_da_verona,_adorazione_dei_magi,_1435,_47x72_cm,_milano,_pinacoteca_di_brera.jpg/200px-Stefano_da_verona,_adorazione_dei_magi,_1435,_47x72_cm,_milano,_pinacoteca_di_brera.jpg" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.artcyclopedia.com/artists/stefano_da_verona.html" />
+    <dbpprop:name xml:lang="en">Verona, Stefano Da</dbpprop:name>
+    <dbpprop:shortDescription xml:lang="en">Italian painter</dbpprop:shortDescription>
+    <foaf:givenName xml:lang="en">Stefano Da</foaf:givenName>
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/Stefano_da_Verona" />
+    <dc:description xml:lang="en">Italian painter</dc:description>
+    <ns8:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Stefano_da_Verona?oldid=541236068" />
+    <dbpprop:hasPhotoCollection rdf:resource="http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stefano_da_Verona" />
+    <foaf:surname xml:lang="en">Verona</foaf:surname>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Madonna_of_the_Rose_Garden">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://ru.dbpedia.org/resource/Стефано_да_Верона">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adoration_of_the_Magi_(Stefano_da_Verona)">
+    <dbpedia-owl:author rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+    <dbpprop:artist rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stefano_da_Zevio">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://de.dbpedia.org/resource/Stefano_da_Verona">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://fr.dbpedia.org/resource/Stefano_da_Verona">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/Stefano_da_Verona">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q724508">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Stefano_da_Verona" />
+  </rdf:Description>
+</rdf:RDF>

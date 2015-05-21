@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns6="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/White_Cross_(chemical_warfare)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Xylyl_bromide">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Livens_Projector">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Green_Cross_(chemical_warfare)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gassed_(painting)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bromoacetone">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chloroacetone">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sulfur_mustard">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yellow_Cross_(chemical_warfare)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <owl:sameAs rdf:resource="http://he.dbpedia.org/resource/קטגוריה:לוחמת_גז_במלחמת_העולם_הראשונה" />
+    <owl:sameAs rdf:resource="http://zh.dbpedia.org/resource/Category:第一次世界大战化学武器" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q7829361" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22060635</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546729872</dbpedia-owl:wikiPageRevisionID>
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_warfare" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:World_War_I_weapons" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Chemical_weapons" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Military_equipment_of_World_War_I" />
+    <rdfs:label xml:lang="en">World War I chemical weapons</rdfs:label>
+    <skos:prefLabel xml:lang="en">World War I chemical weapons</skos:prefLabel>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Category:World_War_I_chemical_weapons?oldid=546729872" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chloropicrin">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ethyl_bromoacetate">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Blue_Cross_(chemical_warfare)">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q7829361">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://zh.dbpedia.org/resource/Category:第一次世界大战化学武器">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://he.dbpedia.org/resource/קטגוריה:לוחמת_גז_במלחמת_העולם_הראשונה">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:World_War_I_chemical_weapons" />
+  </rdf:Description>
+</rdf:RDF>

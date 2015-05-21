@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:ns6="http://www.w3.org/ns/prov#" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Panelling">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Wallcoverings">
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+    <owl:sameAs rdf:resource="http://sv.dbpedia.org/resource/Kategori:Tapeter" />
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q8171854" />
+    <dbpedia-owl:wikiPageID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7122990</dbpedia-owl:wikiPageID>
+    <dbpedia-owl:wikiPageRevisionID rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">546944782</dbpedia-owl:wikiPageRevisionID>
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Decorative_arts" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Interior_design" />
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Walls" />
+    <rdfs:label xml:lang="en">Wallcoverings</rdfs:label>
+    <skos:prefLabel xml:lang="en">Wallcoverings</skos:prefLabel>
+    <ns6:wasDerivedFrom rdf:resource="http://en.wikipedia.org/wiki/Category:Wallcoverings?oldid=546944782" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Magnesium_oxide_wallboard">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Scagliola">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Polished_plaster">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lime_render">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Opus_albarium">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Wallpaper_manufacturers">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Frame_and_panel">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stucco">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wall_decal">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plaster">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallpaper_paste">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tadelakt">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Drywall">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Azulejo">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cement_board">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Marmorino">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Anaglypta">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wallpaper">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Murals">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Tapestries">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Graffiti_and_unauthorised_signage">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Painting_techniques">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sgraffito">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fermacell">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cement_render">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lincrusta">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Pargeting">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fireboard">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ingrain_wallpaper">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Plaster_veneer">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zellige">
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://wikidata.dbpedia.org/resource/Q8171854">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://sv.dbpedia.org/resource/Kategori:Tapeter">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/Category:Wallcoverings" />
+  </rdf:Description>
+</rdf:RDF>
